@@ -11,14 +11,14 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Economics, ESPOL, 2015
+* M.S. in Economics, University of Granada, 2017
+* Ph.D in Economics and Finance, University of Rome Tor Vergata, 2021
 
 Work experience
 ======
 * Summer 2015: Research Assistant
-  * Github University
+  * University of Granada
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
@@ -29,12 +29,13 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Computational 
+* Languages
+  * English
+  * Spanish
+  * German
+  * Italian
+* Communication
 
 Publications
 ======
