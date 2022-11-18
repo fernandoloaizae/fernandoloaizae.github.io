@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Economics, ESPOL, 2015
-* M.S. in Economics, University of Granada, 2017
-* Ph.D in Economics and Finance, University of Rome Tor Vergata, 2021
+* B.Sc. in Economics, ESPOL, Ecuador, 2015
+* M.Sc. in Economics, University of Granada, 2017
+* Ph.D. in Economics and Finance, University of Rome Tor Vergata, 2021
 
 Work experience
 ======
