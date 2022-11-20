@@ -5,16 +5,9 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## University of Rome Tor Vergata
-
-Teaching Assistant: Business Statistics in R
+University of Rome Tor Vergata
 ======
-M.Sc. European Economy and Business Law, University of Rome Tor Vergata, Italy, Fall 2018, 2019.
 
-Teaching Assistant: Mathematics 1A
-======
-B.Sc. Business Administration and Economics, University of Rome Tor Vergata, Italy, Fall 2019.
-
-Teaching Assistant: Mathematics 1B
-======
-B.Sc. Business Administration and Economics, University of Rome Tor Vergata, Italy, Fall 2019.
+* TA: Business Statistics in R, M.Sc. European Economy and Business Law, Fall 2018, 2019.
+* TA: Mathematics 1A, B.Sc. Business Administration and Economics, Fall 2019.
+* TA: Mathematics 1B, B.Sc. Business Administration and Economics, Fall 2019.
