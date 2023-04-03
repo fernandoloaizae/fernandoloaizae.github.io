@@ -1,11 +1,11 @@
 ---
 layout: archive
 title: "Research"
-permalink: /Research/
+permalink: /publications/
 author_profile: true
 ---
 
-Working Papera
+Working Papers
 
 Work in Progress
 
