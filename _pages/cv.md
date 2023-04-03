@@ -11,31 +11,37 @@ redirect_from:
 
 Education
 ======
-* B.Sc. in Economics, ESPOL, Ecuador, 2015
-* M.Sc. in Economics, University of Granada, 2017
-* Ph.D. in Economics and Finance, University of Rome Tor Vergata, 2021
+* Ph.D. in Economics and Finance, University of Rome Tor Vergata, Italy, 2017 - 2021
+* M.Sc. in Economics, University of Granada, Spain, 2016 - 2017
+* B.Sc. in Economics, ESPOL, Ecuador, 2010 - 2015
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * University of Granada
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Postdoctoral Researcher, Munich Research Institute for the Economics of Aging and SHARE Analyses, Germany, 2023 - Present
+
+* Postdoctoral Researcher, Max Planck Institute for Social Law and Social Policy, Germany, 2021 - 2022
+
+* Doctoral Researcher, University of Rome Tor Vergata, Italy, 2017 - 2021
+
 Skills
 ======
 * Computational 
+  * Stata
+  * Python
+  * R
+  * Matlab
+  
 * Languages
   * English
   * Spanish
-  * German
-  * Italian
-* Communication
+  * German (A2)
+  * Italian (A2)
+  
+* Tools
+  * Github
+  * LaTex  
 
 Publications
 ======
