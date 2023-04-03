@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "TA: Mathematics"
 collection: teaching
-type: "Undergraduate course"
+type: "B.Sc. Business Administration and Economics"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "University of Rome Tor Vergata"
+date: 2019
+location: "Rome, Italy"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
