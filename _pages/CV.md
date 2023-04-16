@@ -1,16 +1,16 @@
 ---
 layout: page
-title: Curriculum Vitae
+title: CV
 ---
 
-![](/public/images/sunrise760-285.jpg)
+![](/public/images/ricardo-arce.jpg)
 
 My full CV is available as [pdf](http://fernandoloaizae.github.io/public/CV_Loaiza.pdf).
 
 | | |
 | ----------- | ------------- |
-| 2018 &ndash; |  **Ecological Statistician** |
-|  | *British Trust for Ornithology* |
+| 2018 &ndash; |  **Postdoctoral Economist** |
+|  | *MPI* |
 | 2017 &ndash; |  **Courtesy Research Faculty** |
 |  | *Department of Geography, University of Florida* |
 | 2016 &ndash; 2018|  **Postdoctoral Associate** |
@@ -29,9 +29,4 @@ My full CV is available as [pdf](http://fernandoloaizae.github.io/public/CV_Loai
 ||*Global Ocean Commission, Oxford*|
 |2009 &ndash; 2013| **Postgraduate Research Student**|
 ||*Scottish Oceans Institute, University of St Andrews*|
-|2010|**Master of Research in Environmental Biology**|
-||*Universities of St Andrews and Dundee*|
-|2008|**Vordiplom in Chemistry, Certificates in Biochemistry and Zoology**|
-||*Universit&auml;t Marburg, Germany*|
-|2005|**Field Assistant and Bird Warden**|
-||*Wadden Sea National Park of Lower Saxony, Germany*|
+
