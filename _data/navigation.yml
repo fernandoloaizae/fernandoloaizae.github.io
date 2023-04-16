@@ -9,4 +9,4 @@ main:
   - title: "CV"
     url: /_pages/CV
   - title: "Contact"
-    url: /sitemap/
+    url: /_pages/contact
