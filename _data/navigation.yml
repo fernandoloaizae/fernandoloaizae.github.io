@@ -10,5 +10,7 @@ main:
     url: /_pages/publications
   - title: "CV"
     url: /_pages/CV
+  - title: "Blog"
+    url: /_pages/CV    
   - title: "Contact"
     url: /_pages/contact
