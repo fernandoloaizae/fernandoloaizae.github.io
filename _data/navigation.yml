@@ -7,6 +7,6 @@ main:
   - title: "Research"
     url: /_pages/research
   - title: "CV"
-    url: /collection-archive/
+    url: /_pages/CV
   - title: "Contact"
     url: /sitemap/
