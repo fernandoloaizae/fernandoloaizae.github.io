@@ -4,7 +4,6 @@ title: Teaching
 ---
 I have developed and taught modules and courses in economics. 
 
- [B.Sc. Business Administration and Economics](https://economia.uniroma2.it/ba/business-administration-economics/).
 
 ### Finance and Growth (2020, 2021, 2022)
 [M.Sc. Economia dei Mercati e degli Intermediari Finanziari](https://economia.uniroma2.it/cdl/biennio/clemif/), University of Rome Tor Vergata, Italy.
