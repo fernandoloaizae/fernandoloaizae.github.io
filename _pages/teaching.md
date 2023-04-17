@@ -40,13 +40,9 @@ I have developed and taught modules and courses in economics.
 
 ### Additional Teaching
 
-<ul style="font-size: 18px; color: #FFF; font-family: Arial, sans-serif;">
-  <li>Economic growth models</li>
-  <li>Financial development and economic growth</li>
-  <li>Financial markets, growth, and income distribution</li>
-  <li>Institutions and unified growth theory</li>
-  <li>Empirical analysis of economic growth</li>
-</ul>
+Primary School Teacher (2016)
+Unidad Educativa San José La Salle Guayaquil, Ecuador.
+
 
 
 
