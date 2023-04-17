@@ -6,20 +6,21 @@ I have developed and taught modules and courses in economics.
 
 To this end, I have been involved in the [Carpentries](https://software-carpentry.org/).
 
-## Recent Teaching 
+### Finance and Growth (2020, 2021, 2022)
 
-### Finance and Growth
-[Slides](http://pboesu.github.io/public/grad_skills_2017_data_management.pdf) 
+### Business Statistics in R  (2018, 2019)
 
-### Business Statistics in R  
-[R Introduction Notes](http://pboesu.github.io/r-intro-biometry)  
+### Mathematics (2019)
 
-### Mathematics
-[R Introduction Notes](http://pboesu.github.io/r-intro-biometry)  
 
-### Other R Resources
-[Base R cheatsheet](https://www.rstudio.com/wp-content/uploads/2016/10/r-cheat-sheet-3.pdf)  
-[Sizing base plots](https://www.rstudio.com/wp-content/uploads/2016/10/how-big-is-your-graph.pdf)  
-[RMarkdown cheatsheet](https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf)
-[Quick-R](http://www.statmethods.net/index.html)  
+
+### Additional Teaching
+
+<ul>
+  <li>First bullet point</li>
+  <li>Second bullet point</li>
+  <li>Third bullet point</li>
+</ul>
+
+
 
