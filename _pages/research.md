@@ -31,7 +31,7 @@ Mancini et al. (2022) [An introduction to model-based data integration for biodi
 
 ### Albatrosses, petrels, gulls
 <table style="width:80%"><tr><td>
-<img class="img-research" src="http://leah.johnson-gramacy.com/albatross/wp-content/gallery/at-sea/JC66-800px-wm-2573.jpg"> I am using a combination of mathematical and statistical models and several decades of observational data to understand the factors affecting the population dynamics of various flying seabirds by studying their bioenergetics and foraging movements. 
+ I am using a combination of mathematical and statistical models and several decades of observational data to understand the factors affecting the population dynamics of various flying seabirds by studying their bioenergetics and foraging movements. 
 </td></tr></table>
 
 
