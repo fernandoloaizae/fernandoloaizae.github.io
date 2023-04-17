@@ -12,6 +12,12 @@ To this end, I have been involved in the [Carpentries](https://software-carpentr
 
 ### Mathematics (2019)
 
+<ul style="font-size: 18px; color: #333; font-family: Arial, sans-serif;">
+  <li style="margin-bottom: 10px;">First bullet point</li>
+  <li style="margin-bottom: 10px;">Second bullet point</li>
+  <li style="margin-bottom: 10px;">Third bullet point</li>
+</ul>
+
 
 
 ### Additional Teaching
