@@ -3,7 +3,7 @@ layout: page
 title: CV
 ---
 
-![](/public/images/ricardo-arce.jpg)
+![](/public/images/patrick-tomasso.jpg)
 
 My full CV is available as [pdf](http://fernandoloaizae.github.io/public/CV_Loaiza.pdf).
 
