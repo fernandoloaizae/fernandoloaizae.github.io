@@ -3,7 +3,6 @@ layout: page
 title: 
 ---
 
-<img class="img-wide" src="/public/images/ricardo-arce.jpg"><br>
 
 I try to understand the economic inequality.
 
