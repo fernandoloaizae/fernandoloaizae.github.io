@@ -1,20 +1,17 @@
 ---
-title: "Teaching experience 1"
+title: "Finance and Growth"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "M.Sc. Economia dei Mercati e degli Intermediari Finanziari"
+permalink: /teaching/finance_growth
+venue: "University of Rome Tor Vergata"
+date: 2020, 2021, 2022
+location: "Rome, Italy"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+The course analyzes the role of financial markets for economic growth.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+* Economic growth models
+* Financial development and economic growth
+* Financial markets, growth, and income distribution
+* Institutions and unified growth theory
+* Empirical analysis of economic growth
