@@ -1,20 +1,20 @@
 ---
-title: "Teaching experience 2"
+title: "T.A. Business Statistics in R"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "M.Sc. European Economy and Business Law"
+permalink: /teaching/business_statistics
+venue: "University of Rome Tor Vergata"
+date: 2019-01-01
+location: "Rome, Italy"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Teaching Assitant 2018, 2019
 
-Heading 1
-======
+## Tommaso Proietti (Full Professor - Lecturer in charge)
 
-Heading 2
-======
+The course provides an introduction to Statistical Learning and Data Mining.
 
-Heading 3
-======
+* Linear regression, model evaluation, principal component analysis
+* Lasso, ridge regression, logistic regression
+* Smoothing, splines, kernel smoothing, local polynomial
+* Nearest neighbors, naive Bayes, additive models, regression trees
