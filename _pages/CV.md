@@ -1,9 +1,7 @@
 ---
 layout: page
 title: CV
-classes:
-  - landing
-  - air-theme
+classes: wide
 ---
 
 ![](/public/images/patrick-tomasso.jpg)
