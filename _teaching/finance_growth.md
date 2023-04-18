@@ -1,5 +1,5 @@
 ---
-title: "Finance and Growth"
+title: "T.A. Finance and Growth"
 collection: teaching
 type: "M.Sc. Economia dei Mercati e degli Intermediari Finanziari"
 permalink: /teaching/finance_growth
@@ -8,7 +8,11 @@ date: 2020, 2021, 2022
 location: "Rome, Italy"
 ---
 
-The course analyzes the role of financial markets for economic growth.
+# Finance and Growth
+
+## Pasquale Scaramozzino (Full Professor - Lecturer in charge)
+
+#### The course analyzes the role of financial markets for economic growth.
 
 * Economic growth models
 * Financial development and economic growth
