@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publications etc.
+title: Publications
 submenu:
   - { hook: "Papers", title: "Papers" }
   - { href: "/software", title: "Software" }

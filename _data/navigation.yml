@@ -2,17 +2,14 @@
 main:
   - title: "About"
     url: /_pages/about
-  - title: "Teaching"
-    url: /_pages/teaching
   - title: "Research"
     url: /_pages/research    
-  - title: "Publications"
-    url: /_pages/publications
   - title: "CV"
     url: /_pages/CV
+  - title: "Teaching"
+    url: /_pages/teaching    
   - title: "Blog"
     url: /_pages/CV    
   - title: "Contact"
     url: /_pages/contact
-  - title: "New"
-    url: /_pages/new    
+  
