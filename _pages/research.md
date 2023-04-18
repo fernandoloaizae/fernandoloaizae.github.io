@@ -4,7 +4,6 @@ title: Research Projects
 submenu:
   - { hook: "bto", title: "Economic Inequality" }
   - { hook: "albatross", title: "Long-Term Care" }
-
 ---
 
 ## Economics Inequality <a name="bto">&nbsp;</a>
@@ -13,9 +12,9 @@ Wealth inequality and intergenerational mobility can help us understand the exte
 </td></tr></table>
 
 **Working Papers:**    
-[Racial/Ethnic Diversity among Nursing Home Residents Minorities: Impact of the Affordable Care Act Medicaid Expansion](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4342689)    <br>
-[The Right of Self-Defense: Who is a Threat?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4342111) with Alessio Muscarnera  <br> 
-[Interplay of Public and Private Educational Spending: Macroeconomic Implications](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4350825)<br>
+<strong>Racial/Ethnic Diversity among Nursing Home Residents Minorities: Impact of the Affordable Care Act Medicaid Expansion</strong> [Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4342689)    <br>
+<strong>The Right of Self-Defense: Who is a Threat? with Alessio Muscarnera</strong> [Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4342111)<br> 
+<strong>Interplay of Public and Private Educational Spending: Macroeconomic Implications</strong> [Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4350825)<br>
 
 **Current Research:**    
 Life Cycle Implications of Schooling on Financial Assets
