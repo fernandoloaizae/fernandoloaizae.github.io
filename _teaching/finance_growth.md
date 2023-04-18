@@ -4,7 +4,7 @@ collection: teaching
 type: "M.Sc. Economia dei Mercati e degli Intermediari Finanziari"
 permalink: /teaching/finance_growth
 venue: "University of Rome Tor Vergata"
-date: 
+date: 2023
 location: "Rome, Italy"
 ---
 
