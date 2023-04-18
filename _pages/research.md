@@ -2,19 +2,19 @@
 layout: page
 title: Research Projects
 submenu:
-  - { hook: "bto", title: "Citizen Science" }
-  - { hook: "albatross", title: "Seabirds" }
+  - { hook: "bto", title: "Economic Inequality" }
+  - { hook: "albatross", title: "Long-Term Care" }
 
 ---
 
 ## Economics Inequality <a name="bto">&nbsp;</a>
 <table style="width:80%"><tr><td>
-The <a href="http://www.bto.org">British Trust for Ornithology</a> combines professional field ornithology and a network of over 60,000 volunteers to monitor change in the environment. I am part of the scientific team analysing these rich datasets which deliver the information used to plan and assess conservation action, and to inform decision-making processes for the benefits of society, wildlife and the natural world. I am also involved in research towards new and improved statistical methods for citizen science data sets.
+Wealth inequality and intergenerational mobility can help us understand the extent to which our society provides equal opportunities for all individuals, while investment in human capital can shed light on the factors that determine an individual's success in the labor market. These topics have significant implications for public policy and decision-making, and understanding them can lead to more effective interventions to promote social mobility and economic growth. Ultimately, research in these areas can help us create a more equitable and prosperous society for everyone.
 </td></tr></table>
 
 **Working Papers:**    
- [Racial/Ethnic Diversity among Nursing Home Residents Minorities: Impact of the Affordable Care Act Medicaid Expansion](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4342689)    <br>
- [The Right of Self-Defense: Who is a Threat?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4342111) with Alessio Muscarnera  <br> 
+[Racial/Ethnic Diversity among Nursing Home Residents Minorities: Impact of the Affordable Care Act Medicaid Expansion](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4342689)    <br>
+[The Right of Self-Defense: Who is a Threat?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4342111) with Alessio Muscarnera  <br> 
 [Interplay of Public and Private Educational Spending: Macroeconomic Implications](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4350825)<br>
 
 **Current Research:**    
