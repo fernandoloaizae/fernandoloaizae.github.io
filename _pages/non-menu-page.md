@@ -9,17 +9,13 @@ redirect_from:
 ---
 
 
-Contact Information
-======
 
+Fernando Loaiza, Ph.D. <br/>
+Postdoctoral Researcher   <br/>
+Max Planck Institute for Social Law and Social Policy <br/>
+Amalienstrasse 33, 80799, Munich  <br/>
+Germany  <br/>
+ 
 
-Fernando Loaiza, Ph.D.
-Postdoctoral Researcher  
-Max Planck Institute for Social Law and Social Policy
-Amalienstrasse 33, 80799, Munich 
-Germany 
+Email: [loaiza@mea.mpisoc.mpg.de](mailto:loaiza@mea.mpisoc.mpg.de)
 
-
-[loaiza@mea.mpisoc.mpg.de](mailto:loaiza@mea.mpisoc.mpg.de)
-
-[@fernandoloaizae](https://twitter.com/fernandoloaizae)
