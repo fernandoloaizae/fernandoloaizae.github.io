@@ -9,20 +9,21 @@ redirect_from:
 
 {% include base_path %}
 
+My full CV is available as [pdf](http://fernandoloaizae.github.io/files/paper1.pdf).
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Economics and Finance, University of Rome Tor Vergata, 2021
+* M.S. in Econimcs, University of Granada, 2017
+* B.S. in Economics, Escuela Superior Politecnica del Litoral, 2015
 
 Work experience
 ======
-* Summer 2015: Research Assistant
+* Postdoctoral Researcher
   * Github University
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
+* External Research Associate
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
@@ -54,6 +55,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
