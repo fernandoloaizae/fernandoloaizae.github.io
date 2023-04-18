@@ -18,8 +18,9 @@ Wealth inequality and intergenerational mobility can help us understand the exte
 [Interplay of Public and Private Educational Spending: Macroeconomic Implications](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4350825)<br>
 
 **Current Research:**    
-[Evaluating terrestrial bird trends for Welsh Statement Areas](https://data.jncc.gov.uk/data/39254c2d-37e7-46d9-ae63-4739228e1b0d/jncc-report-716.pdf)    
-[An introduction to model-based data integration for biodiversity assessments](https://data.jncc.gov.uk/data/1c774649-3cf8-4964-bf38-443a12accd09/introduction-to-model-based-data-integration.pdf)    
-
-
+Life Cycle Implications of Schooling on Financial Assets
+The Effects of Education on Wealth Inequality over the Life Cycle
+OLG Model with Health and Long-Term Care Insurance for Inclusive Growth
+Motives for Saving in Retirement: Bequest and Long-Term Care
+Racial/Ethnic Preferences between Formal or Informal Care after the Medicaid Expansion
 
