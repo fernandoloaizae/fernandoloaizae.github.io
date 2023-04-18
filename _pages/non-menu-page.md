@@ -8,10 +8,18 @@ redirect_from:
   - "/nmp.html"
 ---
 
-This is a page not in the menu. You can use markdown in this page.
 
-Heading 1
+Contact Information
 ======
 
-Heading 2
-======
+
+Fernando Loaiza, Ph.D.
+Postdoctoral Researcher  
+Max Planck Institute for Social Law and Social Policy
+Amalienstrasse 33, 80799, Munich 
+Germany 
+
+
+[loaiza@mea.mpisoc.mpg.de](mailto:loaiza@mea.mpisoc.mpg.de)
+
+[@fernandoloaizae](https://twitter.com/fernandoloaizae)
