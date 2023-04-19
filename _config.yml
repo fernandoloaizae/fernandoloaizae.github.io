@@ -84,7 +84,7 @@ author:
   avatar           : "Loaiza_1.jpg"
   bio              : "Postdoctoral Researcher"
   location         : "Munich, DE"
-  employer         : "Max Planck Institute for Social Law and Social Policy"
+  employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=jiK3ZVAAAAAJ&hl=en"
   email            : "loaiza@mea.mpisoc.mpg.de"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "www.linkedin.com/in/fernandoloaizae"
   orcid            : "https://orcid.org/0000-0002-1428-6682"
   pinterest        :
   soundcloud       :
