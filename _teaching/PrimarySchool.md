@@ -1,5 +1,5 @@
 ---
-title: "Teacher"
+title: "Primary School Teacher"
 collection: teaching
 type: "Primary School"
 permalink: /teaching/PrimarySchool
