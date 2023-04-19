@@ -19,21 +19,29 @@ Education
 
 Work experience
 ======
-* Postdoctoral Researcher
-  * Github University
-  * Duties included: Tagging issues
 
-* External Research Associate
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Postdoctoral Researcher, 06/2021 - Now
+
+* External Research Associate 03/2021 - Now
+
   
 Research
 ======
+
+## Working Papers
+
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+ 
+## Current Research
+
+* The Effects of Education on Wealth Inequality over the Life Cycle
+* Life Cycle Implications of Schooling on Financial Assets
+* OLG Model with Health and Long-Term Care Insurance for Inclusive Growth
+* Motives for Saving in Retirement: Bequest and Long-Term Care
+* Effects of the Medicaid Expansion on Formal and Informal Care Usage of Minorities
+
   
 Teaching
 ======
