@@ -5,7 +5,7 @@ permalink: /publication/Public_Private
 excerpt: 'This paper investigates the implications of the collaboration between public and private human capital investments on GDP per capita and income inequality.'
 date: 2022-01-24
 venue: 'SSRN'
-paperurl: 'http://fernandoloaizae.github.io/files/paper3.pdf'
+paperurl: ''
 citation: 'Loaiza, Fernando. (2022). &quot;Interplay of Public and Private Educational Spending: Macroeconomic Implications.&quot;.'
 ---
 
