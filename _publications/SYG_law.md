@@ -6,7 +6,7 @@ excerpt: 'This paper investigates whether the extension of the right of self-def
 date: 2023-01-29
 venue: 'SSRN'
 paperurl: 'http://fernandoloaizae.github.io/files/paper3.pdf'
-citation: 'Loaiza, Fernando and Muscarnera, Alessio. (2023). &quot;The Right of Self-Defense: Who is a Threat?.&quot; <i>Journal 1</i>.'
+citation: 'Loaiza, Fernando and Muscarnera, Alessio. (2023). &quot;The Right of Self-Defense: Who is a Threat?.&quot;.'
 ---
 
 ## Abstract
