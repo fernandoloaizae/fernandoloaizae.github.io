@@ -6,7 +6,7 @@ excerpt: 'This paper explores the causal link between education and wealth accum
 date: 2023-09-29
 venue: ''
 paperurl: ''
-citation: 'Loaiza, Fernando (2023). &quot;The Effects of Education on Wealth Inequality over the Life Cycle.&quot;.'
+citation: 'Loaiza, Fernando (2023). &quot;The Effects of Education on Wealth Inequality over the Life Cycle&quot;.'
 ---
 
 ## Abstract
