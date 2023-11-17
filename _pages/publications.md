@@ -19,8 +19,5 @@ author_profile: true
 
 ## Current Research
 
-* The Effects of Education on Wealth Inequality over the Life Cycle
 * Life Cycle Implications of Schooling on Financial Assets
-* OLG Model with Health and Long-Term Care Insurance for Inclusive Growth
-* Motives for Saving in Retirement: Bequest and Long-Term Care
-* Effects of the Medicaid Expansion on Formal and Informal Care Usage of Minorities
+* Macroeconomic Implications of the Care Wave (with Börsch-Supan, A.)
