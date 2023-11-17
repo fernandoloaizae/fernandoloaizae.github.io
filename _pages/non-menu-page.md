@@ -12,8 +12,8 @@ redirect_from:
 
 Fernando Loaiza, Ph.D. <br/>
 Postdoctoral Researcher   <br/>
-Max Planck Institute for Social Law and Social Policy <br/>
-Amalienstrasse 33, 80799, Munich  <br/>
+Munich Research Institute for the Economics of Aging and SHARE Analyses <br/>
+Leopoldstraße 139, 80804, Munich <br/>
 Germany  <br/>
 
 
