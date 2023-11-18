@@ -15,5 +15,3 @@ This paper investigates whether the extension of the right of self-defense outsi
 
 [Download SSRN Working Paper here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4342111)
 
-Recommended citation:
-Loaiza, Fernando and Muscarnera, Alessio, The Right of Self-Defense: Who is a Threat?. Available at SSRN: https://ssrn.com/abstract=4342111 or http://dx.doi.org/10.2139/ssrn.4342111

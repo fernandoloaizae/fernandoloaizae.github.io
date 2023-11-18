@@ -15,5 +15,3 @@ The Affordable Care Act (ACA), enacted in 2010 is an essential milestone for imp
 
 [Download SSRN Working Paper here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4342689)
 
-Recommended citation:
-Loaiza, Fernando, Racial/Ethnic Diversity among Nursing Home Residents Minorities: Impact of the Affordable Care Act Medicaid Expansion (October 3, 2022). Available at SSRN: https://ssrn.com/abstract=4342689 or http://dx.doi.org/10.2139/ssrn.4342689

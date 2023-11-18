@@ -15,5 +15,3 @@ This paper investigates the implications of the collaboration between public and
 
 [Download SSRN Working Paper here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4350825)
 
-Recommended citation:
-Loaiza, Fernando, Interplay of Public and Private Educational Spending: Macroeconomic Implications (January 24, 2022). Available at SSRN: https://ssrn.com/abstract=4350825 or http://dx.doi.org/10.2139/ssrn.4350825
