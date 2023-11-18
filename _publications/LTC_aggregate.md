@@ -6,7 +6,7 @@ excerpt: 'This article explores the effects of the Medicaid expansion on the rac
 date: 2022-10-03
 venue: 'SSRN'
 paperurl: 'http://fernandoloaizae.github.io/files/LTC_Loaiza.pdf'
-citation: 'Loaiza, Fernando. (2022). &quot;Racial/Ethnic Diversity among Nursing Home Residents Minorities: Impact of the Affordable Care Act Medicaid Expansion.&quot; .'
+citation: 'Loaiza, Fernando. (2022). &quot;Racial/Ethnic Diversity among Nursing Home Residents Minorities: Impact of the Affordable Care Act Medicaid Expansion&quot; .'
 ---
 
 ## Abstract
