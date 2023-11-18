@@ -2,7 +2,7 @@
 title: "Racial/Ethnic Diversity among Nursing Home Residents Minorities: Impact of the Affordable Care Act Medicaid Expansion"
 collection: publications
 permalink: /publication/LTC_aggregate
-excerpt: 'This article explores the effects of the Medicaid expansion on the racial diversity of the admissions of nursing home residents in the US.'
+excerpt: ''
 date: 2022-10-03
 venue: 'SSRN'
 paperurl: ''

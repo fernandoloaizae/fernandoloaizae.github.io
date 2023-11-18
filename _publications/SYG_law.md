@@ -2,7 +2,7 @@
 title: "The Right of Self-Defense: Who is a Threat?"
 collection: paper
 permalink: /publication/SYG_law
-excerpt: 'This paper investigates whether the extension of the right of self-defense outside private property affects crime-related outcomes.'
+excerpt: ''
 date: 2023-01-29
 venue: 'SSRN'
 paperurl: ''
