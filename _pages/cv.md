@@ -21,13 +21,9 @@ Work experience
 ======
 
 * Postdoctoral Researcher, Munich Research Institute for the Economics of Aging and SHARE Analyses, 2023 - Now
-
 * Guest Researcher, Max Planck Institute for Social Law and Social Policy, 2023 - Now
-
 * External Research Associate 2021 - 2023
-
 * Postdoctoral Researcher, Max Planck Institute for Social Law and Social Policy, 2021 - 2022
-
 * Researcher, University of Rome Tor Vergata, 2017 - 2021
 
   
