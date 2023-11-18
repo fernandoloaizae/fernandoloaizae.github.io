@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/Public_Private
 excerpt: ''
 date: 2022-01-24
-venue: ''
+venue: 'SSRN'
 paperurl: ''
 citation: 'Loaiza, Fernando. (2022). &quot;Interplay of Public and Private Educational Spending: Macroeconomic Implications&quot;.'
 ---
