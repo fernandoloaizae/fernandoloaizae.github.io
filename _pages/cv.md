@@ -20,9 +20,15 @@ Education
 Work experience
 ======
 
-* Postdoctoral Researcher, 06/2021 - Now
+* Postdoctoral Researcher, Munich Research Institute for the Economics of Aging and SHARE Analyses, 2023 - Now
 
-* External Research Associate 03/2021 - Now
+* Guest Researcher, Max Planck Institute for Social Law and Social Policy, 2023 - Now
+
+* External Research Associate 2021 - 2023
+
+* Postdoctoral Researcher, Max Planck Institute for Social Law and Social Policy, 2021 - 2022
+
+* Researcher, University of Rome Tor Vergata, 2017 - 2021
 
   
 Research
@@ -36,11 +42,8 @@ Research
  
 ## Current Research
 
-* The Effects of Education on Wealth Inequality over the Life Cycle
 * Life Cycle Implications of Schooling on Financial Assets
-* OLG Model with Health and Long-Term Care Insurance for Inclusive Growth
-* Motives for Saving in Retirement: Bequest and Long-Term Care
-* Effects of the Medicaid Expansion on Formal and Informal Care Usage of Minorities
+* Macroeconomic Implications of the Care Wave
 
   
 Teaching
