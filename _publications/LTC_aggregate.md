@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/LTC_aggregate
 excerpt: ''
 date: 2022-10-03
-venue: 'SSRN'
+venue: ''
 paperurl: ''
 citation: 'Loaiza, Fernando. (2022). &quot;Racial/Ethnic Diversity among Nursing Home Residents Minorities: Impact of the Affordable Care Act Medicaid Expansion&quot; .'
 ---

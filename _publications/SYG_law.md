@@ -4,7 +4,7 @@ collection: paper
 permalink: /publication/SYG_law
 excerpt: ''
 date: 2023-01-29
-venue: 'SSRN'
+venue: ''
 paperurl: ''
 citation: 'Loaiza, Fernando and Muscarnera, Alessio. (2023). &quot;The Right of Self-Defense: Who is a Threat?&quot;.'
 ---
