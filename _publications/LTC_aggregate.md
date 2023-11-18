@@ -5,7 +5,7 @@ permalink: /publication/LTC_aggregate
 excerpt: 'This article explores the effects of the Medicaid expansion on the racial diversity of the admissions of nursing home residents in the US.'
 date: 2022-10-03
 venue: 'SSRN'
-paperurl: 'http://fernandoloaizae.github.io/files/LTC_Loaiza.pdf'
+paperurl: ''
 citation: 'Loaiza, Fernando. (2022). &quot;Racial/Ethnic Diversity among Nursing Home Residents Minorities: Impact of the Affordable Care Act Medicaid Expansion&quot; .'
 ---
 
