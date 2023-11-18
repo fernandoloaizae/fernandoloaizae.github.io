@@ -2,7 +2,7 @@
 title: "Interplay of Public and Private Educational Spending: Macroeconomic Implications"
 collection: publications
 permalink: /publication/Public_Private
-excerpt: 'This paper investigates the implications of the collaboration between public and private human capital investments on GDP per capita and income inequality.'
+excerpt: ''
 date: 2022-01-24
 venue: 'SSRN'
 paperurl: ''
