@@ -6,7 +6,7 @@ excerpt: 'This paper investigates the implications of the collaboration between 
 date: 2022-01-24
 venue: 'SSRN'
 paperurl: ''
-citation: 'Loaiza, Fernando. (2022). &quot;Interplay of Public and Private Educational Spending: Macroeconomic Implications.&quot;.'
+citation: 'Loaiza, Fernando. (2022). &quot;Interplay of Public and Private Educational Spending: Macroeconomic Implications&quot;.'
 ---
 
 ## Abstract
