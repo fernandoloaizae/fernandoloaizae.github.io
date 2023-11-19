@@ -8,9 +8,9 @@ date: 2019-01-01
 location: "Rome, Italy"
 ---
 
-Teaching Assitant 2018, 2019
+Teaching Assistant 2018, 2019
 
-## Tommaso Proietti (Full Professor - Lecturer in charge)
+## Tommaso Proietti, Ph.D. (Full Professor - Lecturer in charge)
 
 The course provides an introduction to Statistical Learning and Data Mining.
 

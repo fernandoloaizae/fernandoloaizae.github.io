@@ -8,9 +8,9 @@ date: 2023-01-01
 location: "Rome, Italy"
 ---
 
-Teaching Assitant 2020, 2021, 2022
+Teaching Assistant 2020, 2021, 2022
 
-## Pasquale Scaramozzino (Full Professor - Lecturer in charge)
+## Pasquale Scaramozzino, Ph.D. (Full Professor - Lecturer in charge)
 
 The course analyzes the role of financial markets for economic growth.
 

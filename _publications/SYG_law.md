@@ -6,7 +6,7 @@ excerpt: ''
 date: 2023-01-29
 venue: 'SSRN'
 paperurl: ''
-citation: 'Loaiza, Fernando and Muscarnera, Alessio. (2023). &quot;The Right of Self-Defense: Who is a Threat?&quot;.'
+citation: 'Loaiza, F. and Muscarnera, A. (2023). &quot;The Right of Self-Defense: Who is a Threat?&quot;.'
 ---
 
 ## Abstract

@@ -8,9 +8,9 @@ date: 2019-01-01
 location: "Rome, Italy"
 ---
 
-Teaching Assitant 2019
+Teaching Assistant 2019
 
-## Davide Erminio Pirino (Associate Professor - Lecturer in charge)
+## Davide Erminio Pirino, Ph.D. (Associate Professor - Lecturer in charge)
 
 
 The course provides the main concepts of mathematical analysis, starting from the foundations of topology.
