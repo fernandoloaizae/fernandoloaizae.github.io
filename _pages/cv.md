@@ -30,7 +30,7 @@ Research
 
 ## Job Market Paper
 
-### The Effects of Education on Wealth Inequality over the Life Cycle. [PDF](https://fernandoloaizae.github.io/files/Loaiza_JMP23.pdf)
+### The Effects of Education on Wealth Inequality over the Life Cycle. [(PDF)](https://fernandoloaizae.github.io/files/Loaiza_JMP23.pdf)
 
 ## Working Papers
   <ul>{% for post in site.publications %}
