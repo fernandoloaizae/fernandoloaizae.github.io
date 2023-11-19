@@ -47,3 +47,12 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+References
+======
+* [Axel Börsch-Supan, Ph.D.](https://www.mpg.de/1040232/sozialrecht-sozialpolitik-boersch-supan), Professor Emeritus in Economics
+
+* [Pasquale Scaramozzino, Ph.D.](https://economia.uniroma2.it/faculty/229/scaramozzino-pasquale), Professor in Economics
+
+* [Matthias Kredler, Ph.D.](https://economics.uc3m.es/personal/matthias-kredler/), Associate Professor in Economics
+
+
