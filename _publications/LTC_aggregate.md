@@ -13,5 +13,5 @@ citation: 'Loaiza, Fernando. (2022). &quot;Racial/Ethnic Diversity among Nursing
 
 The Affordable Care Act (ACA), enacted in 2010 is an essential milestone for improving the health care coverage of American citizens. This article explores the effects of the Medicaid expansion under the Affordable Care Act on the racial diversity of the admissions of nursing home residents in the US. To address this, I implement a difference-in-difference estimation methodology that accounts for multiple time periods and variations in treatment timing. The results, obtained by using aggregate data at the U.S. county level from 2000 to 2019, suggest that racial disparities are not disappearing in nursing homes, on the contrary, are increasing. Moreover, it shows how the results differ after classifying Medicaid expansion/non-expansion states by income inequality and poverty rate levels. Lastly, potential mechanisms driving these results are discussed.
 
-[Download SSRN Working Paper here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4342689)
+[Download updated version here](https://fernandoloaizae.github.io/files/LTC_Loaiza.pdf)
 
