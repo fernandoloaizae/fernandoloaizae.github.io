@@ -6,7 +6,7 @@ excerpt: ''
 date: 2022-10-03
 venue: 'SSRN'
 paperurl: ''
-citation: 'Loaiza, Fernando. (2022). &quot;Racial/Ethnic Diversity among Nursing Home Residents Minorities: Impact of the Affordable Care Act Medicaid Expansion&quot; .'
+citation: 'Loaiza, F. (2022). &quot;Racial/Ethnic Diversity among Nursing Home Residents Minorities: Impact of the Affordable Care Act Medicaid Expansion&quot; .'
 ---
 
 ## Abstract
