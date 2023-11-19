@@ -13,11 +13,11 @@ My full CV is available as [pdf](http://fernandoloaizae.github.io/files/CV_Loaiz
 
 Work experience
 ======
-* Postdoctoral Researcher, Munich Research Institute for the Economics of Aging and SHARE Analyses, 2023 - Now
-* Guest Researcher, Max Planck Institute for Social Law and Social Policy, 2023 - Now
-* External Research Associate, Universidad Espíritu Santo Ecuador, 2021 - 2023
-* Postdoctoral Researcher, Max Planck Institute for Social Law and Social Policy, 2021 - 2022
-* Researcher, University of Rome Tor Vergata, 2017 - 2021
+* Postdoctoral Researcher, [Munich Research Institute for the Economics of Aging and SHARE Analyses](https://mea-share.eu), 2023 - Now
+* Guest Researcher, [Max Planck Institute for Social Law and Social Policy](https://www.mpisoc.mpg.de/en/), 2023 - Now
+* External Research Associate, [Universidad Espíritu Santo Ecuador](https://uees.edu.ec/), 2021 - 2023
+* Postdoctoral Researcher, [Max Planck Institute for Social Law and Social Policy](https://www.mpisoc.mpg.de/en/), 2021 - 2022
+* Researcher, [University of Rome Tor Vergata](https://economia.uniroma2.it/en/def), 2017 - 2021
 
 Education
 ======
