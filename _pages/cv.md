@@ -21,7 +21,7 @@ Work experience
 
 Education
 ======
-* Ph.D in Economics and Finance, University of Rome Tor Vergata, Italy, 2021
+* Ph.D. in Economics and Finance, University of Rome Tor Vergata, Italy, 2021
 * M.S. in Economics, University of Granada, Spain, 2017
 * B.S. in Economics, Escuela Superior Politecnica del Litoral, Ecuador, 2015
 
