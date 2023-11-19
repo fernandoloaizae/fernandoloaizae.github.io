@@ -10,7 +10,7 @@ location: "Rome, Italy"
 
 Teaching Assistant 2018, 2019
 
-## Tommaso Proietti, Ph.D. (Full Professor - Lecturer in charge)
+## [Tommaso Proietti, Ph.D.](https://economia.uniroma2.it/faculty/12/proietti-tommaso) (Full Professor - Lecturer in charge)
 
 The course provides an introduction to Statistical Learning and Data Mining.
 

@@ -10,7 +10,7 @@ location: "Rome, Italy"
 
 Teaching Assistant 2019
 
-## Davide Erminio Pirino, Ph.D. (Associate Professor - Lecturer in charge)
+## [Davide Erminio Pirino, Ph.D.](https://economia.uniroma2.it/faculty/374/pirino-davide-erminio) (Associate Professor - Lecturer in charge)
 
 
 The course provides the main concepts of mathematical analysis, starting from the foundations of topology.
