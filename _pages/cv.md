@@ -35,17 +35,14 @@ Research
 [Download Job Market Paper here](https://fernandoloaizae.github.io/files/Loaiza_JMP23.pdf)
 
 ## Working Papers
-
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
  
 ## Current Research
-
 * Life Cycle Implications of Schooling on Financial Assets
 * Macroeconomic Implications of the Care Wave
 
-  
 Teaching
 ======
   <ul>{% for post in site.teaching %}
