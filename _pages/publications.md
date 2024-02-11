@@ -28,4 +28,5 @@ author_profile: true
 
 ## Research in Progress
 
-* Macroeconomic Implications of the Care Wave (with Börsch-Supan, A.) [(PDF)](https://fernandoloaizae.github.io/files/WP6_Deliverable.pdf)
+
+Macroeconomic Implications of the Care Wave (with Börsch-Supan, A.) [(PDF)](https://fernandoloaizae.github.io/files/WP6_Deliverable.pdf)
