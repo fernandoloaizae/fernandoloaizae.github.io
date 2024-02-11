@@ -1,6 +1,6 @@
 ---
 title: "The Right of Self-Defense: Who is a Threat?"
-collection: paper
+collection: publications
 permalink: /publication/SYG_law
 excerpt: ''
 date: 2023-01-29
