@@ -16,6 +16,8 @@ source "https://rubygems.org"
 
 gem "jekyll"
 gem "jekyll-paginate"
+gem "Jekyll-gist"
+
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 # If you have any plugins, put them here!
