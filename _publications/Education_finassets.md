@@ -3,7 +3,7 @@ title: "Life Cycle Implications of Schooling on Financial Assets"
 collection: publications
 permalink: /publication/Education_finassets
 excerpt: ''
-date: 2022-01-24
+date: 2023-01-24
 venue: 'SSRN'
 paperurl: ''
 citation: 'Loaiza, F. (2024). &quot;Life Cycle Implications of Schooling on Financial Assets&quot;.'
