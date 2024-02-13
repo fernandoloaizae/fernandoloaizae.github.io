@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-My full CV is available as [pdf](http://fernandoloaizae.github.io/files/CV_Loaiza_new.pdf).
+My full CV is available as [PDF](http://fernandoloaizae.github.io/files/CV_Loaiza_new.pdf).
 
 Work experience
 ======
