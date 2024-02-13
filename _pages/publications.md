@@ -23,7 +23,7 @@ author_profile: true
 ## Working Papers
 
 {% for post in site.publications reversed %}
-  {% include archive-single.html %}
+  {% include archive-new-single.html %}
 {% endfor %}
 
 ## Research in Progress
