@@ -38,8 +38,7 @@ Research
   {% endfor %}</ul>
  
 ## Current Research
-* Life Cycle Implications of Schooling on Financial Assets
-* Macroeconomic Implications of the Care Wave
+* Macroeconomic Implications of the Care Wave [(PDF)](https://fernandoloaizae.github.io/files/WP6_Deliverable.pdf)
 
 Teaching
 ======
