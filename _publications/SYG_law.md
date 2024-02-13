@@ -12,7 +12,9 @@ coauthors: ["Muscarnera, A."]
 
 ## Abstract
 
-This paper investigates whether the extension of the right of self-defense outside private property affects crime-related outcomes. In 2005, Florida was the first US state to introduce the Stand Your Ground Law. The law gives the right to individuals to use reasonable force, including deadly force, to protect themselves in any place where they have a right to be. Since 2005, twenty-four states have implemented the law. Exploiting the staggered implementation of the Stand Your Ground law across counties, we causally identify the consequences of the law introduction in a generalized differencein-differences setting. Estimates show that treated counties experience an increase in the homicide rate. Investigating different mechanisms, we argue that the increase in those crimes is motivated by hate crime bias or racial bias. Taken together, these findings provide quantitative evidence against the argument that the extension of the ‘no-duty to retreat’ outside private property makes a safer society.
+This paper investigates the impact of Stand Your Ground laws, which extend self-defense rights beyond private property, on various crime-related outcomes. Initiated by Florida in 2005, these laws now exist in twenty-five U.S. states, allowing individuals to use reasonable force, including deadly force, in self-defense in any location legally occupied. Our analysis uncovers significant consequences by utilizing a generalized difference-in-differences methodology to assess the staggered enactment of SYG laws across counties. We find that the adoption of SYG laws increases racial and justifiable homicide rates, as well as hate crime incidents. These results challenge the idea that broadening the scope of self-defense laws will increase public safety by deterring crime. Instead, it might increase discriminatory violence and societal divisions.
+
+[Download updated version here](https://fernandoloaizae.github.io/files/SYG_law.pdf)
 
 [Download SSRN Working Paper here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4342111)
 
