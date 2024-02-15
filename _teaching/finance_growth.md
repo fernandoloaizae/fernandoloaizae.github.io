@@ -6,6 +6,7 @@ permalink: /teaching/finance_growth
 venue: "University of Rome Tor Vergata"
 date: 2023-01-01
 location: "Rome, Italy"
+share_enabled: false  # This line disables the social share section
 ---
 
 Teaching Assistant 2020, 2021, 2022

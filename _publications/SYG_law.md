@@ -8,6 +8,7 @@ venue: 'SSRN'
 paperurl: ''
 citation: 'Loaiza, F. and Muscarnera, A. (2023). &quot;The Right of Self-Defense: Who is a Threat?&quot;.'
 coauthors: ["Muscarnera, A."]
+share_enabled: true  # This line disables the social share section
 ---
 
 ## Abstract

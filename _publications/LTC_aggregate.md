@@ -7,6 +7,7 @@ date: 2022-10-03
 venue: 'SSRN'
 paperurl: ''
 citation: 'Loaiza, F. (2022). &quot;The Effects of Medicaid Expansion on the Racial/Ethnic Composition within Nursing Home Residents&quot; .'
+share_enabled: true  # This line disables the social share section
 ---
 
 ## Abstract

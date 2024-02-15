@@ -7,6 +7,7 @@ date: 2023-01-24
 venue: 'SSRN'
 paperurl: ''
 citation: 'Loaiza, Fernando, Life Cycle Implications of Schooling on Financial Assets (September 23, 2021). Available at SSRN: https://ssrn.com/abstract=&quot;.'
+share_enabled: true  # This line disables the social share section
 ---
 
 ## Abstract
