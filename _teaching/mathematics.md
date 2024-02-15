@@ -6,7 +6,6 @@ permalink: /teaching/mathematics
 venue: "University of Rome Tor Vergata"
 date: 2019-01-01
 location: "Rome, Italy"
-coauthors: ["2019"]
 ---
 
 Teaching Assistant 2019
