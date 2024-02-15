@@ -6,6 +6,7 @@ permalink: /teaching/mathematics
 venue: "University of Rome Tor Vergata"
 date: 2019-01-01
 location: "Rome, Italy"
+share_enabled: false  # This line disables the social share section
 ---
 
 Teaching Assistant 2019
