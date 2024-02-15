@@ -7,6 +7,7 @@ date: 2022-01-24
 venue: 'SSRN'
 paperurl: ''
 citation: 'Loaiza, F. (2022). &quot;Interplay of Public and Private Educational Spending: Macroeconomic Implications&quot;.'
+share_enabled: true  # This line disables the social share section
 ---
 
 ## Abstract
