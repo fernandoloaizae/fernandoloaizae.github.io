@@ -86,7 +86,7 @@ author:
   location         : "Munich, DE"
   employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=jiK3ZVAAAAAJ&hl=en"
+  googlescholar    : #"https://scholar.google.com/citations?user=jiK3ZVAAAAAJ&hl=en"
   email            : "loaiza@mea.mpisoc.mpg.de"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "fernandoloaizae"
+  github           : #"fernandoloaizae"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "fernandoloaizae"
-  orcid            : "https://orcid.org/0000-0002-1428-6682"
+  orcid            : #"https://orcid.org/0000-0002-1428-6682"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
