@@ -6,7 +6,7 @@ excerpt: ''
 date: 2024-03-23
 venue: 'SSRN'
 paperurl: ''
-citation: 'Loaiza, F. (2024). &quot;The Silent Divides in Education''s Promise&quot;.'
+citation: 'Loaiza, F. (2024). &quot;The Silent Divides in Education's Promise&quot;.'
 share_enabled: true  # This line disables the social share section
 ---
 
