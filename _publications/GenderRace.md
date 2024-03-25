@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/GenderRace
 excerpt: ''
 date: 2024-03-23
-venue: 'SSRN'
+venue: ''
 paperurl: ''
 citation: 'Loaiza, F. (2024). &quot;The Silent Divides in Education's Promise&quot;.'
 share_enabled: true  # This line disables the social share section
