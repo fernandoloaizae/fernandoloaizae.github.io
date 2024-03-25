@@ -1,17 +1,17 @@
 ---
-title: "Interplay of Public and Private Educational Spending: Macroeconomic Implications"
+title: "The Silent Divides in Education's Promise"
 collection: publications
-permalink: /publication/Public_Private
+permalink: /publication/GenderRace
 excerpt: ''
-date: 2022-01-24
+date: 2024-03-23
 venue: 'SSRN'
 paperurl: ''
-citation: 'Loaiza, F. (2022). &quot;Interplay of Public and Private Educational Spending: Macroeconomic Implications&quot;.'
+citation: 'Loaiza, F. (2024). &quot;The Silent Divides in Education's Promise&quot;.'
 share_enabled: true  # This line disables the social share section
 ---
 
 ## Abstract
 
-This paper investigates the implications of the collaboration between public and private human capital investments on GDP per capita and income inequality. It extends an overlapping generations model with heterogeneous agents and endogenous growth that allows for educational investments through public and private sources. The theory is empirically evaluated with two cross-country dynamic panel data models. A key finding suggests that an increasing gap between public and private education investment, with the public remaining larger than private, increases GDP per capita while reducing income inequality. These results reflect the potential of further studying the interplay of sources of educational funding.
+This study examines the impact of education on wealth by gender, race, and generation in the U.S., utilizing different identification strategies. This research reveals that the benefits of higher levels of education vary significantly: males and White individuals experience more pronounced gains compared to females and Non-White groups, highlighting disparities in economic returns. Further analysis into generational effects uncovers that the advantages of higher education diminish over time for all groups, with the youngest cohorts facing the least economic benefit. This generational decline calls for a deeper understanding of the evolving role of education in wealth accumulation, stressing the importance of developing policy interventions that address the diverse impacts of education across different demographic segments and over time.
 
-[Download updated version here](https://fernandoloaizae.github.io/files/Public_Private.pdf)
+[Download updated version here](https://fernandoloaizae.github.io/files/GenderRace.pdf)
