@@ -11,7 +11,23 @@ author_profile: true
 
 {% include base_path %}
 
+### The Effects of Medicaid Expansion on the Racial/Ethnic Composition within Nursing Home Residents.<span class="coauthor">Health Economics Review</span> 
 
+<div class="abstract-container">
+  <span class="abstract-toggle" onclick="toggleAbstract('ACA')">
+    <span class="triangle">&#9654;</span> Abstract
+  </span> 
+  <span class="separator">|</span> 
+  <a href="https://fernandoloaizae.github.io/files/Loaiza_JMP23.pdf" class="download-link">Download Job Market Paper</a>
+</div>
+<div id="ACA" style="display:none; margin-top: 8px;">
+The Affordable Care Act (ACA), enacted in 2010, aimed to improve healthcare coverage for American citizens. This study investigates the impact of Medicaid expansion (ME) under the ACA on the racial and ethnic composition of nursing home admissions in the U.S., focusing on whether ME has led to increased representation of racial/ethnic minorities in nursing homes.
+
+A difference-in-differences estimation methodology was employed, using U.S. county-level aggregate data from 2000 to 2019. This approach accounted for multiple time periods and variations in treatment timing to analyze changes in the racial and ethnic composition of nursing home admissions post-ME. Additionally, two-way fixed effects (TWFE) regression was utilized to enhance robustness and validate the findings.
+The analysis revealed that the racial and ethnic composition of nursing home admissions has become more homogeneous following Medicaid expansion. Specifically, there was a decline in Black residents and an increase in White residents in nursing homes. Additionally, significant differences were found when categorizing states by income inequality, and poverty rate levels. These findings remain statistically significant even after controlling for additional variables, indicating that ME influences the racial makeup of nursing home admissions.
+Medicaid expansion has not diversified nursing home demographics as hypothesized; instead, it has led to a more uniform racial composition, favoring White residents. This trend may be driven by nursing home preferences and financial incentives, which could favor residents with private insurance or higher personal funds. Mechanisms such as payment preferences and local cost variations likely contribute to these shifts, potentially disadvantaging Medicaid-reliant minority residents. These findings highlight the complex interplay between healthcare policy implementation and racial disparities in access to long-term care, suggesting a need for further research on the underlying mechanisms and implications for policy refinement.
+
+</div>
 
 ## Working Papers
 
