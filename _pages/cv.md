@@ -49,6 +49,11 @@ Research
 
 Teaching
 ======
+* T.A. Finance and Growth
+* T.A. Business Statistics in R
+* T.A. Mathematics 1
+* Primary School Teacher
+
 <!--
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
