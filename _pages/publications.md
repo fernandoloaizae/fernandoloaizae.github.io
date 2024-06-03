@@ -11,7 +11,11 @@ author_profile: true
 
 {% include base_path %}
 
-### The Effects of Medicaid Expansion on the Racial/Ethnic Composition within Nursing Home Residents.<span class="coauthor">Health Economics Review</span> 
+### The Effects of Medicaid Expansion on the Racial/Ethnic Composition within Nursing Home Residents
+
+<div class="details">
+  Health Economics Review (2024)
+</div>
 
 <div class="abstract-container">
   <span class="abstract-toggle" onclick="toggleAbstract('ACA')">
@@ -144,6 +148,13 @@ This document describes the construction of an overlapping generations (OLG) mod
   margin: 0 10px;
   color: #ccc;
   font-size: 0.9em;
+}
+
+.details {
+  font-weight: normal;
+  font-size: 0.9em;
+  margin-left: 10px;
+  margin-bottom: 5px;
 }
 
 .download-link {
