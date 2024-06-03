@@ -35,7 +35,18 @@ This study investigates the causal relationship between education and wealth acc
 ## Research in Progress
 
 
-Macroeconomic Implications of the Care Wave [(PDF)](https://fernandoloaizae.github.io/files/WP6_Deliverable.pdf)
+Macroeconomic Implications of the Care Wave 
+
+<span class="abstract-toggle" onclick="toggleAbstract('jmp-abstract')">
+  <span class="triangle">&#9654;</span> Abstract
+</span> 
+<span class="separator">|</span> 
+<a href="https://fernandoloaizae.github.io/files/WP6_Deliverable.pdf" class="download-link">PDF</a>
+<div id="jmp-abstract" style="display:none; margin-top: 10px;">
+This document describes the construction of an overlapping generations (OLG) model that projects the macroeconomic implications of the major demographic changes happening in Europe in the 21st century, with a focus on two key trends: the retirement of the 'baby boomer' generation and the increasing need for long-term care (LTC). As the 'baby boomers' retire, significant changes are happening in European societies, especially in how pensions are handled and the growing demand for LTC. This research examines the economic and social effects of these changes, putting a spotlight on how an aging population interacts with labor supply and social inequalities. The model includes features such as heterogeneity of health and the resulting provision of care. The hypotheses this research investigates are that these demographic changes, especially the rising need for LTC, will slow down economic growth in Europe and that the increasing cost of LTC will hit lowerincome families harder, making social inequalities worse, and affecting the labor supply of women. By using a detailed OLG model that will be calibrated to represent continental Europe, we aim to show the trade-offs between financial stability, social welfare, and fairness across generations in the face of Europe's changing demographics. The model’s results are meant to help policymakers find a balance between meeting the needs of an aging population and maintaining the overall economic and social health of European societies. 
+</div>
+
+
 
 <style>
 .abstract-toggle {
