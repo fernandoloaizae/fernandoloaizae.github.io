@@ -15,7 +15,7 @@ author_profile: true
 
 ## Working Papers
 
-### The Effects of Education on Wealth Inequality over the Life Cycle (Job Market Paper)
+### The Effects of Education on Wealth Inequality over the Life Cycle<span class="coauthor">(Job Market Paper)</span> 
 
 <div class="abstract-container">
   <span class="abstract-toggle" onclick="toggleAbstract('jmp-abstract')">
