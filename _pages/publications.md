@@ -55,6 +55,7 @@ This document describes the construction of an overlapping generations (OLG) mod
   font-weight: bold;
   display: inline-flex;
   align-items: center;
+  font-size: 0.9em;
 }
 
 .triangle {
@@ -69,11 +70,13 @@ This document describes the construction of an overlapping generations (OLG) mod
 .separator {
   margin: 0 10px;
   color: #ccc;
+  font-size: 0.9em; 
 }
 
 .download-link {
   color: #1e90ff;
   text-decoration: none;
+  font-size: 0.9em;
 }
 
 .download-link:hover {
