@@ -67,7 +67,7 @@ This research explores the impact of education on individuals’ involvement wit
 This study examines the impact of education on wealth by gender, race, and generation in the U.S., utilizing different identification strategies. This research reveals that the benefits of higher levels of education vary significantly: males and White individuals experience more pronounced gains compared to females and Non-White groups, highlighting disparities in economic returns. Further analysis into generational effects uncovers that the advantages of higher education diminish over time for all groups, with the youngest cohorts facing the least economic benefit. This generational decline calls for a deeper understanding of the evolving role of education in wealth accumulation, stressing the importance of developing policy interventions that address the diverse impacts of education across different demographic segments and over time.
 </div>
 
-### The Right of Self-Defense: Who is a Threat?
+### The Right of Self-Defense: Who is a Threat? <span class="coauthor">John Doe</span>
 
 <div class="abstract-container">
   <span class="abstract-toggle" onclick="toggleAbstract('SYGL')">
@@ -100,8 +100,10 @@ This document describes the construction of an overlapping generations (OLG) mod
 
 
 <style>
-h2, h3, h4, h5, h6 {
-  margin-bottom: 0.2em; 
+.coauthor {
+  font-weight: normal; /* Ensure the coauthor name is not bold */
+  font-size: 0.9em; /* Adjust font size to be slightly smaller */
+  margin-left: 10px; /* Add some space between the title and the coauthor name */
 }
 
 .abstract-container {
