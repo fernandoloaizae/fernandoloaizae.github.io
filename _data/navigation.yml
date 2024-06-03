@@ -5,11 +5,8 @@ main:
     
   - title: "CV"
     url: /cv/
- 
-  - title: "Teaching"
-    url: /teaching/ 
     
-  - title: "Teaching Experience"
+  - title: "Teaching"
     url: /teaching-experience/   
     
   - title: "Contact"
