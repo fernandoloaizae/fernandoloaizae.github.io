@@ -74,7 +74,7 @@ This study examines the impact of education on wealth by gender, race, and gener
     <span class="triangle">&#9654;</span> Abstract
   </span> 
   <span class="separator">|</span> 
-  <a href="https://fernandoloaizae.github.io/files/SYG_law.pdf" class="download-link">Working Paper</a>
+  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4342111" class="download-link">Working Paper</a>
 </div>
 <div id="SYGL" style="display:none; margin-top: 8px;">
 This paper investigates the impact of Stand Your Ground laws, which extend self-defense rights beyond private property, on various crime-related outcomes. Initiated by Florida in 2005, these laws now exist in twenty-five U.S. states, allowing individuals to use reasonable force, including deadly force, in self-defense in any location legally occupied. Our analysis uncovers significant consequences by utilizing a generalized difference-in-differences methodology to assess the staggered enactment of SYG laws across counties. We find that the adoption of SYG laws increases racial and justifiable homicide rates, as well as hate crime incidents. These results challenge the idea that broadening the scope of self-defense laws will increase public safety by deterring crime. Instead, it might increase discriminatory violence and societal divisions.
