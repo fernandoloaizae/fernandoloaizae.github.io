@@ -54,6 +54,32 @@ This study investigates the causal relationship between education and wealth acc
 This research explores the impact of education on individuals’ involvement with financial assets such as savings, annuities/IRAs, and stocks in the United States throughout their lifetimes. Utilizing panel data and various identification strategies, the findings indicate that education leads to greater investment in these assets, although the extent varies depending on the individual’s life stage and level of education. The paper examines how higher incomes resulting from better education, improved financial behaviors, and an increased willingness to take risks due to educational attainment contribute to these outcomes. While all three factors are influential, the impact of education is moderated by variables such as parental wealth and inheritance. This research suggests that increasing education could help more people invest wisely and increase their financial stability. It provides insights into the relationship between education and financial management, highlighting potential avenues for enabling more individuals to benefit from financial assets.
 </div>
 
+### The Silent Divides in Education’s Promise
+
+<div class="abstract-container">
+  <span class="abstract-toggle" onclick="toggleAbstract('CH4')">
+    <span class="triangle">&#9654;</span> Abstract
+  </span> 
+  <span class="separator">|</span> 
+  <a href="https://fernandoloaizae.github.io/files/GenderRace.pdf" class="download-link">Working Paper</a>
+</div>
+<div id="CH4" style="display:none; margin-top: 8px;">
+This study examines the impact of education on wealth by gender, race, and generation in the U.S., utilizing different identification strategies. This research reveals that the benefits of higher levels of education vary significantly: males and White individuals experience more pronounced gains compared to females and Non-White groups, highlighting disparities in economic returns. Further analysis into generational effects uncovers that the advantages of higher education diminish over time for all groups, with the youngest cohorts facing the least economic benefit. This generational decline calls for a deeper understanding of the evolving role of education in wealth accumulation, stressing the importance of developing policy interventions that address the diverse impacts of education across different demographic segments and over time.
+</div>
+
+### The Right of Self-Defense: Who is a Threat?
+
+<div class="abstract-container">
+  <span class="abstract-toggle" onclick="toggleAbstract('SYGL')">
+    <span class="triangle">&#9654;</span> Abstract
+  </span> 
+  <span class="separator">|</span> 
+  <a href="https://fernandoloaizae.github.io/files/SYG_law.pdf" class="download-link">Working Paper</a>
+</div>
+<div id="SYGL" style="display:none; margin-top: 8px;">
+This paper investigates the impact of Stand Your Ground laws, which extend self-defense rights beyond private property, on various crime-related outcomes. Initiated by Florida in 2005, these laws now exist in twenty-five U.S. states, allowing individuals to use reasonable force, including deadly force, in self-defense in any location legally occupied. Our analysis uncovers significant consequences by utilizing a generalized difference-in-differences methodology to assess the staggered enactment of SYG laws across counties. We find that the adoption of SYG laws increases racial and justifiable homicide rates, as well as hate crime incidents. These results challenge the idea that broadening the scope of self-defense laws will increase public safety by deterring crime. Instead, it might increase discriminatory violence and societal divisions.
+</div>
+
 
 ## Research in Progress
 
