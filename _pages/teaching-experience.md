@@ -13,7 +13,7 @@ author_profile: true
 
 
 
-### T.A. Finance and Growth<span class="year">2020-2023</span>
+### T.A. Finance and Growth<span class="year">(2020-2023)</span>
 
 <div class="details">
   M.Sc. Economia dei Mercati e degli Intermediari Finanziari, University of Rome Tor Vergata
@@ -35,7 +35,7 @@ author_profile: true
 </div>
 
 
-### T.A. Business Statistics in R<span class="year">2018-2019</span>
+### T.A. Business Statistics in R<span class="year">(2018-2019)</span>
 
 <div class="details">
   M.Sc. European Economy and Business Law, University of Rome Tor Vergata
@@ -56,7 +56,7 @@ author_profile: true
 </div>
 
 
-### T.A. Mathematics 1<span class="year">2019</span>
+### T.A. Mathematics 1<span class="year">(2019)</span>
 
 <div class="details">
   B.Sc. Business Administration and Economics, University of Rome Tor Vergat
@@ -76,7 +76,7 @@ author_profile: true
   </div>
 </div>
 
-### Primary School Teacher<span class="year">206</span>
+### Primary School Teacher<span class="year">(2016)</span>
 
 <div class="details">
   Unidad Educativa San Jose La Salle
