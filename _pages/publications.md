@@ -15,11 +15,13 @@ author_profile: true
 
 ### The Effects of Education on Wealth Inequality over the Life Cycle
 
-<span class="abstract-toggle" onclick="toggleAbstract('jmp-abstract')">
-  <span class="triangle">&#9654;</span> Abstract
-</span> 
-<span class="separator">|</span> 
-<a href="https://fernandoloaizae.github.io/files/Loaiza_JMP23.pdf" class="download-link">Download Job Market Paper</a>
+<div class="abstract-container">
+  <span class="abstract-toggle" onclick="toggleAbstract('jmp-abstract')">
+    <span class="triangle">&#9654;</span> Abstract
+  </span> 
+  <span class="separator">|</span> 
+  <a href="https://fernandoloaizae.github.io/files/Loaiza_JMP23.pdf" class="download-link">Download Job Market Paper</a>
+</div>
 <div id="jmp-abstract" style="display:none; margin-top: 8px;">
 This study investigates the causal relationship between education and wealth accumulation. Utilizing three distinct identification strategies, the research analyzes a panel dataset from the United States, encompassing two generations, to explore the dynamics of this relationship. The empirical findings indicate that higher educational attainment, particularly at the college and postgraduate levels, leads to a significant increase in lifetime wealth. This effect varies based on an individual's life stage, their position within the wealth distribution, and the level of education attained. Subsequently, the paper develops a life-cycle heterogeneous agents model to assess the impact of educational policies on wealth accumulation. Calibrated using U.S. data, this model focuses on policies aimed at enhancing the quality and quantity of higher education. The analysis reveals that increasing the proportion of college-educated individuals could potentially reduce wealth inequality. This study contributes to the understanding of education as a relevant factor in wealth generation and distribution.
 </div>
@@ -30,11 +32,13 @@ This study investigates the causal relationship between education and wealth acc
 
 ### Interplay of Public and Private Educational Spending: Macroeconomic Implications
 
-<span class="abstract-toggle" onclick="toggleAbstract('CH1')">
-  <span class="triangle">&#9654;</span> Abstract
-</span> 
-<span class="separator">|</span> 
-<a href="https://fernandoloaizae.github.io/files/Public_Private.pdf" class="download-link">Working Paper</a>
+<div class="abstract-container">
+  <span class="abstract-toggle" onclick="toggleAbstract('CH1')">
+    <span class="triangle">&#9654;</span> Abstract
+  </span> 
+  <span class="separator">|</span> 
+  <a href="https://fernandoloaizae.github.io/files/Public_Private.pdf" class="download-link">Working Paper</a>
+</div>
 <div id="CH1" style="display:none; margin-top: 8px;">
 This study investigates the causal relationship between education and wealth accumulation. Utilizing three distinct identification strategies, the research analyzes a panel dataset from the United States, encompassing two generations, to explore the dynamics of this relationship. The empirical findings indicate that higher educational attainment, particularly at the college and postgraduate levels, leads to a significant increase in lifetime wealth. This effect varies based on an individual's life stage, their position within the wealth distribution, and the level of education attained. Subsequently, the paper develops a life-cycle heterogeneous agents model to assess the impact of educational policies on wealth accumulation. Calibrated using U.S. data, this model focuses on policies aimed at enhancing the quality and quantity of higher education. The analysis reveals that increasing the proportion of college-educated individuals could potentially reduce wealth inequality. This study contributes to the understanding of education as a relevant factor in wealth generation and distribution.
 </div>
@@ -56,22 +60,27 @@ This research explores the impact of education on individuals’ involvement wit
 
 Macroeconomic Implications of the Care Wave 
 
-<span class="abstract-toggle" onclick="toggleAbstract('bbf-abstract')">
-  <span class="triangle">&#9654;</span> Abstract
-</span> 
-<span class="separator">|</span> 
-<a href="https://fernandoloaizae.github.io/files/WP6_Deliverable.pdf" class="download-link"> Download Draft</a>
+<div class="abstract-container">
+  <span class="abstract-toggle" onclick="toggleAbstract('bbf-abstract')">
+    <span class="triangle">&#9654;</span> Abstract
+  </span> 
+  <span class="separator">|</span> 
+  <a href="https://fernandoloaizae.github.io/files/WP6_Deliverable.pdf" class="download-link"> Download Draft</a>
+</div>
 <div id="bbf-abstract" style="display:none; margin-top: 8px;">
-This document describes the construction of an overlapping generations (OLG) model that projects the macroeconomic implications of the major demographic changes happening in Europe in the 21st century, with a focus on two key trends: the retirement of the 'baby boomer' generation and the increasing need for long-term care (LTC). As the 'baby boomers' retire, significant changes are happening in European societies, especially in how pensions are handled and the growing demand for LTC. This research examines the economic and social effects of these changes, putting a spotlight on how an aging population interacts with labor supply and social inequalities. The model includes features such as heterogeneity of health and the resulting provision of care. The hypotheses this research investigates are that these demographic changes, especially the rising need for LTC, will slow down economic growth in Europe and that the increasing cost of LTC will hit lowerincome families harder, making social inequalities worse, and affecting the labor supply of women. By using a detailed OLG model that will be calibrated to represent continental Europe, we aim to show the trade-offs between financial stability, social welfare, and fairness across generations in the face of Europe's changing demographics. The model’s results are meant to help policymakers find a balance between meeting the needs of an aging population and maintaining the overall economic and social health of European societies. 
+This document describes the construction of an overlapping generations (OLG) model that projects the macroeconomic implications of the major demographic changes happening in Europe in the 21st century, with a focus on two key trends: the retirement of the 'baby boomer' generation and the increasing need for long-term care (LTC). As the 'baby boomers' retire, significant changes are happening in European societies, especially in how pensions are handled and the growing demand for LTC. This research examines the economic and social effects of these changes, putting a spotlight on how an aging population interacts with labor supply and social inequalities. The model includes features such as heterogeneity of health and the resulting provision of care. The hypotheses this research investigates are that these demographic changes, especially the rising need for LTC, will slow down economic growth in Europe and that the increasing cost of LTC will hit lowerincome families harder, making social inequalities worse, and affecting the labor supply of women. By using a detailed OLG model that will be calibrated to represent continental Europe, we aim to show the trade-offs between financial stability, social welfare, and fairness across generations in the face of Europe's changing demographics. The model’s results are meant to help policymakers find a balance between meeting the needs of an aging population and maintaining the overall economic and social health of European societies.
 </div>
 
 
 
 <style>
+.abstract-container {
+  margin-bottom: 5px;
+}
+
 .abstract-toggle {
   cursor: pointer;
   color: #333;
-  font-weight: bold;
   display: inline-flex;
   align-items: center;
   font-size: 0.9em;
@@ -82,14 +91,10 @@ This document describes the construction of an overlapping generations (OLG) mod
   transition: transform 0.3s ease;
 }
 
-#jmp-abstract[open] .triangle {
-  transform: rotate(90deg);
-}
-
 .separator {
   margin: 0 10px;
   color: #ccc;
-  font-size: 0.9em; 
+  font-size: 0.9em;
 }
 
 .download-link {
@@ -102,7 +107,6 @@ This document describes the construction of an overlapping generations (OLG) mod
   text-decoration: underline;
 }
 </style>
-
 <script>
   function toggleAbstract(id) {
     var element = document.getElementById(id);
