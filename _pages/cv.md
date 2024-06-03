@@ -27,14 +27,12 @@ Education
 
 Research
 ======
-
 ## Working Papers
 * **The Effects of Education on Wealth Inequality over the Life Cycle.** [(PDF)](https://fernandoloaizae.github.io/files/Loaiza_JMP23.pdf)
 * **Interplay of Public and Private Educational Spending: Macroeconomic Implications.** [(PDF)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4350825)
 * **Life Cycle Implications of Schooling on Financial Assets.** [(PDF)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4723278)
 * **The Right of Self-Defense: Who is a Threat?.** [(PDF)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4342111)
 * **The Silent Divides in Education’s Promise.** [(PDF)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4852176)
-
 ## Current Research
 * Macroeconomic Implications of the Care Wave [(PDF)](https://fernandoloaizae.github.io/files/WP6_Deliverable.pdf)
 
