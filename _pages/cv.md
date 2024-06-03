@@ -33,6 +33,7 @@ Research
 * **Life Cycle Implications of Schooling on Financial Assets.** [(PDF)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4723278)
 * **The Right of Self-Defense: Who is a Threat?.** [(PDF)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4342111)
 * **The Silent Divides in Education’s Promise.** [(PDF)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4852176)
+
 ## Current Research
 * Macroeconomic Implications of the Care Wave [(PDF)](https://fernandoloaizae.github.io/files/WP6_Deliverable.pdf)
 
