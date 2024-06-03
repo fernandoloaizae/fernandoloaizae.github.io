@@ -153,7 +153,6 @@ This document describes the construction of an overlapping generations (OLG) mod
 .details {
   font-weight: normal;
   font-size: 0.9em;
-  margin-left: 10px;
   margin-bottom: 5px;
 }
 
