@@ -84,7 +84,7 @@ This paper investigates the impact of Stand Your Ground laws, which extend self-
 ## Research in Progress
 
 
-Macroeconomic Implications of the Care Wave 
+### Macroeconomic Implications of the Care Wave 
 
 <div class="abstract-container">
   <span class="abstract-toggle" onclick="toggleAbstract('bbf-abstract')">
