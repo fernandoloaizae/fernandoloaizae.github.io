@@ -42,10 +42,10 @@ author_profile: true
 </div>
 
 <div class="syllabus-container">
-  <span class="syllabus-toggle" onclick="toggleSyllabus('TA1-syllabus')">
+  <span class="syllabus-toggle" onclick="toggleSyllabus('TA2-syllabus')">
     <span class="triangle">&#9654;</span> Syllabus
   </span>
-  <div id="TA1-syllabus" style="display:none; margin-top: 8px;">
+  <div id="TA2-syllabus" style="display:none; margin-top: 8px;">
     <ul>
       <li>Linear regression, model evaluation, principal component analysis</li>
       <li>Lasso, ridge regression, logistic regression</li>
@@ -63,10 +63,10 @@ author_profile: true
 </div>
 
 <div class="syllabus-container">
-  <span class="syllabus-toggle" onclick="toggleSyllabus('TA1-syllabus')">
+  <span class="syllabus-toggle" onclick="toggleSyllabus('TA3-syllabus')">
     <span class="triangle">&#9654;</span> Syllabus
   </span>
-  <div id="TA1-syllabus" style="display:none; margin-top: 8px;">
+  <div id="TA3-syllabus" style="display:none; margin-top: 8px;">
     <ul>
       <li>Topology</li>
       <li>Calculus</li>
