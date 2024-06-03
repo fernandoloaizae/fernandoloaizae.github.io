@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-My full CV is available as **[PDF](http://fernandoloaizae.github.io/files/CV_Loaiza_new.pdf)**.
+My full CV is available as **[<span class="pdf-link">PDF</span>](http://fernandoloaizae.github.io/files/CV_Loaiza_new.pdf)**.
 
 Work experience
 ======
@@ -62,4 +62,8 @@ References
 * **[Pasquale Scaramozzino, Ph.D.](https://economia.uniroma2.it/faculty/229/scaramozzino-pasquale)**, Professor in Economics
 * **[Matthias Kredler, Ph.D.](https://economics.uc3m.es/personal/matthias-kredler/)**, Associate Professor in Economics
 
-
+<style>
+.pdf-link {
+  color: blue;
+}
+</style>
