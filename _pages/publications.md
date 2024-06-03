@@ -76,6 +76,10 @@ This document describes the construction of an overlapping generations (OLG) mod
 
 
 <style>
+h2, h3, h4, h5, h6 {
+  margin-bottom: 0.2em; /* Adjust this value to reduce spacing below headings */
+}
+
 .abstract-container {
   margin-bottom: 5px;
 }
