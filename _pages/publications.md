@@ -17,12 +17,13 @@ author_profile: true
 
 <span class="abstract-toggle" onclick="toggleAbstract('jmp-abstract')">
   <span class="triangle">&#9654;</span> Abstract
-</span>
+</span> 
+<span class="separator">|</span> 
+<a href="https://fernandoloaizae.github.io/files/Loaiza_JMP23.pdf" class="download-link">Download Job Market Paper</a>
 <div id="jmp-abstract" style="display:none; margin-top: 10px;">
-**Abstract:** This study investigates the causal relationship between education and wealth accumulation. Utilizing three distinct identification strategies, the research analyzes a panel dataset from the United States, encompassing two generations, to explore the dynamics of this relationship. The empirical findings indicate that higher educational attainment, particularly at the college and postgraduate levels, leads to a significant increase in lifetime wealth. This effect varies based on an individual's life stage, their position within the wealth distribution, and the level of education attained. Subsequently, the paper develops a life-cycle heterogeneous agents model to assess the impact of educational policies on wealth accumulation. Calibrated using U.S. data, this model focuses on policies aimed at enhancing the quality and quantity of higher education. The analysis reveals that increasing the proportion of college-educated individuals could potentially reduce wealth inequality. This study contributes to the understanding of education as a relevant factor in wealth generation and distribution.
+This study investigates the causal relationship between education and wealth accumulation. Utilizing three distinct identification strategies, the research analyzes a panel dataset from the United States, encompassing two generations, to explore the dynamics of this relationship. The empirical findings indicate that higher educational attainment, particularly at the college and postgraduate levels, leads to a significant increase in lifetime wealth. This effect varies based on an individual's life stage, their position within the wealth distribution, and the level of education attained. Subsequently, the paper develops a life-cycle heterogeneous agents model to assess the impact of educational policies on wealth accumulation. Calibrated using U.S. data, this model focuses on policies aimed at enhancing the quality and quantity of higher education. The analysis reveals that increasing the proportion of college-educated individuals could potentially reduce wealth inequality. This study contributes to the understanding of education as a relevant factor in wealth generation and distribution.
 </div>
 
-[Download Job Market Paper here](https://fernandoloaizae.github.io/files/Loaiza_JMP23.pdf)
 
 
 ## Working Papers
@@ -52,6 +53,20 @@ Macroeconomic Implications of the Care Wave [(PDF)](https://fernandoloaizae.gith
 
 #jmp-abstract[open] .triangle {
   transform: rotate(90deg);
+}
+
+.separator {
+  margin: 0 10px;
+  color: #ccc;
+}
+
+.download-link {
+  color: #1e90ff;
+  text-decoration: none;
+}
+
+.download-link:hover {
+  text-decoration: underline;
 }
 </style>
 
