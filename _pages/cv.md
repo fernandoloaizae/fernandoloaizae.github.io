@@ -64,6 +64,6 @@ References
 
 <style>
 .pdf-link {
-  color: blue;
+  color: #1e90ff;
 }
 </style>
