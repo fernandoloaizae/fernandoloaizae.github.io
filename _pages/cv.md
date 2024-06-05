@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-My full CV is available as [<span class="pdf-link">PDF</span>](http://fernandoloaizae.github.io/files/CV_Loaiza_new.pdf).
+My full CV is available as [<span class="pdf-link">PDF</span>](http://fernandoloaizae.github.io/files/CV_Loaiza.pdf).
 
 Work experience
 ======
@@ -27,6 +27,11 @@ Education
 
 Research
 ======
+
+## Publications
+
+* **The Effects of Medicaid Expansion on the Racial/Ethnic Composition within Nursing Home Residents.** Health Economics Review (Forthcoming)
+
 ## Working Papers
 * **The Effects of Education on Wealth Inequality over the Life Cycle.** [(PDF)](https://fernandoloaizae.github.io/files/Loaiza_JMP23.pdf)
 * **Interplay of Public and Private Educational Spending: Macroeconomic Implications.** [(PDF)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4350825)
