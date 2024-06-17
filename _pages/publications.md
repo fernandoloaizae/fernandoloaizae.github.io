@@ -35,7 +35,7 @@ Medicaid expansion has not diversified nursing home demographics as hypothesized
 
 ## Working Papers
 
-### The Effects of Education on Wealth Inequality over the Life Cycle<span class="coauthor">(Job Market Paper)</span> 
+### Can Educational Policies Reduce Wealth Inequality?<span class="coauthor">(Job Market Paper)</span> 
 
 <div class="abstract-container">
   <span class="abstract-toggle" onclick="toggleAbstract('jmp-abstract')">
