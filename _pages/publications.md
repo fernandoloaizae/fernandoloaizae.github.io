@@ -22,7 +22,7 @@ author_profile: true
     <span class="triangle">&#9654;</span> Abstract
   </span> 
   <span class="separator">|</span> 
-  <a href="https://fernandoloaizae.github.io/files/Loaiza_HER2024.pdf" class="download-link">Paper</a>
+  <a href="https://fernandoloaizae.github.io/files/Loaiza_HER2024.pdf" class="download-link">Published Paper</a>
 </div>
 <div id="ACA" style="display:none; margin-top: 8px;">
 Background: The Affordable Care Act (ACA), enacted in 2010, aimed to improve healthcare coverage for American citizens. This study investigates the impact of Medicaid expansion (ME) under the ACA on the racial and ethnic composition of nursing home admissions in the U.S., focusing on whether ME has led to increased representation of racial/ethnic minorities in nursing homes.
