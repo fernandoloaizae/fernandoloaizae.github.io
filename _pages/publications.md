@@ -14,7 +14,7 @@ author_profile: true
 ### The Effects of Medicaid Expansion on the Racial/Ethnic Composition within Nursing Home Residents
 
 <div class="details">
-  Health Economics Review (Forthcoming)
+  <a href="https://link.springer.com/article/10.1186/s13561-024-00517-3?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20240620&utm_content=10.1186/s13561-024-00517-3">Health Economics Review, 2024</a>
 </div>
 
 <div class="abstract-container">
