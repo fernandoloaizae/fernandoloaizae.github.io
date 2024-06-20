@@ -30,7 +30,7 @@ Research
 
 ## Publications
 
-* **The Effects of Medicaid Expansion on the Racial/Ethnic Composition within Nursing Home Residents.** Health Economics Review (Forthcoming)
+* [**The Effects of Medicaid Expansion on the Racial/Ethnic Composition within Nursing Home Residents.**](https://healtheconomicsreview.biomedcentral.com/articles/10.1186/s13561-024-00517-3) Health Economics Review, 2024
 
 ## Working Papers
 * **Can Educational Policies Reduce Wealth Inequality?.** [(PDF)](https://fernandoloaizae.github.io/files/Loaiza_JMP23.pdf)
