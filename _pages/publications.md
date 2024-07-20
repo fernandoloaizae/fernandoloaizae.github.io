@@ -72,14 +72,14 @@ This study investigates the causal relationship between education and wealth acc
 This research explores the impact of education on individuals’ involvement with financial assets such as savings, annuities/IRAs, and stocks in the United States throughout their lifetimes. Utilizing panel data and various identification strategies, the findings indicate that education leads to greater investment in these assets, although the extent varies depending on the individual’s life stage and level of education. The paper examines how higher incomes resulting from better education, improved financial behaviors, and an increased willingness to take risks due to educational attainment contribute to these outcomes. While all three factors are influential, the impact of education is moderated by variables such as parental wealth and inheritance. This research suggests that increasing education could help more people invest wisely and increase their financial stability. It provides insights into the relationship between education and financial management, highlighting potential avenues for enabling more individuals to benefit from financial assets.
 </div>
 
-### The Silent Divides in Education’s Promise
+### The Silent Divides in Education’s Promise: Uneven Wealth Gains from College
 
 <div class="abstract-container">
   <span class="abstract-toggle" onclick="toggleAbstract('CH4')">
     <span class="triangle">&#9654;</span> Abstract
   </span> 
   <span class="separator">|</span> 
-  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4852176" class="download-link">Working Paper</a>
+  <a href="https://fernandoloaizae.github.io/files/GenderRace.pdf" class="download-link">Working Paper</a>
 </div>
 <div id="CH4" style="display:none; margin-top: 8px;">
 This study examines the impact of education on wealth by gender, race, and generation in the U.S., utilizing different identification strategies. This research reveals that the benefits of higher levels of education vary significantly: males and White individuals experience more pronounced gains compared to females and Non-White groups, highlighting disparities in economic returns. Further analysis into generational effects uncovers that the advantages of higher education diminish over time for all groups, with the youngest cohorts facing the least economic benefit. This generational decline calls for a deeper understanding of the evolving role of education in wealth accumulation, stressing the importance of developing policy interventions that address the diverse impacts of education across different demographic segments and over time.
