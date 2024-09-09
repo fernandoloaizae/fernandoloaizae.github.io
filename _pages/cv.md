@@ -22,8 +22,8 @@ Work experience
 Education
 ======
 * **Ph.D. in Economics and Finance**, University of Rome Tor Vergata, Italy, 2021
-* **M.S. in Economics**, University of Granada, Spain, 2017
-* **B.S. in Economics**, Escuela Superior Politecnica del Litoral, Ecuador, 2015
+* **M.Sc. in Economics**, University of Granada, Spain, 2017
+* **B.Sc. in Economics**, Escuela Superior Politecnica del Litoral, Ecuador, 2015
 
 Research
 ======
@@ -38,9 +38,7 @@ Research
 * **Life Cycle Implications of Schooling on Financial Assets** [(PDF)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4723278)
 * **The Right of Self-Defense: Who is a Threat?** [(PDF)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4342111)
 * **The Silent Divides in Education’s Promise: Uneven Wealth Gains from College** [(PDF)](https://fernandoloaizae.github.io/files/GenderRace.pdf)
-
-## Current Research
-* Macroeconomic Implications of the Care Wave [(PDF)](https://fernandoloaizae.github.io/files/WP6_Deliverable.pdf)
+* **The Care Wave: Macroeconomic Impact of Prevention and Provision** [(PDF)](https://fernandoloaizae.github.io/files/PreventionProvision.pdf)
 
 <!--
   <ul>{% for post in site.publications %}
