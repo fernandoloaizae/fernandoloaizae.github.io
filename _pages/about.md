@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a Senior Researcher in Economics at the [Munich Research Institute for the Economics of Aging and SHARE Analyses](https://mea-share.eu) and a guest researcher at the [Max Planck Institute for Social Law and Social Policy](https://www.mpisoc.mpg.de/en/).
+I am a Senior Research Fellow in Economics at the Net Zero Lab in the [Max Planck Institute for Innovation and Competition](https://www.ip.mpg.de/en/).
 
-I am an applied economist with an interest in Public Economics and Household Finance. My motivation is to understand the main drivers of economic inequality to foster economic equality, alleviate poverty, and enhance social mobility.
-
-
+I am an applied economist with an interest in Public Economics. My motivation is to understand the main drivers of economic inequality to foster economic equality, alleviate poverty, and enhance social mobility. My research now involves evaluating environmental policies designed to lower carbon emissions.
