@@ -11,9 +11,10 @@ redirect_from:
 
 
 Fernando Loaiza, Ph.D. <br/>
-Postdoctoral Researcher   <br/>
-Munich Research Institute for the Economics of Aging and SHARE Analyses <br/>
-Leopoldstraße 139, 80804, Munich <br/>
+Senior Research Fellow   <br/>
+Net Zero Lab <br/>
+Max Planck Institute for Innovation and Competition <br/>
+Marstallplatz 1, 80539, Munich <br/>
 Germany  <br/>
 
 
