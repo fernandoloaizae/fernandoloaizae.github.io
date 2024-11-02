@@ -15,7 +15,6 @@ Work experience
 ======
 * **Senior Research Fellow**, [Max Planck Institute for Innovation and Competition](https://www.ip.mpg.de/en/), 2024 - Now
 * **Postdoctoral Researcher**, [Max Planck Institute for Social Law and Social Policy](https://www.mpisoc.mpg.de/en/), 2021 - 2024
-* **External Research Associate**, [Universidad Espíritu Santo Ecuador](https://uees.edu.ec/), 2021 - 2023
 * **Researcher**, [University of Rome Tor Vergata](https://economia.uniroma2.it/en/def), 2017 - 2021
 
 Education
