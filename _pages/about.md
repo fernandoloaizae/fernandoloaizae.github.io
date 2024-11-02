@@ -10,4 +10,4 @@ redirect_from:
 
 I am a Senior Research Fellow in Economics at the Net Zero Lab in the [Max Planck Institute for Innovation and Competition](https://www.ip.mpg.de/en/).
 
-I am an applied economist with an interest in Public Economics. My motivation is to understand the main drivers of economic inequality to foster economic equality, alleviate poverty, and enhance social mobility. My research now involves evaluating environmental policies designed to lower carbon emissions.
+I am an applied economist with an interest in Public Economics. My motivation is to identify and analyze economic policies that foster economic equality, reduce poverty, and enhance social mobility. Currently, my research focuses on evaluating environmental policies aimed at reducing carbon emissions.
