@@ -14,8 +14,8 @@ Fernando Loaiza, Ph.D. <br/>
 Senior Research Fellow   <br/>
 Net Zero Lab <br/>
 Max Planck Institute for Innovation and Competition <br/>
-Marstallplatz 1, 80539, Munich <br/>
-Germany  <br/>
+Marstallplatz 1, 80539, Munich, DE <br/>
+
 
 
 Email: [fernando.loaiza@ip.mpg.de](mailto:fernando.loaiza@ip.mpg.de)
