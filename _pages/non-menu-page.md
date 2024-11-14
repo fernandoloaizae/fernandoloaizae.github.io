@@ -12,8 +12,8 @@ redirect_from:
 
 Fernando Loaiza, Ph.D. <br/>
 Senior Research Fellow   <br/>
-Net Zero Lab <br/>
-Max Planck Institute for Innovation and Competition <br/>
+[Net Zero Lab](https://www.netzerolab.science/) <br/>
+[Max Planck Institute for Innovation and Competition](https://www.ip.mpg.de/en/) <br/>
 Marstallplatz 1, 80539, Munich, DE <br/>
 
 
