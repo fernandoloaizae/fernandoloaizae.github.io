@@ -26,12 +26,12 @@ redirect_from:
         <iframe 
             width="100%" 
             height="350" 
-            src="https://www.openstreetmap.org/export/embed.html?bbox=11.563839912414553%2C48.13612228103317%2C11.590919494628908%2C48.146961422155684&amp;layer=mapnik" 
+            src="https://www.openstreetmap.org/export/embed.html?bbox=11.563839912414553%2C48.13612228103317%2C11.590919494628908%2C48.146961422155684&amp;layer=mapnik&amp;marker=48.14154%2C11.57738" 
             style="border: 1px solid black;">
         </iframe>
         <br/>
         <small>
-            <a href="https://www.openstreetmap.org/#map=16/48.14154/11.57738">
+            <a href="https://www.openstreetmap.org/?mlat=48.14154&amp;mlon=11.57738#map=16/48.14154/11.57738">
                 View Larger Map
             </a>
         </small>
