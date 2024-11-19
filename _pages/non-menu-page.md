@@ -24,14 +24,14 @@ redirect_from:
     <!-- Embedded Map -->
     <div style="flex: 1; min-width: 300px;">
         <iframe 
-            width="100%" 
+            width="425" 
             height="350" 
-            src="https://www.openstreetmap.org/export/embed.html?bbox=11.563839912414553%2C48.13612228103317%2C11.590919494628908%2C48.146961422155684&amp;layer=mapnik&amp;marker=48.14154%2C11.57738" 
-            style="border: 1px solid black;">
+            src="https://www.openstreetmap.org/export/embed.html?bbox=11.580075323581697%2C48.140598894641364%2C11.582521498203278&amp;layer=mapnik&amp;marker=48.141276%2C11.581298" 
+            style="border: 1px solid black">
         </iframe>
         <br/>
         <small>
-            <a href="https://www.openstreetmap.org/?mlat=48.14154&amp;mlon=11.57738#map=16/48.14154/11.57738">
+            <a href="https://www.openstreetmap.org/?mlat=48.141276&amp;mlon=11.581298#map=19/48.141276/11.581298">
                 View Larger Map
             </a>
         </small>
