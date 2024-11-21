@@ -11,7 +11,7 @@ redirect_from:
 
 <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap; margin-top: 20px;">
     <!-- Contact Information -->
-    <div style="flex: 1; min-width: 400px; margin-top: 20px;">
+    <div style="flex: 1; min-width: 600px; margin-top: 20px;">
         Fernando Loaiza, Ph.D. <br/>
         Senior Research Fellow <br/>
         <a href="https://www.netzerolab.science/">Net Zero Lab</a> <br/>
