@@ -11,12 +11,13 @@ redirect_from:
 
 <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap; margin-top: 20px;">
     <!-- Contact Information -->
-    <div style="flex: 1; min-width: 300px; margin-top: 20px;">
+    <div style="flex: 1; min-width: 400px; margin-top: 20px;">
         Fernando Loaiza, Ph.D. <br/>
         Senior Research Fellow <br/>
         <a href="https://www.netzerolab.science/">Net Zero Lab</a> <br/>
         <a href="https://www.ip.mpg.de/en/">Max Planck Institute for Innovation and Competition</a> <br/>
         Marstallplatz 1, 80539, Munich, DE <br/>
+        Tel.: +49 89 24246-569
         <br/>
         Email: <a href="mailto:fernando.loaiza@ip.mpg.de">fernando.loaiza@ip.mpg.de</a>
     </div>
