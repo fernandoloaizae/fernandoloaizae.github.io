@@ -13,8 +13,8 @@ My full CV is available as [<span class="pdf-link">PDF</span>](http://fernandolo
 
 Work experience
 ======
-* **Senior Research Fellow**, [Max Planck Institute for Innovation and Competition](https://www.ip.mpg.de/en/), 2024 - Now
-* **Postdoctoral Researcher**, [Max Planck Institute for Social Law and Social Policy](https://www.mpisoc.mpg.de/en/), 2021 - 2024
+* **Senior Research Fellow**, Net Zero Lab, [Max Planck Institute for Innovation and Competition](https://www.ip.mpg.de/en/), 2024 - Now
+* **Postdoctoral Researcher**, MEA, [Max Planck Institute for Social Law and Social Policy](https://www.mpisoc.mpg.de/en/), 2021 - 2024
 * **Researcher**, [University of Rome Tor Vergata](https://economia.uniroma2.it/en/def), 2017 - 2021
 
 Education
@@ -47,9 +47,8 @@ Research
 Teaching
 ======
 * T.A. Finance and Growth
-* T.A. Business Statistics in R
-* T.A. Mathematics 1
-* Primary School Teacher
+* T.A. Business Statistics
+* T.A. Mathematics
 
 <!--
   <ul>{% for post in site.teaching %}
@@ -57,11 +56,13 @@ Teaching
   {% endfor %}</ul>
 -->
   
+<!--
 References
 ======
 * **[Axel Börsch-Supan, Ph.D.](https://www.mpg.de/1040232/sozialrecht-sozialpolitik-boersch-supan)**, Professor Emeritus in Economics
 * **[Pasquale Scaramozzino, Ph.D.](https://economia.uniroma2.it/faculty/229/scaramozzino-pasquale)**, Professor in Economics
 * **[Matthias Kredler, Ph.D.](https://economics.uc3m.es/personal/matthias-kredler/)**, Associate Professor in Economics
+-->
 
 <style>
 .pdf-link {
