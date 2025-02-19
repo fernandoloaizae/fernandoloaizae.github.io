@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Fernando Loaiza"
-  avatar           : "Loaiza_1.jpg"
+  avatar           : "Loaiza_2.jpg"
   bio              : "Senior Research Fellow"
   location         : "Munich, DE"
   employer         : 
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "fernandoloaizae"
-  orcid            : "https://orcid.org/0000-0002-1428-6682"
+  orcid            : #"https://orcid.org/0000-0002-1428-6682"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
