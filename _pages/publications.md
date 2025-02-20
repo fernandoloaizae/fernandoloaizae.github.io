@@ -115,13 +115,13 @@ This paper develops an overlapping generations (OLG) model to assess the macroec
 ### The Complementary Role of Human Capital in Innovation-Driven Decarbonization
 
 <div class="abstract-container">
-  <span class="abstract-toggle" onclick="toggleAbstract('bbf-abstract')">
+  <span class="abstract-toggle" onclick="toggleAbstract('education_co2')">
     <span class="triangle">&#9654;</span> Abstract
   </span> 
   <span class="separator">|</span> 
   <a href="https://fernandoloaizae.github.io/files/Education_CO2.pdf" class="download-link"> Working Paper</a>
 </div>
-<div id="bbf-abstract" style="display:none; margin-top: 8px;">
+<div id="education_co2" style="display:none; margin-top: 8px;">
 Achieving net-zero emissions requires a strategic alignment of human capital development and technological innovation. This study examines how education enhances the impact of R&D in reducing carbon emissions, using fixed effects and Difference-in-Differences methods. The findings confirm that while education and R&D independently influence emissions, their interaction significantly accelerates decarbonization, with evidence showing that countries with higher education and R\&D achieve a 7% emissions reduction. Mechanism analysis reveals that this interaction strengthens environmental policy enforcement, fosters the diffusion of green technologies, and improves energy efficiency. These results highlight the need for policies that integrate education and innovation to maximize environmental benefits, accelerate the transition to net zero, and support long-term carbon reduction.
 </div>
 
