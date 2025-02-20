@@ -37,6 +37,7 @@ Research
 * **The Right of Self-Defense: Who is a Threat?** [(PDF)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4342111)
 * **The Silent Divides in Education’s Promise: Uneven Wealth Gains from College** [(PDF)](https://fernandoloaizae.github.io/files/GenderRace.pdf)
 * **The Care Wave: Macroeconomic Impact of Prevention and Provision** [(PDF)](https://fernandoloaizae.github.io/files/PreventionProvision.pdf)
+* **The Complementary Role of Human Capital in Innovation-Driven Decarbonization** [(PDF)](https://fernandoloaizae.github.io/files/Education_CO2.pdf)
 
 <!--
   <ul>{% for post in site.publications %}
