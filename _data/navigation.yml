@@ -6,8 +6,5 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Teaching"
-    url: /teaching-experience/   
-    
   - title: "Contact"
     url: /non-menu-page/    
