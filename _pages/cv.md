@@ -34,7 +34,6 @@ Research
 * **Can Educational Policies Reduce Wealth Inequality?** [(PDF)](https://fernandoloaizae.github.io/files/Loaiza_JMP23.pdf)
 * **Interplay of Public and Private Educational Spending: Macroeconomic Implications** [(PDF)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4350825)
 * **Life Cycle Implications of Schooling on Financial Assets** [(PDF)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4723278)
-* **The Right of Self-Defense: Who is a Threat?** [(PDF)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4342111)
 * **The Silent Divides in Education’s Promise: Uneven Wealth Gains from College** [(PDF)](https://fernandoloaizae.github.io/files/GenderRace.pdf)
 * **The Care Wave: Macroeconomic Impact of Prevention and Provision** [(PDF)](https://fernandoloaizae.github.io/files/PreventionProvision.pdf)
 * **The Complementary Role of Human Capital in Innovation-Driven Decarbonization** [(PDF)](https://fernandoloaizae.github.io/files/Education_CO2.pdf)
