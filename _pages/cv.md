@@ -38,30 +38,6 @@ Research
 * **The Care Wave: Macroeconomic Impact of Prevention and Provision** [(PDF)](https://fernandoloaizae.github.io/files/PreventionProvision.pdf)
 * **The Complementary Role of Human Capital in Innovation-Driven Decarbonization** [(PDF)](https://fernandoloaizae.github.io/files/Education_CO2.pdf)
 
-<!--
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
--->
-
-Teaching
-======
-* T.A. Finance and Growth
-* T.A. Business Statistics in R
-* T.A. Mathematics 1
-* Primary School Teacher
-
-<!--
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
--->
-  
-References
-======
-* **[Axel Börsch-Supan, Ph.D.](https://www.mpg.de/1040232/sozialrecht-sozialpolitik-boersch-supan)**, Professor Emeritus in Economics
-* **[Pasquale Scaramozzino, Ph.D.](https://economia.uniroma2.it/faculty/229/scaramozzino-pasquale)**, Professor in Economics
-* **[Matthias Kredler, Ph.D.](https://economics.uc3m.es/personal/matthias-kredler/)**, Associate Professor in Economics
 
 <style>
 .pdf-link {
