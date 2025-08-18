@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Why Education Supercharges Green Innovation"
-date: 2025-08-18
+date: 2025-08-17
 author_profile: true
 ---
 
