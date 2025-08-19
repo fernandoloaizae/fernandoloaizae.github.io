@@ -3,7 +3,6 @@ layout: archive
 title: "Blog"
 permalink: /posts/
 author_profile: true
-entries_layout: grid     # two-column “cards”
 show_excerpts: true      # show short summaries
 classes: page--blog      # custom class so we can style just this page
 ---
