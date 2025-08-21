@@ -37,7 +37,9 @@
     {% if post.read_time or post.date %}
       <p class="post-meta-inline">
         {% if post.read_time %}
-          <i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}
+          <i class="fa fa-book" aria-hidden="true"></i>
+          <i class="fa fa-clock-o" aria-hidden="true"></i> 
+          {% include read-time.html %}
         {% endif %}
         {% if post.read_time and post.date %}
           <span class="sep">•</span>
@@ -48,6 +50,7 @@
         {% endif %}
       </p>
     {% endif %}
+
 
 
         {% if post.collection == 'teaching' %}
