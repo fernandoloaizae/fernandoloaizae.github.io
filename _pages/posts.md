@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Blog"
+title: "Policy Insights"
 permalink: /posts/
 author_profile: true
 ---
