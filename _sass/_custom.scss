@@ -1,0 +1,19 @@
+/* --- Custom blog style tweaks --- */
+
+/* Blog archive cards (the list under /posts/) */
+.archive__item-title {
+  margin-bottom: .2rem;   /* bring the title and meta closer */
+}
+
+.archive__item .page__meta {
+  font-size: .75rem;      /* make the text smaller */
+  margin-top: .1rem;      /* tighten space */
+  line-height: 1.2;
+}
+
+/* Single post pages */
+.page .page__inner-wrap header .page__meta {
+  font-size: .8rem;
+  margin-top: .2rem;
+  line-height: 1.3;
+}
