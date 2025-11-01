@@ -98,7 +98,17 @@ This study examines the impact of tertiary education on wealth in the U.S. by ge
 Achieving net-zero emissions requires a strategic alignment of human capital development and technological innovation. This study examines how education enhances the impact of R&D in reducing carbon emissions, using fixed effects and Difference-in-Differences methods. The findings confirm that while education and R&D independently influence emissions, their interaction significantly accelerates decarbonization, with evidence showing that countries with higher education and R\&D achieve a 7% emissions reduction. Mechanism analysis reveals that this interaction strengthens environmental policy enforcement, fosters the diffusion of green technologies, and improves energy efficiency. These results highlight the need for policies that integrate education and innovation to maximize environmental benefits, accelerate the transition to net zero, and support long-term carbon reduction.
 </div>
 
-### Rewarding Green Goals: The Effects of Environmental Incentives for CEOs
+### Rewarding Green Goals: The Effects of Environmental Incentives for CEOs<span class="coauthor">with Benedict Probst</span>
+
+<div class="abstract-container">
+  <span class="abstract-toggle" onclick="toggleAbstract('SYGL')">
+    <span class="triangle">&#9654;</span> Abstract
+  </span>
+</div>
+<div id="SYGL" style="display:none; margin-top: 8px;">
+This paper examines whether linking CEO bonuses to environmental performance leads to measurable improvements in firms’ environmental outcomes. Using a firm-level panel from 2015 to 2024, we identify the first year a CEO becomes entitled to such a bonus and compare changes in performance with matched control firms. Employing a matched difference-in-differences approach, we find that bonus adoption is followed by a significant reduction in scope 1 emissions. We also observe indications of heightened executive attention to environmental issues, alongside evidence of tangible climate performance gains. An analysis of underlying mechanisms suggests that changes in operational practices play a larger role in explaining the reduction of scope 1 emissions, but also some shifts in reporting practices. The study provides new causal evidence on ESG-linked compensation and offers insights for aligning executive incentives with sustainability goals.
+</div>
+
 
 ## Other Research
 
