@@ -85,19 +85,6 @@ This research explores the impact of education on individuals’ involvement wit
 This study examines the impact of tertiary education on wealth in the U.S. by gender, race, and generation, using multiple identification strategies. The findings reveal that males and White individuals gain more wealth from higher education, while females and Non-White groups see less benefit or even negative impacts. Generational analysis shows diminishing returns for younger cohorts, with those born after 1970 facing the least benefit. The effects are mediated by labor income and student loan burdens, highlighting the need to understand how these factors influence educational and wealth disparities across different demographics and generations.
 </div>
 
-### The Care Wave: Macroeconomic Impact of Prevention and Provision 
-
-<div class="abstract-container">
-  <span class="abstract-toggle" onclick="toggleAbstract('bbf-abstract')">
-    <span class="triangle">&#9654;</span> Abstract
-  </span> 
-  <span class="separator">|</span> 
-  <a href="https://fernandoloaizae.github.io/files/PreventionProvision.pdf" class="download-link"> Working Paper</a>
-</div>
-<div id="bbf-abstract" style="display:none; margin-top: 8px;">
-This paper develops an overlapping generations (OLG) model to assess the macroeconomic and social impacts of Europe’s demographic transition, focusing on the retirement of the baby boomer generation and the rising demand for long-term care (LTC). As aging accelerates, two policy approaches are evaluated: preventive health measures aimed at reducing future LTC needs and expanding LTC insurance coverage to meet the immediate care demands. The model, calibrated to EU5 countries, explores the effects of these strategies on economic growth, inequality, and fiscal sustainability. The findings highlight the trade-offs between healthier aging, increased public spending, and the burden on younger generations, providing insights into balancing economic growth and equity as Europe faces the challenges of an aging population.
-</div>
-
 ### The Complementary Role of Human Capital in Innovation-Driven Decarbonization
 
 <div class="abstract-container">
@@ -110,6 +97,8 @@ This paper develops an overlapping generations (OLG) model to assess the macroec
 <div id="education_co2" style="display:none; margin-top: 8px;">
 Achieving net-zero emissions requires a strategic alignment of human capital development and technological innovation. This study examines how education enhances the impact of R&D in reducing carbon emissions, using fixed effects and Difference-in-Differences methods. The findings confirm that while education and R&D independently influence emissions, their interaction significantly accelerates decarbonization, with evidence showing that countries with higher education and R\&D achieve a 7% emissions reduction. Mechanism analysis reveals that this interaction strengthens environmental policy enforcement, fosters the diffusion of green technologies, and improves energy efficiency. These results highlight the need for policies that integrate education and innovation to maximize environmental benefits, accelerate the transition to net zero, and support long-term carbon reduction.
 </div>
+
+### Rewarding Green Goals: The Effects of Environmental Incentives for CEOs
 
 ## Other Research
 
@@ -124,6 +113,19 @@ Achieving net-zero emissions requires a strategic alignment of human capital dev
 </div>
 <div id="SYGL" style="display:none; margin-top: 8px;">
 This paper investigates the impact of Stand Your Ground laws, which extend self-defense rights beyond private property, on various crime-related outcomes. Initiated by Florida in 2005, these laws now exist in twenty-five U.S. states, allowing individuals to use reasonable force, including deadly force, in self-defense in any location legally occupied. Our analysis uncovers significant consequences by utilizing a generalized difference-in-differences methodology to assess the staggered enactment of SYG laws across counties. We find that the adoption of SYG laws increases racial and justifiable homicide rates, as well as hate crime incidents. These results challenge the idea that broadening the scope of self-defense laws will increase public safety by deterring crime. Instead, it might increase discriminatory violence and societal divisions.
+</div>
+
+### The Care Wave: Macroeconomic Impact of Prevention and Provision 
+
+<div class="abstract-container">
+  <span class="abstract-toggle" onclick="toggleAbstract('bbf-abstract')">
+    <span class="triangle">&#9654;</span> Abstract
+  </span> 
+  <span class="separator">|</span> 
+  <a href="https://fernandoloaizae.github.io/files/PreventionProvision.pdf" class="download-link"> Working Paper</a>
+</div>
+<div id="bbf-abstract" style="display:none; margin-top: 8px;">
+This paper develops an overlapping generations (OLG) model to assess the macroeconomic and social impacts of Europe’s demographic transition, focusing on the retirement of the baby boomer generation and the rising demand for long-term care (LTC). As aging accelerates, two policy approaches are evaluated: preventive health measures aimed at reducing future LTC needs and expanding LTC insurance coverage to meet the immediate care demands. The model, calibrated to EU5 countries, explores the effects of these strategies on economic growth, inequality, and fiscal sustainability. The findings highlight the trade-offs between healthier aging, increased public spending, and the burden on younger generations, providing insights into balancing economic growth and equity as Europe faces the challenges of an aging population.
 </div>
 
 
