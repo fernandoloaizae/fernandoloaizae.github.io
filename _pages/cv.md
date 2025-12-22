@@ -27,13 +27,12 @@ Research
 ======
 ## Publications
 * [**The Effects of Medicaid Expansion on the Racial/Ethnic Composition within Nursing Home Residents.**](https://healtheconomicsreview.biomedcentral.com/articles/10.1186/s13561-024-00517-3) Health Economics Review, 2024
+* [**Implications of Schooling on Financial Assets.**](https://www.tandfonline.com/doi/epdf/10.1080/09645292.2025.2607110?needAccess=true) Education Economics, 2025
 
 ## Working Papers
 * **Can Educational Policies Reduce Wealth Inequality?** [(PDF)](https://fernandoloaizae.github.io/files/Loaiza_JMP23.pdf)
 * **Interplay of Public and Private Educational Spending: Macroeconomic Implications** [(PDF)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4350825)
-* **Life Cycle Implications of Schooling on Financial Assets** [(PDF)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4723278)
 * **The Silent Divides in Education’s Promise: Uneven Wealth Gains from College** [(PDF)](https://fernandoloaizae.github.io/files/GenderRace.pdf)
-* **The Care Wave: Macroeconomic Impact of Prevention and Provision** [(PDF)](https://fernandoloaizae.github.io/files/PreventionProvision.pdf)
 * **The Complementary Role of Human Capital in Innovation-Driven Decarbonization** [(PDF)](https://fernandoloaizae.github.io/files/Education_CO2.pdf)
 * **Rewarding Green Goals: The Effects of Environmental Incentives for CEOs**
 
