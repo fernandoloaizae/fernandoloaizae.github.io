@@ -31,6 +31,23 @@ author_profile: true
   <p><strong>Conclusions:</strong> Medicaid expansion has not diversified nursing home demographics as hypothesized; instead, it has led to a more uniform racial composition, favoring White residents. This trend may be driven by nursing home preferences and financial incentives, which could favor residents with private insurance or higher personal funds. Mechanisms such as payment preferences and local cost variations likely contribute to these shifts, potentially disadvantaging Medicaid-reliant minority residents. These findings highlight the complex interplay between healthcare policy implementation and racial disparities in access to long-term care, suggesting a need for further research on the underlying mechanisms and implications for policy refinement.</p>
 </div>
 
+### Implications of Schooling on Financial Assets
+
+<div class="details">
+  <a href="https://www.tandfonline.com/doi/epdf/10.1080/09645292.2025.2607110?needAccess=true">Education Economics, 2025</a>
+</div>
+
+<div class="abstract-container">
+  <span class="abstract-toggle" onclick="toggleAbstract('CH3')">
+    <span class="triangle">&#9654;</span> Abstract
+  </span> 
+  <span class="separator">|</span> 
+  <a href="https://fernandoloaizae.github.io/files/Loaiza_EE2025.pdf" class="download-link">Published Paper</a>
+</div>
+<div id="CH3" style="display:none; margin-top: 8px;">
+This research explores the impact of education on individuals’ involvement with financial assets such as savings, annuities/IRAs, and stocks in the United States throughout their lifetimes. Utilizing panel data and various identification strategies, the findings indicate that education leads to greater investment in these assets, although the extent varies depending on the individual’s life stage and level of education. The paper examines how higher incomes resulting from better education, improved financial behaviors, and an increased willingness to take risks due to educational attainment contribute to these outcomes. While all three factors are influential, the impact of education is moderated by variables such as parental wealth and inheritance. This research suggests that increasing education could help more people invest wisely and increase their financial stability. It provides insights into the relationship between education and financial management, highlighting potential avenues for enabling more individuals to benefit from financial assets.
+</div>
+
 ## Working Papers
 
 ### Can Educational Policies Reduce Wealth Inequality?
@@ -57,19 +74,6 @@ This study investigates the causal relationship between education and wealth acc
 </div>
 <div id="CH1" style="display:none; margin-top: 8px;">
 This study investigates the causal relationship between education and wealth accumulation. Utilizing three distinct identification strategies, the research analyzes a panel dataset from the United States, encompassing two generations, to explore the dynamics of this relationship. The empirical findings indicate that higher educational attainment, particularly at the college and postgraduate levels, leads to a significant increase in lifetime wealth. This effect varies based on an individual's life stage, their position within the wealth distribution, and the level of education attained. Subsequently, the paper develops a life-cycle heterogeneous agents model to assess the impact of educational policies on wealth accumulation. Calibrated using U.S. data, this model focuses on policies aimed at enhancing the quality and quantity of higher education. The analysis reveals that increasing the proportion of college-educated individuals could potentially reduce wealth inequality. This study contributes to the understanding of education as a relevant factor in wealth generation and distribution.
-</div>
-
-### Life Cycle Implications of Schooling on Financial Assets
-
-<div class="abstract-container">
-  <span class="abstract-toggle" onclick="toggleAbstract('CH3')">
-    <span class="triangle">&#9654;</span> Abstract
-  </span> 
-  <span class="separator">|</span> 
-  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4723278" class="download-link">Working Paper</a>
-</div>
-<div id="CH3" style="display:none; margin-top: 8px;">
-This research explores the impact of education on individuals’ involvement with financial assets such as savings, annuities/IRAs, and stocks in the United States throughout their lifetimes. Utilizing panel data and various identification strategies, the findings indicate that education leads to greater investment in these assets, although the extent varies depending on the individual’s life stage and level of education. The paper examines how higher incomes resulting from better education, improved financial behaviors, and an increased willingness to take risks due to educational attainment contribute to these outcomes. While all three factors are influential, the impact of education is moderated by variables such as parental wealth and inheritance. This research suggests that increasing education could help more people invest wisely and increase their financial stability. It provides insights into the relationship between education and financial management, highlighting potential avenues for enabling more individuals to benefit from financial assets.
 </div>
 
 ### The Silent Divides in Education’s Promise: Uneven Wealth Gains from College
