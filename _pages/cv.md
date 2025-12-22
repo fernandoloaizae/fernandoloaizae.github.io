@@ -31,7 +31,7 @@ Research
 
 ## Working Papers
 * **Can Educational Policies Reduce Wealth Inequality?** [(PDF)](https://fernandoloaizae.github.io/files/Loaiza_JMP23.pdf)
-* **Interplay of Public and Private Educational Spending: Macroeconomic Implications** [(PDF)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4350825)
+* **Interplay of Public and Private Educational Spending: Macroeconomic Implications** [(PDF)](https://fernandoloaizae.github.io/files/Public_Private.pdf)
 * **The Silent Divides in Education’s Promise: Uneven Wealth Gains from College** [(PDF)](https://fernandoloaizae.github.io/files/GenderRace.pdf)
 * **The Complementary Role of Human Capital in Innovation-Driven Decarbonization** [(PDF)](https://fernandoloaizae.github.io/files/Education_CO2.pdf)
 * **Rewarding Green Goals: The Effects of Environmental Incentives for CEOs**
