@@ -12,18 +12,21 @@ author_profile: true
 {% include base_path %}
 
 
-
 ### The Complementary Role of Human Capital in Innovation-Driven Decarbonization
+
+<div class="details">
+  <a href="https://fernandoloaizae.github.io/files/Education_CO2.pdf">Economic Analysis and Policy, 2026</a>
+</div>
 
 <div class="abstract-container">
   <span class="abstract-toggle" onclick="toggleAbstract('education_co2')">
     <span class="triangle">&#9654;</span> Abstract
   </span> 
   <span class="separator">|</span> 
-  <a href="https://fernandoloaizae.github.io/files/Education_CO2.pdf" class="download-link">Published Paper (Forthcoming)</a>
+  <a href="https://fernandoloaizae.github.io/files/Education_CO2.pdf" class="download-link">Forthcoming Paper</a>
 </div>
 <div id="education_co2" style="display:none; margin-top: 8px;">
-Achieving net-zero emissions requires a strategic alignment of human capital development and technological innovation. This study examines how education enhances the impact of R&D in reducing carbon emissions, using fixed effects and Difference-in-Differences methods. The findings confirm that while education and R&D independently influence emissions, their interaction significantly accelerates decarbonization, with evidence showing that countries with higher education and R\&D achieve a 7% emissions reduction. Mechanism analysis reveals that this interaction strengthens environmental policy enforcement, fosters the diffusion of green technologies, and improves energy efficiency. These results highlight the need for policies that integrate education and innovation to maximize environmental benefits, accelerate the transition to net zero, and support long-term carbon reduction.
+Achieving net-zero emissions requires not only technological innovation but also the capacity to absorb and implement it effectively. This study investigates how absorptive capacity, defined as the interaction between tertiary education and R\&D investment, amplifies the impact of innovation on carbon emissions. Using fixed effects and Difference-in-Differences models, the analysis shows that while R\&D alone reduces emissions, its effect is significantly stronger in countries with higher levels of education. Mechanism analyses reveal that absorptive capacity enhances environmental outcomes by strengthening policy enforcement, accelerating the diffusion of green technologies, and improving energy efficiency. These findings highlight the importance of aligning education and innovation policies to unlock the full decarbonization potential of climate technologies.
 </div>
 
 
