@@ -11,6 +11,40 @@ author_profile: true
 
 {% include base_path %}
 
+
+
+### The Complementary Role of Human Capital in Innovation-Driven Decarbonization
+
+<div class="abstract-container">
+  <span class="abstract-toggle" onclick="toggleAbstract('education_co2')">
+    <span class="triangle">&#9654;</span> Abstract
+  </span> 
+  <span class="separator">|</span> 
+  <a href="https://fernandoloaizae.github.io/files/Education_CO2.pdf" class="download-link">Published Paper (Forthcoming)</a>
+</div>
+<div id="education_co2" style="display:none; margin-top: 8px;">
+Achieving net-zero emissions requires a strategic alignment of human capital development and technological innovation. This study examines how education enhances the impact of R&D in reducing carbon emissions, using fixed effects and Difference-in-Differences methods. The findings confirm that while education and R&D independently influence emissions, their interaction significantly accelerates decarbonization, with evidence showing that countries with higher education and R\&D achieve a 7% emissions reduction. Mechanism analysis reveals that this interaction strengthens environmental policy enforcement, fosters the diffusion of green technologies, and improves energy efficiency. These results highlight the need for policies that integrate education and innovation to maximize environmental benefits, accelerate the transition to net zero, and support long-term carbon reduction.
+</div>
+
+
+### Implications of Schooling on Financial Assets
+
+<div class="details">
+  <a href="https://www.tandfonline.com/doi/epdf/10.1080/09645292.2025.2607110?needAccess=true">Education Economics, 2025</a>
+</div>
+
+<div class="abstract-container">
+  <span class="abstract-toggle" onclick="toggleAbstract('CH3')">
+    <span class="triangle">&#9654;</span> Abstract
+  </span> 
+  <span class="separator">|</span> 
+  <a href="https://fernandoloaizae.github.io/files/Loaiza_EE2025.pdf" class="download-link">Published Paper</a>
+</div>
+<div id="CH3" style="display:none; margin-top: 8px;">
+This research explores the impact of education on individuals' involvement with financial assets such as savings, annuities/IRAs, and stocks in the United States. Utilizing panel data and various identification strategies, the findings indicate that education is associated with greater investment in these assets, particularly among those with college and postgraduate degrees. The paper examines how higher incomes resulting from better education, improved financial behaviors, and an increased willingness to take risks contribute to these outcomes. This research provides insights into the relationship between education and financial management, highlighting potential avenues for enabling broader participation in asset accumulation.
+</div>
+
+
 ### The Effects of Medicaid Expansion on the Racial/Ethnic Composition within Nursing Home Residents
 
 <div class="details">
@@ -31,22 +65,6 @@ author_profile: true
   <p><strong>Conclusions:</strong> Medicaid expansion has not diversified nursing home demographics as hypothesized; instead, it has led to a more uniform racial composition, favoring White residents. This trend may be driven by nursing home preferences and financial incentives, which could favor residents with private insurance or higher personal funds. Mechanisms such as payment preferences and local cost variations likely contribute to these shifts, potentially disadvantaging Medicaid-reliant minority residents. These findings highlight the complex interplay between healthcare policy implementation and racial disparities in access to long-term care, suggesting a need for further research on the underlying mechanisms and implications for policy refinement.</p>
 </div>
 
-### Implications of Schooling on Financial Assets
-
-<div class="details">
-  <a href="https://www.tandfonline.com/doi/epdf/10.1080/09645292.2025.2607110?needAccess=true">Education Economics, 2025</a>
-</div>
-
-<div class="abstract-container">
-  <span class="abstract-toggle" onclick="toggleAbstract('CH3')">
-    <span class="triangle">&#9654;</span> Abstract
-  </span> 
-  <span class="separator">|</span> 
-  <a href="https://fernandoloaizae.github.io/files/Loaiza_EE2025.pdf" class="download-link">Published Paper</a>
-</div>
-<div id="CH3" style="display:none; margin-top: 8px;">
-This research explores the impact of education on individuals' involvement with financial assets such as savings, annuities/IRAs, and stocks in the United States. Utilizing panel data and various identification strategies, the findings indicate that education is associated with greater investment in these assets, particularly among those with college and postgraduate degrees. The paper examines how higher incomes resulting from better education, improved financial behaviors, and an increased willingness to take risks contribute to these outcomes. This research provides insights into the relationship between education and financial management, highlighting potential avenues for enabling broader participation in asset accumulation.
-</div>
 
 ## Working Papers
 
@@ -87,19 +105,6 @@ This study investigates the causal relationship between education and wealth acc
 </div>
 <div id="CH4" style="display:none; margin-top: 8px;">
 This study examines the impact of tertiary education on wealth in the U.S. by gender, race, and generation, using multiple identification strategies. The findings reveal that males and White individuals gain more wealth from higher education, while females and Non-White groups see less benefit or even negative impacts. Generational analysis shows diminishing returns for younger cohorts, with those born after 1970 facing the least benefit. The effects are mediated by labor income and student loan burdens, highlighting the need to understand how these factors influence educational and wealth disparities across different demographics and generations.
-</div>
-
-### The Complementary Role of Human Capital in Innovation-Driven Decarbonization
-
-<div class="abstract-container">
-  <span class="abstract-toggle" onclick="toggleAbstract('education_co2')">
-    <span class="triangle">&#9654;</span> Abstract
-  </span> 
-  <span class="separator">|</span> 
-  <a href="https://fernandoloaizae.github.io/files/Education_CO2.pdf" class="download-link"> Working Paper</a>
-</div>
-<div id="education_co2" style="display:none; margin-top: 8px;">
-Achieving net-zero emissions requires a strategic alignment of human capital development and technological innovation. This study examines how education enhances the impact of R&D in reducing carbon emissions, using fixed effects and Difference-in-Differences methods. The findings confirm that while education and R&D independently influence emissions, their interaction significantly accelerates decarbonization, with evidence showing that countries with higher education and R\&D achieve a 7% emissions reduction. Mechanism analysis reveals that this interaction strengthens environmental policy enforcement, fosters the diffusion of green technologies, and improves energy efficiency. These results highlight the need for policies that integrate education and innovation to maximize environmental benefits, accelerate the transition to net zero, and support long-term carbon reduction.
 </div>
 
 ### Rewarding Green Goals: The Effects of Environmental Incentives for CEOs<span class="coauthor">with Benedict Probst</span>
