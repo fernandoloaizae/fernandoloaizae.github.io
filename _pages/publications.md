@@ -152,17 +152,33 @@ This paper develops an overlapping generations (OLG) model to assess the macroec
 
 
 <style>
+/* Publication titles (### in Markdown → h3) */
+h3 {
+  margin-top: 1.2em;
+  margin-bottom: 0.3em;
+}
+
+/* Coauthor styling */
 .coauthor {
-  font-weight: normal; /* Ensure the coauthor name is not bold */
-  font-size: 0.9em; /* Adjust font size to be slightly smaller */
-  margin-left: 10px; /* Add some space between the title and the coauthor name */
+  font-weight: normal;
+  font-size: 0.9em;
+  margin-left: 10px;
 }
 
+/* Journal / year line */
+.details {
+  font-weight: normal;
+  font-size: 0.9em;
+  margin-bottom: 2px; /* reduced from 5px */
+}
+
+/* Abstract + download row */
 .abstract-container {
-  margin-top: 0.2em; 
-  margin-bottom: 5px; 
+  margin-top: 0.15em;
+  margin-bottom: 3px; /* reduced from 5px */
 }
 
+/* Abstract toggle */
 .abstract-toggle {
   cursor: pointer;
   color: #333;
@@ -171,23 +187,29 @@ This paper develops an overlapping generations (OLG) model to assess the macroec
   font-size: 0.9em;
 }
 
+/* Triangle animation */
 .triangle {
   margin-right: 5px;
   transition: transform 0.3s ease;
 }
 
+/* Separator between links */
 .separator {
-  margin: 0 10px;
+  margin: 0 8px; /* slightly tighter */
   color: #ccc;
   font-size: 0.9em;
 }
 
-.details {
-  font-weight: normal;
-  font-size: 0.9em;
-  margin-bottom: 5px;
+/* Abstract text spacing */
+.abstract-container + div {
+  margin-bottom: 0.6em;
 }
 
+.abstract-container + div p {
+  margin-bottom: 0.4em;
+}
+
+/* Download link */
 .download-link {
   color: #1e90ff;
   text-decoration: none;
@@ -198,6 +220,7 @@ This paper develops an overlapping generations (OLG) model to assess the macroec
   text-decoration: underline;
 }
 </style>
+
 <script>
   function toggleAbstract(id) {
     var element = document.getElementById(id);
