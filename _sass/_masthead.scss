@@ -1,21 +1,27 @@
 /* ==========================================================================
-   MASTHEAD
+   MASTHEAD - Modern Dark Sticky Nav
    ========================================================================== */
 
 .masthead {
-  position: relative;
-  border-bottom: 1px solid $border-color;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background-color: #0f172a;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+  box-shadow: 0 1px 20px rgba(0, 0, 0, 0.3);
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
   -webkit-animation-delay: 0.15s;
           animation-delay: 0.15s;
-  z-index: 20;
 
   &__inner-wrap {
     @include container;
     @include clearfix;
-    padding: 1em 1em 1em;
-    font-family: $sans-serif-narrow;
+    display: flex;
+    align-items: center;
+    padding: 0 1.5em;
+    height: 64px;
+    font-family: $sans-serif;
 
     @include breakpoint($x-large) {
       max-width: $x-large;
@@ -23,6 +29,7 @@
 
     nav {
       z-index: 10;
+      width: 100%;
     }
 
     a {
@@ -32,12 +39,40 @@
 }
 
 .masthead__menu {
+  width: 100%;
 
   ul {
     margin: 0;
     padding: 0;
     clear: both;
     list-style-type: none;
+    display: flex;
+    align-items: center;
+  }
+}
+
+.greedy-nav {
+  display: flex;
+  align-items: center;
+  width: 100%;
+
+  .visible-links {
+    display: flex;
+    align-items: center;
+    flex: 1;
+    gap: 0;
+  }
+
+  button {
+    background: transparent;
+    border: none;
+    padding: 0.5em;
+    cursor: pointer;
+    order: 9999;
+
+    @include breakpoint($large) {
+      display: none;
+    }
   }
 }
 
@@ -46,8 +81,134 @@
   list-style-type: none;
   white-space: nowrap;
 
+  a {
+    color: rgba(255, 255, 255, 0.75);
+    font-size: 0.875rem;
+    font-weight: 500;
+    letter-spacing: 0.01em;
+    padding: 0.35em 0;
+    position: relative;
+    transition: color 0.2s ease;
+
+    &::after {
+      content: '';
+      position: absolute;
+      bottom: -2px;
+      left: 0;
+      width: 0;
+      height: 2px;
+      background-color: #2563eb;
+      border-radius: 2px;
+      transition: width 0.25s ease;
+    }
+
+    &:hover {
+      color: #ffffff;
+
+      &::after {
+        width: 100%;
+      }
+    }
+  }
+
   &--lg {
-    padding-right: 2em;
-    font-weight: 700;
+    margin-right: auto;
+    padding-right: 0;
+
+    a {
+      color: #ffffff;
+      font-size: 1rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+
+      &::after {
+        display: none;
+      }
+
+      &:hover {
+        color: #ffffff;
+        opacity: 0.85;
+      }
+    }
+  }
+
+  & + &:not(&--lg) {
+    margin-left: 2em;
+  }
+}
+
+/* Hamburger icon */
+.navicon {
+  position: relative;
+  display: block;
+  width: $navicon-width;
+  height: $navicon-height;
+  background: rgba(255, 255, 255, 0.75);
+  border-radius: 2px;
+  transition: background 0.2s ease;
+
+  &::before,
+  &::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    width: $navicon-width;
+    height: $navicon-height;
+    background: rgba(255, 255, 255, 0.75);
+    border-radius: 2px;
+    transition: all 0.2s ease;
+  }
+
+  &::before {
+    top: -($navicon-height * 2 + 2px);
+  }
+
+  &::after {
+    bottom: -($navicon-height * 2 + 2px);
+  }
+}
+
+.greedy-nav button:hover .navicon,
+.greedy-nav button:hover .navicon::before,
+.greedy-nav button:hover .navicon::after {
+  background: #ffffff;
+}
+
+/* Hidden mobile menu dropdown */
+.hidden-links {
+  position: absolute;
+  top: 64px;
+  right: 0;
+  background-color: #0f172a;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 8px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.4);
+  padding: 0.5em 0;
+  list-style: none;
+  margin: 0;
+  min-width: 160px;
+
+  &.hidden {
+    display: none;
+  }
+
+  .masthead__menu-item {
+    margin: 0;
+
+    a {
+      display: block;
+      padding: 0.6em 1.25em;
+      color: rgba(255, 255, 255, 0.8);
+      font-size: 0.875rem;
+
+      &::after {
+        display: none;
+      }
+
+      &:hover {
+        color: #ffffff;
+        background-color: rgba(255, 255, 255, 0.06);
+      }
+    }
   }
 }
