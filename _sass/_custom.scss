@@ -44,6 +44,13 @@
    (lets sections span full viewport width)
    ============================================================ */
 
+/* Fix: _navigation.scss (imported after _masthead.scss) sets .greedy-nav
+   background to white. Override here (last import) so the dark masthead
+   background shows through on all screen sizes. */
+.greedy-nav {
+  background: transparent !important;
+}
+
 .page__inner-wrap {
   padding-top: 0.5em;
 }

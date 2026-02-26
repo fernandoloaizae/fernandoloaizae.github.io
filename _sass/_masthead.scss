@@ -65,7 +65,15 @@
   }
 
   button {
-    display: none; /* always hidden — no hamburger ever */
+    background: transparent;
+    border: none;
+    padding: 0.5em;
+    cursor: pointer;
+    order: 9999;
+
+    @include breakpoint($large) {
+      display: none;
+    }
   }
 }
 
@@ -130,15 +138,14 @@
   }
 }
 
-/* Hamburger icon */
+/* Hamburger icon — invisible on mobile (matches dark nav background) */
 .navicon {
   position: relative;
   display: block;
   width: $navicon-width;
   height: $navicon-height;
-  background: rgba(255, 255, 255, 0.75);
+  background: #0f172a;
   border-radius: 2px;
-  transition: background 0.2s ease;
 
   &::before,
   &::after {
@@ -147,9 +154,8 @@
     left: 0;
     width: $navicon-width;
     height: $navicon-height;
-    background: rgba(255, 255, 255, 0.75);
+    background: #0f172a;
     border-radius: 2px;
-    transition: all 0.2s ease;
   }
 
   &::before {
@@ -159,12 +165,6 @@
   &::after {
     bottom: -($navicon-height * 2 + 2px);
   }
-}
-
-.greedy-nav button:hover .navicon,
-.greedy-nav button:hover .navicon::before,
-.greedy-nav button:hover .navicon::after {
-  background: #ffffff;
 }
 
 /* Hidden mobile menu dropdown — not used (hamburger disabled) */
