@@ -175,66 +175,17 @@
 }
 
 /* ---------------------------------------------------------------
-   MOBILE NAV — two-row layout, no hamburger
+   MOBILE NAV — name only, no links, no hamburger
+   Single-page site: users scroll, no nav links needed on mobile
    --------------------------------------------------------------- */
 @media (max-width: 900px) {
-  .masthead__inner-wrap {
-    height: auto;
-    padding-top: 0.55em;
-    padding-bottom: 0.55em;
+  /* Hide all nav links on mobile — only the site name stays */
+  .masthead__menu-item:not(.masthead__menu-item--lg) {
+    display: none !important;
   }
 
-  .greedy-nav {
-    flex-wrap: wrap;
-  }
-
-  .visible-links {
-    flex-wrap: wrap;
-    row-gap: 0.15em;
-
-    /* Name takes its own full-width row */
-    .masthead__menu-item--lg {
-      width: 100%;
-    }
-
-    /* Tighter gaps between nav links on mobile */
-    .masthead__menu-item + .masthead__menu-item:not(.masthead__menu-item--lg) {
-      margin-left: 1.25em;
-    }
-  }
-
-  /* If greedy-nav JS still moves items to hidden-links,
-     render them inline so nothing is ever lost */
+  /* Also suppress any items the JS moves to hidden-links */
   .hidden-links {
-    position: static !important;
-    background: transparent !important;
-    border: none !important;
-    box-shadow: none !important;
-    padding: 0 !important;
-    margin: 0 !important;
-    min-width: 0 !important;
-    display: flex !important;
-    flex-wrap: wrap;
-    gap: 0 1.25em;
-
-    .masthead__menu-item {
-      margin: 0;
-
-      a {
-        padding: 0.35em 0;
-        color: rgba(255, 255, 255, 0.75);
-        font-size: 0.875rem;
-        background: none;
-
-        &::after {
-          display: block;
-        }
-
-        &:hover {
-          color: #ffffff;
-          background: none;
-        }
-      }
-    }
+    display: none !important;
   }
 }
