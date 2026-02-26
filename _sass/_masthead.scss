@@ -64,15 +64,7 @@
   }
 
   button {
-    background: transparent;
-    border: none;
-    padding: 0.5em;
-    cursor: pointer;
-    order: 9999;
-
-    @include breakpoint($large) {
-      display: none;
-    }
+    display: none; /* always hidden — no hamburger ever */
   }
 }
 
@@ -174,40 +166,73 @@
   background: #ffffff;
 }
 
-/* Hidden mobile menu dropdown */
+/* Hidden mobile menu dropdown — not used (hamburger disabled) */
 .hidden-links {
-  position: absolute;
-  top: 64px;
-  right: 0;
-  background-color: #0f172a;
-  border: 1px solid rgba(255, 255, 255, 0.1);
-  border-radius: 8px;
-  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.4);
-  padding: 0.5em 0;
-  list-style: none;
-  margin: 0;
-  min-width: 160px;
-
   &.hidden {
     display: none;
   }
+}
 
-  .masthead__menu-item {
-    margin: 0;
+/* ---------------------------------------------------------------
+   MOBILE NAV — two-row layout, no hamburger
+   --------------------------------------------------------------- */
+@media (max-width: 900px) {
+  .masthead__inner-wrap {
+    height: auto;
+    padding-top: 0.55em;
+    padding-bottom: 0.55em;
+  }
 
-    a {
-      display: block;
-      padding: 0.6em 1.25em;
-      color: rgba(255, 255, 255, 0.8);
-      font-size: 0.875rem;
+  .greedy-nav {
+    flex-wrap: wrap;
+  }
 
-      &::after {
-        display: none;
-      }
+  .visible-links {
+    flex-wrap: wrap;
+    row-gap: 0.15em;
 
-      &:hover {
-        color: #ffffff;
-        background-color: rgba(255, 255, 255, 0.06);
+    /* Name takes its own full-width row */
+    .masthead__menu-item--lg {
+      width: 100%;
+    }
+
+    /* Tighter gaps between nav links on mobile */
+    .masthead__menu-item + .masthead__menu-item:not(.masthead__menu-item--lg) {
+      margin-left: 1.25em;
+    }
+  }
+
+  /* If greedy-nav JS still moves items to hidden-links,
+     render them inline so nothing is ever lost */
+  .hidden-links {
+    position: static !important;
+    background: transparent !important;
+    border: none !important;
+    box-shadow: none !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    min-width: 0 !important;
+    display: flex !important;
+    flex-wrap: wrap;
+    gap: 0 1.25em;
+
+    .masthead__menu-item {
+      margin: 0;
+
+      a {
+        padding: 0.35em 0;
+        color: rgba(255, 255, 255, 0.75);
+        font-size: 0.875rem;
+        background: none;
+
+        &::after {
+          display: block;
+        }
+
+        &:hover {
+          color: #ffffff;
+          background: none;
+        }
       }
     }
   }
