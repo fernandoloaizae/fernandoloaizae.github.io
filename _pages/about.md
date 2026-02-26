@@ -48,7 +48,7 @@ redirect_from:
      RESEARCH
      ================================================ -->
 <section class="onepage-section onepage-section--dark" id="research">
-<h2 class="onepage-heading fade-in-up">Research</h2>
+<h2 class="onepage-heading">Research</h2>
 
 <div class="pub-category-label">Publications</div>
 
@@ -170,7 +170,7 @@ This paper develops an overlapping generations (OLG) model to assess the macroec
      CV
      ================================================ -->
 <section class="onepage-section" id="cv">
-<h2 class="onepage-heading fade-in-up">Curriculum Vitae</h2>
+<h2 class="onepage-heading">Curriculum Vitae</h2>
 
 <p><a href="/files/CV_Loaiza.pdf" class="cv-download-link"><i class="fas fa-arrow-down"></i>&nbsp; Download full CV</a></p>
 
@@ -223,7 +223,7 @@ This paper develops an overlapping generations (OLG) model to assess the macroec
      CONTACT
      ================================================ -->
 <section class="onepage-section onepage-section--dark" id="contact">
-<h2 class="onepage-heading fade-in-up">Get in Touch</h2>
+<h2 class="onepage-heading">Get in Touch</h2>
 
 <p class="contact-intro">I am always happy to discuss research, collaborations, or just connect. Feel free to reach out through any of the channels below.</p>
 
