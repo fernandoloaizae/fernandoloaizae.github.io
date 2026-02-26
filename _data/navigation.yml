@@ -1,13 +1,13 @@
-# main links links
+# main links
 main:
   - title: "Research"
-    url: /publications/  
-    
+    url: /#research
+
   - title: "CV"
-    url: /cv/
+    url: /#cv
 
   - title: "Blog"
     url: /posts/
-        
+
   - title: "Contact"
-    url: /non-menu-page/    
+    url: /#contact
