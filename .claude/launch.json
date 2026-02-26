@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "jekyll",
+      "runtimeExecutable": "bash",
+      "runtimeArgs": ["-c", "cd '/Users/fernandoloaizae/Library/CloudStorage/OneDrive-Personal/GitHub/fernandoloaizae.github.io/.claude/worktrees/gifted-mcclintock' && eval \"$(rbenv init -)\" && bundle exec jekyll serve --port 4000 --baseurl ''"],
+      "port": 4000
+    }
+  ]
+}
