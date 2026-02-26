@@ -68,7 +68,7 @@
    ============================================================ */
 
 .hero {
-  padding: 5rem 1.5rem 7rem;
+  padding: 6rem 1.5rem 8rem;
 
   @media (min-width: 960px) {
     padding-left: calc((100% - 880px) / 2);
@@ -605,7 +605,7 @@ h2.onepage-heading {
   color: var(--color-accent) !important;
   font-weight: 600;
   font-size: 0.875rem;
-  margin-bottom: 2rem;
+  margin-bottom: 0.75rem;
   text-decoration: none !important;
 
   &:hover {
@@ -614,7 +614,7 @@ h2.onepage-heading {
 }
 
 .cv-block {
-  margin-bottom: 2rem;
+  margin-bottom: 1.4rem;
 }
 
 .cv-block__label {
@@ -623,8 +623,8 @@ h2.onepage-heading {
   text-transform: uppercase;
   letter-spacing: 0.1em;
   color: var(--color-muted);
-  margin-bottom: 0.75rem;
-  padding-bottom: 0.5rem;
+  margin-bottom: 0.5rem;
+  padding-bottom: 0.35rem;
   border-bottom: 2px solid var(--color-border);
 }
 
@@ -635,34 +635,37 @@ h2.onepage-heading {
 }
 
 .cv-list__item {
-  padding: 0.85rem 0;
-  border-bottom: 1px solid var(--color-border);
-
-  &:last-child {
-    border-bottom: none;
-  }
+  padding: 0.30rem 0;
 }
 
 .cv-list__year {
-  font-size: 0.75rem;
+  font-size: 0.72rem;
   font-weight: 600;
   color: var(--color-accent);
   text-transform: uppercase;
   letter-spacing: 0.05em;
-  margin-bottom: 0.1rem;
+  margin-bottom: 0.05rem;
 }
 
 .cv-list__role {
-  font-size: 0.95rem;
+  font-size: 0.9rem;
   font-weight: 600;
   color: var(--color-dark);
-  line-height: 1.4;
+  line-height: 1.35;
+}
+
+.cv-list__note {
+  font-size: 0.78rem;
+  font-weight: 400;
+  font-style: italic;
+  color: var(--color-muted);
+  margin-left: 0.4rem;
 }
 
 .cv-list__place {
-  font-size: 0.85rem;
+  font-size: 0.82rem;
   color: var(--color-muted);
-  margin-top: 0.1rem;
+  margin-top: 0.05rem;
 
   a {
     color: inherit;
@@ -694,30 +697,29 @@ h2.onepage-heading {
   display: inline-flex;
   align-items: center;
   gap: 0.5rem;
-  padding: 0.6rem 1.25rem;
-  background: rgba(255, 255, 255, 0.08);
-  border: 1px solid rgba(255, 255, 255, 0.18);
+  padding: 0.6rem 1.4rem;
+  background: transparent;
+  border: 1.5px solid rgba(255, 255, 255, 0.35);
   border-radius: 999px;
-  color: #e2e8f0 !important;
-  font-size: 0.9rem;
+  color: #cbd5e1 !important;
+  font-size: 0.875rem;
   font-weight: 500;
   text-decoration: none !important;
-  transition: all 0.2s ease;
+  transition: border-color 0.2s ease, color 0.2s ease, box-shadow 0.2s ease;
+  letter-spacing: 0.01em;
 
   i {
-    color: #60a5fa;
-    font-size: 0.95rem;
+    color: #cbd5e1;
+    font-size: 0.875rem;
   }
 
   &:hover {
-    background: var(--color-accent);
-    border-color: var(--color-accent);
-    color: #ffffff !important;
-    transform: translateY(-2px);
-    box-shadow: 0 4px 14px rgba(37, 99, 235, 0.35);
+    border-color: #60a5fa;
+    color: #60a5fa !important;
+    box-shadow: 0 0 0 3px rgba(96, 165, 250, 0.12);
 
     i {
-      color: #ffffff;
+      color: #60a5fa;
     }
   }
 }

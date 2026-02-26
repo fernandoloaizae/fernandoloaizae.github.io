@@ -28,9 +28,8 @@ redirect_from:
       <div class="hero__tags">
         <span>Green Industrial Policy</span>
         <span>Climate Technology</span>
-        <span>Education &amp; Wealth</span>
-        <span>Health Economics</span>
-        <span>Munich, Germany</span>
+        <span>Human Capital</span>
+        <span>Economic Inequality</span>
       </div>
       <div class="hero__actions">
         <a href="#research" class="hero__btn hero__btn--primary">View Research</a>
@@ -172,20 +171,25 @@ This paper develops an overlapping generations (OLG) model to assess the macroec
 <section class="onepage-section" id="cv">
 <h2 class="onepage-heading fade-in-up">Curriculum Vitae</h2>
 
-<p><a href="/files/CV_Loaiza.pdf" class="cv-download-link"><i class="fas fa-file-pdf"></i>&nbsp; Download full CV (PDF)</a></p>
+<p><a href="/files/CV_Loaiza.pdf" class="cv-download-link"><i class="fas fa-arrow-down"></i>&nbsp; Download full CV</a></p>
 
 <div class="cv-block">
 <div class="cv-block__label">Experience</div>
 <ul class="cv-list">
   <li class="cv-list__item">
-    <div class="cv-list__year">2023 &ndash; Present</div>
-    <div class="cv-list__role">Senior Research Fellow in Economics</div>
+    <div class="cv-list__year">2024 &ndash; Present</div>
+    <div class="cv-list__role">Senior Research Fellow</div>
     <div class="cv-list__place"><a href="https://www.netzerolab.science/">Net Zero Lab</a>, Max Planck Institute for Innovation and Competition &mdash; Munich, Germany</div>
   </li>
   <li class="cv-list__item">
-    <div class="cv-list__year">2018 &ndash; 2023</div>
-    <div class="cv-list__role">Graduate Research &amp; Teaching Assistant</div>
-    <div class="cv-list__place">University of Alabama &mdash; Tuscaloosa, AL</div>
+    <div class="cv-list__year">2021 &ndash; 2024</div>
+    <div class="cv-list__role">Postdoctoral Researcher</div>
+    <div class="cv-list__place">Munich Research Institute for the Economics of Aging, Max Planck Institute &mdash; Munich, Germany</div>
+  </li>
+  <li class="cv-list__item">
+    <div class="cv-list__year">2017 &ndash; 2021</div>
+    <div class="cv-list__role">Researcher</div>
+    <div class="cv-list__place">University of Rome Vergata &mdash; Rome, Italy</div>
   </li>
 </ul>
 </div>
@@ -194,31 +198,23 @@ This paper develops an overlapping generations (OLG) model to assess the macroec
 <div class="cv-block__label">Education</div>
 <ul class="cv-list">
   <li class="cv-list__item">
-    <div class="cv-list__year">2023</div>
-    <div class="cv-list__role">Ph.D. in Economics</div>
-    <div class="cv-list__place">University of Alabama</div>
+    <div class="cv-list__year">2021</div>
+    <div class="cv-list__role">Ph.D. in Economics and Finance <span class="cv-list__note">Summa cum laude</span></div>
+    <div class="cv-list__place">University of Rome Vergata &mdash; Rome, Italy</div>
   </li>
   <li class="cv-list__item">
-    <div class="cv-list__year">2018</div>
+    <div class="cv-list__year">2017</div>
     <div class="cv-list__role">M.Sc. in Economics</div>
-    <div class="cv-list__place">Universidad de los Andes &mdash; Bogota, Colombia</div>
+    <div class="cv-list__place">University of Granada &mdash; Granada, Spain</div>
   </li>
   <li class="cv-list__item">
     <div class="cv-list__year">2015</div>
     <div class="cv-list__role">B.Sc. in Economics</div>
-    <div class="cv-list__place">Universidad de los Andes &mdash; Bogota, Colombia</div>
+    <div class="cv-list__place">Escuela Superior Polit&eacute;cnica del Litoral &mdash; Guayaquil, Ecuador</div>
   </li>
 </ul>
 </div>
 
-<div class="cv-block">
-<div class="cv-block__label">Fields</div>
-<ul class="cv-list">
-  <li class="cv-list__item">
-    <div class="cv-list__role">Environmental Economics &middot; Innovation Policy &middot; Labor Economics &middot; Health Economics</div>
-  </li>
-</ul>
-</div>
 
 </section>
 
