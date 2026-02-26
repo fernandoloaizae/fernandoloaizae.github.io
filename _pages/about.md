@@ -1,4 +1,5 @@
 ---
+layout: default
 permalink: /
 title: "Fernando Loaiza"
 excerpt: "About me"
