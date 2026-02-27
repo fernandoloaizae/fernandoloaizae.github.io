@@ -16,15 +16,16 @@ concurrency:
 
 jobs:
   build:
-    runs-on: ubuntu-22.04  # ✅ Now forced to Ubuntu 22.04
+    runs-on: ubuntu-latest  # ✅ Now forced to Ubuntu 22.04
     steps:
       - name: Checkout
         uses: actions/checkout@v4
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.1'
+          ruby-version: '3.2.4'
           bundler-cache: true
+          cache-version: 1
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v4
@@ -39,7 +40,7 @@ jobs:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-22.04  # ✅ Also forced to 22.04
+    runs-on: ubuntu-latest  # ✅ Also forced to 22.04
     needs: build
     steps:
       - name: Deploy to GitHub Pages
