@@ -5,16 +5,16 @@ layout: default
 <div class="reading-progress-bar" id="reading-progress"></div>
 
 {% include base_path %}
-{% include hero.html %}
+
+<header class="post-masthead">
+  <div class="post-masthead__inner">
+    <a href="/" class="post-masthead__site">Fernando Loaiza</a>
+    <span class="post-masthead__sep">/</span>
+    <a href="/blog/" class="post-masthead__section">Writing</a>
+  </div>
+</header>
 
 <div class="post-wrap">
-
-  <nav class="post-nav">
-    <a href="/blog/" class="post-back">
-      <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="15 18 9 12 15 6"></polyline></svg>
-      Back to Writing
-    </a>
-  </nav>
 
   <article class="post-article">
     <header class="post-header">
@@ -56,16 +56,5 @@ window.addEventListener('scroll', function() {
   var scrolled = window.scrollY;
   var total = document.body.scrollHeight - window.innerHeight;
   if (bar && total > 0) bar.style.width = Math.min((scrolled / total) * 100, 100) + '%';
-});
-
-/* Smooth scroll for hero /#hash links when already on home page */
-document.querySelectorAll('a[href^="/#"]').forEach(function(a) {
-  a.addEventListener('click', function(e) {
-    if (window.location.pathname === '/') {
-      e.preventDefault();
-      var t = document.querySelector(this.getAttribute('href').replace('/', ''));
-      if (t) t.scrollIntoView({ behavior: 'smooth' });
-    }
-  });
 });
 </script>
