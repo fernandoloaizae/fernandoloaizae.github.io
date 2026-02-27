@@ -1,0 +1,58 @@
+---
+layout: default
+---
+
+{% include base_path %}
+{% include hero.html %}
+
+<div class="post-wrap fade-in-up">
+
+  <nav class="post-nav">
+    <a href="/blog/" class="post-back">
+      <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="15 18 9 12 15 6"></polyline></svg>
+      Back to Writing
+    </a>
+  </nav>
+
+  <article class="post-article">
+    <header class="post-header">
+      <p class="post-kicker">
+        <time>{{ page.date | date: "%B %-d, %Y" }}</time>
+        {% assign wc = content | number_of_words %}
+        <span class="post-dot">&middot;</span>
+        <span>{{ wc | divided_by: 200 | plus: 1 }} min read</span>
+      </p>
+      <h1 class="post-title">{{ page.title }}</h1>
+      {% if page.tags and page.tags.size > 0 %}
+      <div class="post-tags">
+        {% for tag in page.tags %}<span class="post-tag">{{ tag }}</span>{% endfor %}
+      </div>
+      {% endif %}
+    </header>
+
+    <div class="post-body">
+      {{ content }}
+    </div>
+
+    <footer class="post-footer">
+      <a href="/blog/" class="post-back">
+        <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="15 18 9 12 15 6"></polyline></svg>
+        Back to Writing
+      </a>
+    </footer>
+  </article>
+
+</div>
+
+<script>
+/* Smooth scroll for hero /#hash links when already on home page */
+document.querySelectorAll('a[href^="/#"]').forEach(function(a) {
+  a.addEventListener('click', function(e) {
+    if (window.location.pathname === '/') {
+      e.preventDefault();
+      var t = document.querySelector(this.getAttribute('href').replace('/', ''));
+      if (t) t.scrollIntoView({ behavior: 'smooth' });
+    }
+  });
+});
+</script>
