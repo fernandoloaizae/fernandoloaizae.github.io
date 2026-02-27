@@ -24,11 +24,11 @@ redirect_from:
         <a href="https://www.ip.mpg.de/en/">Max Planck Institute for Innovation and Competition</a>
       </p>
       <p class="hero__bio">
-        Applied economist working at the intersection of environmental policy, innovation, and inequality. My research focuses on green industrial policies that foster climate technology diffusion, and on the role of education in shaping economic outcomes.
+        Applied economist working at the intersection of environmental policy, political economy, and inequality. My research examines how policy design and institutional frameworks shape decarbonization and its distributional consequences.
       </p>
       <div class="hero__tags">
-        <span>Green Industrial Policy</span>
-        <span>Climate Technology</span>
+        <span>Environmental Economics</span>
+        <span>Policy Evaluation</span>
         <span>Human Capital</span>
         <span>Economic Inequality</span>
       </div>
