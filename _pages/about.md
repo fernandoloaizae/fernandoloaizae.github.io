@@ -248,7 +248,7 @@ This paper develops an overlapping generations (OLG) model to assess the macroec
 <button class="back-to-top" onclick="window.scrollTo({top:0,behavior:'smooth'})" aria-label="Back to top">&#8679;</button>
 
 <script>
-// Abstract toggles
+/* Abstract toggles */
 function toggleAbstract(id) {
   var el = document.getElementById(id);
   if (!el) return;
@@ -266,13 +266,13 @@ function toggleAbstract(id) {
   }
 }
 
-// Back to top visibility
+/* Back to top visibility */
 var btn = document.querySelector('.back-to-top');
 window.addEventListener('scroll', function() {
   if (btn) btn.classList.toggle('visible', window.scrollY > 500);
 });
 
-// Smooth scroll for /#hash nav links
+/* Smooth scroll for /#hash nav links */
 document.querySelectorAll('a[href^="/#"]').forEach(function(link) {
   link.addEventListener('click', function(e) {
     if (window.location.pathname === '/') {
@@ -283,7 +283,7 @@ document.querySelectorAll('a[href^="/#"]').forEach(function(link) {
   });
 });
 
-// IntersectionObserver for fade-in animations
+/* IntersectionObserver for fade-in animations */
 var observer = new IntersectionObserver(function(entries) {
   entries.forEach(function(entry) {
     if (entry.isIntersecting) {
