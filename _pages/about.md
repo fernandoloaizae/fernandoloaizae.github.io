@@ -234,10 +234,10 @@ This paper develops an overlapping generations (OLG) model to assess the macroec
   <a href="https://github.com/fernandoloaizae" class="contact-btn" target="_blank" rel="noopener">
     <i class="fab fa-github"></i> GitHub
   </a>
-  <a href="https://scholar.google.com/citations?user=5Feo6foAAAAJ" class="contact-btn" target="_blank" rel="noopener">
+  <a href="https://scholar.google.com/citations?user=jiK3ZVAAAAAJ&hl=es&oi=sra" class="contact-btn" target="_blank" rel="noopener">
     <i class="fas fa-graduation-cap"></i> Google Scholar
   </a>
-  <a href="https://www.linkedin.com/in/fernando-loaiza-economist/" class="contact-btn" target="_blank" rel="noopener">
+  <a href="https://www.linkedin.com/in/fernandoloaizae/" class="contact-btn" target="_blank" rel="noopener">
     <i class="fab fa-linkedin"></i> LinkedIn
   </a>
 </div>
