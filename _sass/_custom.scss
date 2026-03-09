@@ -1352,3 +1352,220 @@ h2.onepage-heading {
     svg { transform: translateX(-3px); stroke: #fff; }
   }
 }
+
+/* ============================================================
+   PHOTOGRAPHY PAGE
+   ============================================================ */
+
+.page-photography {
+
+  /* ── Masthead (same pattern as blog/post) ─────────────── */
+  .photo-masthead {
+    background: var(--color-dark);
+    position: sticky;
+    top: 0;
+    z-index: 200;
+    border-bottom: 1px solid rgba(255,255,255,0.08);
+
+    &__inner {
+      max-width: 1400px;
+      margin: 0 auto;
+      padding: 0 2rem;
+      height: 52px;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+
+    &__site {
+      color: rgba(255,255,255,0.85);
+      font-size: 0.88rem;
+      font-weight: 500;
+      text-decoration: none;
+      &:hover { color: #fff; }
+    }
+
+    &__sep {
+      color: rgba(255,255,255,0.3);
+      font-size: 0.88rem;
+    }
+
+    &__section {
+      color: rgba(255,255,255,0.5);
+      font-size: 0.88rem;
+    }
+  }
+
+  /* ── Page wrapper ─────────────────────────────────────── */
+  .photo-wrap {
+    max-width: 1300px;
+    margin: 0 auto;
+    padding: 3.5rem 2rem 6rem;
+  }
+
+  /* ── Page header ──────────────────────────────────────── */
+  .photo-header {
+    text-align: center;
+    margin-bottom: 3rem;
+
+    &__title {
+      font-size: clamp(1.8rem, 4vw, 2.6rem);
+      font-weight: 700;
+      color: var(--color-dark);
+      margin: 0 0 0.5rem;
+      letter-spacing: -0.02em;
+    }
+
+    &__sub {
+      font-size: 1rem;
+      color: var(--color-muted);
+      margin: 0;
+    }
+  }
+
+  /* ── Masonry grid ─────────────────────────────────────── */
+  .masonry-grid {
+    columns: 3;
+    column-gap: 14px;
+
+    @media (max-width: 900px)  { columns: 2; }
+    @media (max-width: 520px)  { columns: 1; }
+  }
+
+  /* ── Masonry item ─────────────────────────────────────── */
+  .masonry-item {
+    break-inside: avoid;
+    margin-bottom: 14px;
+    position: relative;
+    cursor: pointer;
+    border-radius: 8px;
+    overflow: hidden;
+    background: #1a1a2e;
+
+    img {
+      width: 100%;
+      display: block;
+      transition: transform 0.4s ease;
+    }
+
+    &:hover img {
+      transform: scale(1.04);
+    }
+
+    /* Hover caption overlay */
+    &__hover {
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(to top, rgba(0,0,0,0.7) 0%, transparent 50%);
+      display: flex;
+      flex-direction: column;
+      justify-content: flex-end;
+      padding: 1rem;
+      opacity: 0;
+      transition: opacity 0.3s ease;
+    }
+
+    &:hover &__hover {
+      opacity: 1;
+    }
+
+    &__label {
+      color: #fff;
+      font-size: 0.9rem;
+      font-weight: 600;
+      line-height: 1.3;
+    }
+
+    &__loc {
+      color: rgba(255,255,255,0.65);
+      font-size: 0.78rem;
+      margin-top: 0.2rem;
+    }
+  }
+
+  /* ── Lightbox ─────────────────────────────────────────── */
+  .lightbox {
+    position: fixed;
+    inset: 0;
+    background: rgba(5, 8, 15, 0.94);
+    z-index: 1000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.25s ease;
+    padding: 1.5rem;
+
+    &.is-open {
+      opacity: 1;
+      pointer-events: all;
+    }
+
+    &__close {
+      position: fixed;
+      top: 1.25rem;
+      right: 1.75rem;
+      background: rgba(255,255,255,0.08);
+      border: none;
+      color: rgba(255,255,255,0.7);
+      font-size: 1.6rem;
+      line-height: 1;
+      cursor: pointer;
+      width: 40px;
+      height: 40px;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: background 0.2s, color 0.2s;
+
+      &:hover {
+        background: rgba(255,255,255,0.16);
+        color: #fff;
+      }
+    }
+
+    &__inner {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 1.25rem;
+      max-width: min(90vw, 1100px);
+    }
+
+    &__img {
+      max-width: 100%;
+      max-height: 75vh;
+      object-fit: contain;
+      border-radius: 6px;
+      box-shadow: 0 25px 60px rgba(0,0,0,0.6);
+    }
+
+    &__caption {
+      text-align: center;
+      max-width: 620px;
+    }
+
+    &__title {
+      color: #fff;
+      font-size: 1.05rem;
+      font-weight: 600;
+      margin: 0 0 0.35rem;
+    }
+
+    &__desc {
+      color: rgba(255,255,255,0.62);
+      font-size: 0.9rem;
+      line-height: 1.6;
+      margin: 0 0 0.35rem;
+    }
+
+    &__meta {
+      color: rgba(255,255,255,0.38);
+      font-size: 0.8rem;
+      letter-spacing: 0.03em;
+      margin: 0;
+    }
+  }
+}
