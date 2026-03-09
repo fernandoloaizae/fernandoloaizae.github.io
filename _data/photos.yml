@@ -1,0 +1,45 @@
+# Photography metadata
+# ---
+# To add a new photo:
+#   1. Drop the image file into images/photography/
+#   2. Add an entry below with the exact filename
+#
+# All fields except 'file' are optional.
+# If you skip an entry, the photo still appears but without a caption.
+#
+# Example:
+# - file: "my-bird.jpg"
+#   title: "Kingfisher"
+#   description: "Perched above a stream, waiting to dive."
+#   location: "Bavaria, Germany"
+#   date: "June 2024"
+
+- file: "placeholder-1.svg"
+  title: "Great Blue Heron"
+  description: "A stately heron standing motionless at the water's edge at dawn."
+  location: "Bavaria, Germany"
+  date: "March 2024"
+
+- file: "placeholder-2.svg"
+  title: "Red Fox"
+  description: "Brief encounter in the meadow just after sunrise."
+  location: "Starnberg, Germany"
+  date: "January 2024"
+
+- file: "placeholder-3.svg"
+  title: "Barn Owl"
+  description: "Silent flight over the field at dusk — spotted for just a few seconds."
+  location: "Münster, Germany"
+  date: "November 2023"
+
+- file: "placeholder-4.svg"
+  title: "White Stork"
+  description: "Pair nesting on a rooftop in the village center."
+  location: "Alsace, France"
+  date: "May 2023"
+
+- file: "placeholder-5.svg"
+  title: "Red Deer"
+  description: "A young stag at the forest edge during the golden hour."
+  location: "Black Forest, Germany"
+  date: "October 2023"
