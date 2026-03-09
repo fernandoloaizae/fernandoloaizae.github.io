@@ -13,36 +13,7 @@ redirect_from:
 <!-- ================================================
      HERO
      ================================================ -->
-<div class="hero" id="home">
-  <div class="hero__content">
-    <div class="hero__text">
-      <span class="hero__badge">Applied Economist &middot; Public Policy</span>
-      <h1 class="hero__name">Fernando Loaiza</h1>
-      <p class="hero__role">Senior Research Fellow in Economics</p>
-      <p class="hero__inst">
-        <a href="https://www.netzerolab.science/">Net Zero Lab</a> &middot;
-        <a href="https://www.ip.mpg.de/en/">Max Planck Institute for Innovation and Competition</a>
-      </p>
-      <p class="hero__bio">
-        Applied economist working at the intersection of environmental policy, political economy, and inequality. My research examines how policy design and institutional frameworks shape decarbonization and its distributional consequences.
-      </p>
-      <div class="hero__tags">
-        <span>Environmental Economics</span>
-        <span>Policy Evaluation</span>
-        <span>Human Capital</span>
-        <span>Economic Inequality</span>
-      </div>
-      <div class="hero__actions">
-        <a href="#research" class="hero__btn hero__btn--primary">View Research</a>
-        <a href="#cv" class="hero__btn hero__btn--outline">Curriculum Vitae</a>
-        <a href="#contact" class="hero__btn hero__btn--outline">Get in Touch</a>
-      </div>
-    </div>
-    <div class="hero__photo">
-      <img src="/images/Loaiza_1.jpg" alt="Fernando Loaiza">
-    </div>
-  </div>
-</div>
+{% include hero.html %}
 
 <!-- ================================================
      RESEARCH
@@ -58,7 +29,7 @@ redirect_from:
   <a href="https://www.sciencedirect.com/science/article/pii/S0313592626000664">Economic Analysis and Policy, 2026</a>
 </div>
 <div class="abstract-container">
-  <span class="abstract-toggle" onclick="toggleAbstract('education_co2')"><span class="triangle">&#9654;</span> Abstract</span>
+  <button class="abstract-toggle" onclick="toggleAbstract('education_co2')"><span class="triangle">&#9654;</span> Abstract</button>
   <span class="separator">|</span>
   <a href="https://www.sciencedirect.com/science/article/pii/S0313592626000664" class="download-link">Published Paper</a>
 </div>
@@ -72,7 +43,7 @@ Achieving net-zero emissions requires not only technological innovation but also
   <a href="https://www.tandfonline.com/doi/epdf/10.1080/09645292.2025.2607110?needAccess=true">Education Economics, 2025</a>
 </div>
 <div class="abstract-container">
-  <span class="abstract-toggle" onclick="toggleAbstract('CH3')"><span class="triangle">&#9654;</span> Abstract</span>
+  <button class="abstract-toggle" onclick="toggleAbstract('CH3')"><span class="triangle">&#9654;</span> Abstract</button>
   <span class="separator">|</span>
   <a href="/files/Loaiza_EE2025.pdf" class="download-link">Published Paper</a>
 </div>
@@ -86,7 +57,7 @@ This research explores the impact of education on individuals' involvement with 
   <a href="https://link.springer.com/article/10.1186/s13561-024-00517-3">Health Economics Review, 2024</a>
 </div>
 <div class="abstract-container">
-  <span class="abstract-toggle" onclick="toggleAbstract('ACA')"><span class="triangle">&#9654;</span> Abstract</span>
+  <button class="abstract-toggle" onclick="toggleAbstract('ACA')"><span class="triangle">&#9654;</span> Abstract</button>
   <span class="separator">|</span>
   <a href="/files/Loaiza_HER2024.pdf" class="download-link">Published Paper</a>
 </div>
@@ -101,7 +72,7 @@ This research explores the impact of education on individuals' involvement with 
 <h3>Can Educational Policies Reduce Wealth Inequality?</h3>
 
 <div class="abstract-container">
-  <span class="abstract-toggle" onclick="toggleAbstract('jmp-abstract')"><span class="triangle">&#9654;</span> Abstract</span>
+  <button class="abstract-toggle" onclick="toggleAbstract('jmp-abstract')"><span class="triangle">&#9654;</span> Abstract</button>
   <span class="separator">|</span>
   <a href="/files/Loaiza_JMP23.pdf" class="download-link">Working Paper</a>
 </div>
@@ -112,7 +83,7 @@ This study investigates the causal relationship between education and wealth acc
 <h3>Interplay of Public and Private Educational Spending: Macroeconomic Implications</h3>
 
 <div class="abstract-container">
-  <span class="abstract-toggle" onclick="toggleAbstract('CH1')"><span class="triangle">&#9654;</span> Abstract</span>
+  <button class="abstract-toggle" onclick="toggleAbstract('CH1')"><span class="triangle">&#9654;</span> Abstract</button>
   <span class="separator">|</span>
   <a href="/files/Public_Private.pdf" class="download-link">Working Paper</a>
 </div>
@@ -123,7 +94,7 @@ This study investigates how the interaction between public and private education
 <h3>The Silent Divides in Education's Promise: Uneven Wealth Gains from College</h3>
 
 <div class="abstract-container">
-  <span class="abstract-toggle" onclick="toggleAbstract('CH4')"><span class="triangle">&#9654;</span> Abstract</span>
+  <button class="abstract-toggle" onclick="toggleAbstract('CH4')"><span class="triangle">&#9654;</span> Abstract</button>
   <span class="separator">|</span>
   <a href="/files/GenderRace.pdf" class="download-link">Working Paper</a>
 </div>
@@ -134,10 +105,10 @@ This study examines the impact of tertiary education on wealth in the U.S. by ge
 <h3>Rewarding Green Goals: The Effects of Environmental Incentives for CEOs <span class="coauthor">with Benedict Probst</span></h3>
 
 <div class="abstract-container">
-  <span class="abstract-toggle" onclick="toggleAbstract('green_ceo')"><span class="triangle">&#9654;</span> Abstract</span>
+  <button class="abstract-toggle" onclick="toggleAbstract('green_ceo')"><span class="triangle">&#9654;</span> Abstract</button>
 </div>
 <div id="green_ceo" style="display:none; margin-top: 8px;">
-This paper examines whether linking CEO bonuses to environmental performance leads to measurable improvements in firms' environmental outcomes. Using a firm-level panel from 2015 to 2024, we identify the first year a CEO becomes entitled to such a bonus and compare changes in performance with matched control firms. Employing a matched difference-in-differences approach, we find that bonus adoption is followed by a significant reduction in scope 1 emissions.
+This paper examines whether tying CEO compensation to environmental performance reduces firms' greenhouse gas emissions. Using global firm-level data from 2015&ndash;2024, we exploit the staggered adoption of environmental bonus components and regulatory-driven variation, to estimate how emissions change after incentives are introduced. Across specifications, the estimated effects are small and statistically non-significant. To interpret this null result, we document that environmental components are typically minor relative to total compensation and rely largely on qualitative, non-verifiable criteria rather than quantified emissions targets. Consistent with weak contractibility and limited monitoring capacity, firms appear more likely to adjust disclosure and qualitative representations of performance than operational emissions. Our results suggest that ESG-linked compensation schemes, as currently designed, function more as symbolic commitments than as effective drivers of decarbonization, highlighting the need for clearer, quantitatively grounded, and verifiable metrics if pay is intended to align executives with climate goals.
 </div>
 
 <div class="pub-category-label" style="margin-top: 2.5rem;">Other Research</div>
@@ -145,7 +116,7 @@ This paper examines whether linking CEO bonuses to environmental performance lea
 <h3>The Right of Self-Defense: Who is a Threat? <span class="coauthor">with Alessio Muscarnera</span></h3>
 
 <div class="abstract-container">
-  <span class="abstract-toggle" onclick="toggleAbstract('SYGL')"><span class="triangle">&#9654;</span> Abstract</span>
+  <button class="abstract-toggle" onclick="toggleAbstract('SYGL')"><span class="triangle">&#9654;</span> Abstract</button>
   <span class="separator">|</span>
   <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4342111" class="download-link">Working Paper</a>
 </div>
@@ -156,7 +127,7 @@ This paper investigates the impact of Stand Your Ground laws on crime-related ou
 <h3>The Care Wave: Macroeconomic Impact of Prevention and Provision</h3>
 
 <div class="abstract-container">
-  <span class="abstract-toggle" onclick="toggleAbstract('bbf-abstract')"><span class="triangle">&#9654;</span> Abstract</span>
+  <button class="abstract-toggle" onclick="toggleAbstract('bbf-abstract')"><span class="triangle">&#9654;</span> Abstract</button>
   <span class="separator">|</span>
   <a href="/files/PreventionProvision.pdf" class="download-link">Working Paper</a>
 </div>
@@ -248,7 +219,7 @@ This paper develops an overlapping generations (OLG) model to assess the macroec
 <button class="back-to-top" onclick="window.scrollTo({top:0,behavior:'smooth'})" aria-label="Back to top">&#8679;</button>
 
 <script>
-// Abstract toggles
+/* Abstract toggles */
 function toggleAbstract(id) {
   var el = document.getElementById(id);
   if (!el) return;
@@ -266,13 +237,13 @@ function toggleAbstract(id) {
   }
 }
 
-// Back to top visibility
+/* Back to top visibility */
 var btn = document.querySelector('.back-to-top');
 window.addEventListener('scroll', function() {
   if (btn) btn.classList.toggle('visible', window.scrollY > 500);
 });
 
-// Smooth scroll for /#hash nav links
+/* Smooth scroll for /#hash nav links */
 document.querySelectorAll('a[href^="/#"]').forEach(function(link) {
   link.addEventListener('click', function(e) {
     if (window.location.pathname === '/') {
@@ -283,7 +254,7 @@ document.querySelectorAll('a[href^="/#"]').forEach(function(link) {
   });
 });
 
-// IntersectionObserver for fade-in animations
+/* IntersectionObserver for fade-in animations */
 var observer = new IntersectionObserver(function(entries) {
   entries.forEach(function(entry) {
     if (entry.isIntersecting) {

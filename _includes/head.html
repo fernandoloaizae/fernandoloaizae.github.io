@@ -15,6 +15,9 @@
   document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
 </script>
 
+<!-- Critical nav styles: prevent FOUC on dark masthead before main.css loads -->
+<style>.masthead{background-color:#0f172a}.masthead a,.masthead__menu-item a{color:rgba(255,255,255,0.75);text-decoration:none}</style>
+
 <!-- For all browsers -->
 <link rel="stylesheet" href="{{ base_path }}/assets/css/main.css">
 

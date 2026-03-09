@@ -180,12 +180,10 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+      layout: post
+      author_profile: false
+      body_class: page-post
+      permalink: /blog/:title/
   # _pages
   - scope:
       path: ""

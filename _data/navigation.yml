@@ -6,8 +6,8 @@ main:
   - title: "CV"
     url: /#cv
 
-  - title: "Blog"
-    url: /posts/
+  - title: "Writing"
+    url: /blog/
 
   - title: "Contact"
     url: /#contact
