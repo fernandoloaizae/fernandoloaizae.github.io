@@ -1,0 +1,13 @@
+# main links
+main:
+  - title: "Research"
+    url: /#research
+
+  - title: "CV"
+    url: /#cv
+
+  - title: "Writing"
+    url: /blog/
+
+  - title: "Contact"
+    url: /#contact

@@ -1,0 +1,60 @@
+---
+layout: default
+---
+
+<div class="reading-progress-bar" id="reading-progress"></div>
+
+{% include base_path %}
+
+<header class="post-masthead">
+  <div class="post-masthead__inner">
+    <a href="/" class="post-masthead__site">Fernando Loaiza</a>
+    <span class="post-masthead__sep">/</span>
+    <a href="/blog/" class="post-masthead__section">Writing</a>
+  </div>
+</header>
+
+<div class="post-wrap">
+
+  <article class="post-article">
+    <header class="post-header">
+      <div class="post-kicker">
+        <time class="post-date">{{ page.date | date: "%B %-d, %Y" }}</time>
+        <span class="post-dot">&middot;</span>
+        {% assign wc = content | number_of_words %}
+        <span class="post-readtime">{{ wc | divided_by: 200 | plus: 1 }} min read</span>
+      </div>
+      <h1 class="post-title">{{ page.title }}</h1>
+      {% if page.excerpt %}
+      <p class="post-excerpt">{{ page.excerpt }}</p>
+      {% endif %}
+      {% if page.tags and page.tags.size > 0 %}
+      <div class="post-tags">
+        {% for tag in page.tags %}<span class="post-tag">{{ tag }}</span>{% endfor %}
+      </div>
+      {% endif %}
+    </header>
+
+    <div class="post-body">
+      {{ content }}
+    </div>
+
+    <footer class="post-footer">
+      <a href="/blog/" class="post-back post-back--footer">
+        <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="15 18 9 12 15 6"></polyline></svg>
+        Back to Writing
+      </a>
+    </footer>
+  </article>
+
+</div>
+
+<script>
+/* Reading progress bar */
+var bar = document.getElementById('reading-progress');
+window.addEventListener('scroll', function() {
+  var scrolled = window.scrollY;
+  var total = document.body.scrollHeight - window.innerHeight;
+  if (bar && total > 0) bar.style.width = Math.min((scrolled / total) * 100, 100) + '%';
+});
+</script>

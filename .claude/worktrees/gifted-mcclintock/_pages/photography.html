@@ -1,0 +1,115 @@
+---
+layout: default
+permalink: /photography/
+title: Photography
+body_class: page-photography
+---
+{% include base_path %}
+
+<header class="photo-masthead">
+  <div class="photo-masthead__inner">
+    <a href="/" class="photo-masthead__site">Fernando Loaiza</a>
+    <span class="photo-masthead__sep">/</span>
+    <span class="photo-masthead__section">Photography</span>
+  </div>
+</header>
+
+<div class="photo-wrap">
+  <header class="photo-header">
+    <h1 class="photo-header__title">Photography</h1>
+    <p class="photo-header__sub">Wildlife &amp; nature from the field</p>
+  </header>
+
+  {% assign all_photos = site.static_files | where_exp: "f", "f.path contains '/images/photography/'" %}
+
+  <div class="masonry-grid" id="gallery">
+    {% for img in all_photos %}
+      {% unless img.name == '.gitkeep' %}
+        {% assign meta = site.data.photos | where: "file", img.name | first %}
+        <div class="masonry-item"
+             data-src="{{ img.path }}"
+             data-title="{{ meta.title | default: '' }}"
+             data-description="{{ meta.description | default: '' }}"
+             data-location="{{ meta.location | default: '' }}"
+             data-date="{{ meta.date | default: '' }}">
+          <img src="{{ img.path }}" alt="{{ meta.title | default: 'Photo' }}" loading="lazy">
+          {% if meta.title %}
+          <div class="masonry-item__hover">
+            <span class="masonry-item__label">{{ meta.title }}</span>
+            {% if meta.location %}<span class="masonry-item__loc">{{ meta.location }}</span>{% endif %}
+          </div>
+          {% endif %}
+        </div>
+      {% endunless %}
+    {% endfor %}
+  </div>
+</div>
+
+<!-- Lightbox overlay -->
+<div class="lightbox" id="lightbox" role="dialog" aria-modal="true" aria-label="Photo viewer">
+  <button class="lightbox__close" id="lb-close" aria-label="Close">&times;</button>
+  <div class="lightbox__inner">
+    <img class="lightbox__img" id="lb-img" src="" alt="">
+    <div class="lightbox__caption" id="lb-caption">
+      <p class="lightbox__title" id="lb-title"></p>
+      <p class="lightbox__desc" id="lb-desc"></p>
+      <p class="lightbox__meta" id="lb-meta"></p>
+    </div>
+  </div>
+</div>
+
+<script>
+/* Photography lightbox */
+(function() {
+  var items = document.querySelectorAll('.masonry-item');
+  var lb    = document.getElementById('lightbox');
+  var lbImg   = document.getElementById('lb-img');
+  var lbTitle = document.getElementById('lb-title');
+  var lbDesc  = document.getElementById('lb-desc');
+  var lbMeta  = document.getElementById('lb-meta');
+  var lbClose = document.getElementById('lb-close');
+
+  function openLightbox(item) {
+    var src  = item.getAttribute('data-src');
+    var title = item.getAttribute('data-title');
+    var desc  = item.getAttribute('data-description');
+    var loc   = item.getAttribute('data-location');
+    var date  = item.getAttribute('data-date');
+    var meta  = [loc, date].filter(Boolean).join(' \u00b7 ');
+
+    lbImg.src = src;
+    lbImg.alt = title || 'Photo';
+    lbTitle.textContent = title;
+    lbDesc.textContent  = desc;
+    lbMeta.textContent  = meta;
+
+    lbTitle.style.display = title ? '' : 'none';
+    lbDesc.style.display  = desc  ? '' : 'none';
+    lbMeta.style.display  = meta  ? '' : 'none';
+
+    lb.classList.add('is-open');
+    document.body.style.overflow = 'hidden';
+  }
+
+  function closeLightbox() {
+    lb.classList.remove('is-open');
+    document.body.style.overflow = '';
+    /* Small delay so transition finishes before clearing src */
+    setTimeout(function() { lbImg.src = ''; }, 250);
+  }
+
+  items.forEach(function(item) {
+    item.addEventListener('click', function() { openLightbox(item); });
+  });
+
+  lbClose.addEventListener('click', closeLightbox);
+
+  lb.addEventListener('click', function(e) {
+    if (e.target === lb) { closeLightbox(); }
+  });
+
+  document.addEventListener('keydown', function(e) {
+    if (e.key === 'Escape' && lb.classList.contains('is-open')) { closeLightbox(); }
+  });
+})();
+</script>
