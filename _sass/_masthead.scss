@@ -138,7 +138,7 @@
   }
 }
 
-/* Hamburger icon — invisible on mobile (matches dark nav background) */
+/* Hamburger icon - invisible on mobile (matches dark nav background) */
 .navicon {
   position: relative;
   display: block;
@@ -167,7 +167,7 @@
   }
 }
 
-/* Hidden mobile menu dropdown — not used (hamburger disabled) */
+/* Hidden mobile menu dropdown - not used (hamburger disabled) */
 .hidden-links {
   &.hidden {
     display: none;
@@ -175,11 +175,11 @@
 }
 
 /* ---------------------------------------------------------------
-   MOBILE NAV — name only, no links, no hamburger
+   MOBILE NAV - name only, no links, no hamburger
    Single-page site: users scroll, no nav links needed on mobile
    --------------------------------------------------------------- */
 @media (max-width: 900px) {
-  /* Hide all nav links on mobile — only the site name stays */
+  /* Hide all nav links on mobile - only the site name stays */
   .masthead__menu-item:not(.masthead__menu-item--lg) {
     display: none !important;
   }

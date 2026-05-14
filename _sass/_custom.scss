@@ -2,7 +2,7 @@
    MODERN REDESIGN - Fernando Loaiza
    ============================================================ */
 
-/* --- Self-hosted Inter font (GDPR compliant — no Google CDN) --- */
+/* --- Self-hosted Inter font (GDPR compliant - no Google CDN) --- */
 @font-face {
   font-family: 'Inter';
   font-style: normal;
@@ -49,6 +49,21 @@
    background shows through on all screen sizes. */
 .greedy-nav {
   background: transparent !important;
+}
+
+.masthead .greedy-nav a,
+.masthead .greedy-nav a:visited {
+  color: var(--color-dark) !important;
+}
+
+.masthead .greedy-nav a:hover,
+.masthead .greedy-nav a:focus {
+  color: #ffffff !important;
+}
+
+.masthead .masthead__menu-item--lg a,
+.masthead .masthead__menu-item--lg a:visited {
+  color: var(--color-dark) !important;
 }
 
 .page__inner-wrap {
@@ -944,7 +959,7 @@ h2.onepage-heading {
   transition: transform 0.4s ease;
 }
 
-/* Gradient placeholders — dark academic palette */
+/* Gradient placeholders - dark academic palette */
 .blog-card__grad {
   width: 100%;
   height: 100%;
@@ -1033,7 +1048,7 @@ h2.onepage-heading {
   .page__inner-wrap { padding-top: 0 !important; }
 }
 
-/* Reading progress bar — fixed at top, fills as page scrolls */
+/* Reading progress bar - fixed at top, fills as page scrolls */
 .reading-progress-bar {
   position: fixed;
   top: 0;
@@ -1173,7 +1188,7 @@ h2.onepage-heading {
   padding: 0.2em 0.8em;
 }
 
-/* Post body — reading typography */
+/* Post body - reading typography */
 .post-body {
   font-size: 1.1rem;
   line-height: 1.9;
@@ -1359,7 +1374,7 @@ h2.onepage-heading {
 
 .page-photography {
 
-  /* ── Masthead (same pattern as blog/post) ─────────────── */
+  /* -- Masthead (same pattern as blog/post) --------------- */
   .photo-masthead {
     background: var(--color-dark);
     position: sticky;
@@ -1396,14 +1411,14 @@ h2.onepage-heading {
     }
   }
 
-  /* ── Page wrapper ─────────────────────────────────────── */
+  /* -- Page wrapper --------------------------------------- */
   .photo-wrap {
     max-width: 1300px;
     margin: 0 auto;
     padding: 3.5rem 2rem 6rem;
   }
 
-  /* ── Page header ──────────────────────────────────────── */
+  /* -- Page header ---------------------------------------- */
   .photo-header {
     text-align: center;
     margin-bottom: 3rem;
@@ -1423,7 +1438,7 @@ h2.onepage-heading {
     }
   }
 
-  /* ── Masonry grid ─────────────────────────────────────── */
+  /* -- Masonry grid --------------------------------------- */
   .masonry-grid {
     columns: 3;
     column-gap: 14px;
@@ -1432,7 +1447,7 @@ h2.onepage-heading {
     @media (max-width: 520px)  { columns: 1; }
   }
 
-  /* ── Masonry item ─────────────────────────────────────── */
+  /* -- Masonry item --------------------------------------- */
   .masonry-item {
     break-inside: avoid;
     margin-bottom: 14px;
@@ -1483,7 +1498,7 @@ h2.onepage-heading {
     }
   }
 
-  /* ── Lightbox ─────────────────────────────────────────── */
+  /* -- Lightbox ------------------------------------------- */
   .lightbox {
     position: fixed;
     inset: 0;
