@@ -37,6 +37,20 @@ redirect_from:
 Achieving net-zero emissions requires not only technological innovation but also the capacity to absorb and implement it effectively. This study investigates how absorptive capacity, defined as the interaction between tertiary education and R&D investment, amplifies the impact of innovation on carbon emissions. Using fixed effects and Difference-in-Differences models, the analysis shows that while R&D alone reduces emissions, its effect is significantly stronger in countries with higher levels of education. Mechanism analyses reveal that absorptive capacity enhances environmental outcomes by strengthening policy enforcement, accelerating the diffusion of green technologies, and improving energy efficiency. These findings highlight the importance of aligning education and innovation policies to unlock the full decarbonization potential of climate technologies.
 </div>
 
+<h3>Interplay of Public and Private Educational Spending: Macroeconomic Implications</h3>
+
+<div class="details">
+  <a href="/files/Public_Private.pdf">Structural Change and Economic Dynamics, 2026 (Forthcoming)</a>
+</div>
+<div class="abstract-container">
+  <button class="abstract-toggle" onclick="toggleAbstract('CH1')"><span class="triangle">&#9654;</span> Abstract</button>
+  <span class="separator">|</span>
+  <a href="/files/Public_Private.pdf" class="download-link">Published Paper</a>
+</div>
+<div id="CH1" style="display:none; margin-top: 8px;">
+This study investigates how the interaction between public and private educational spending shapes macroeconomic outcomes. The paper develops a quantitative model calibrated to cross-country data to assess how the composition of educational investment affects growth, inequality, and intergenerational mobility.
+</div>
+
 <h3>Implications of Schooling on Financial Assets</h3>
 
 <div class="details">
@@ -78,17 +92,6 @@ This research explores the impact of education on individuals' involvement with 
 </div>
 <div id="jmp-abstract" style="display:none; margin-top: 8px;">
 This study investigates the causal relationship between education and wealth accumulation. Utilizing three distinct identification strategies, the research analyzes a panel dataset from the United States, encompassing two generations. The empirical findings indicate that higher educational attainment, particularly at the college and postgraduate levels, leads to a significant increase in lifetime wealth. Subsequently, the paper develops a life-cycle heterogeneous agents model to assess the impact of educational policies on wealth accumulation.
-</div>
-
-<h3>Interplay of Public and Private Educational Spending: Macroeconomic Implications</h3>
-
-<div class="abstract-container">
-  <button class="abstract-toggle" onclick="toggleAbstract('CH1')"><span class="triangle">&#9654;</span> Abstract</button>
-  <span class="separator">|</span>
-  <a href="/files/Public_Private.pdf" class="download-link">Working Paper</a>
-</div>
-<div id="CH1" style="display:none; margin-top: 8px;">
-This study investigates how the interaction between public and private educational spending shapes macroeconomic outcomes. The paper develops a quantitative model calibrated to cross-country data to assess how the composition of educational investment affects growth, inequality, and intergenerational mobility.
 </div>
 
 <h3>The Silent Divides in Education's Promise: Uneven Wealth Gains from College</h3>
