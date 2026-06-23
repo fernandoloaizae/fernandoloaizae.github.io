@@ -48,7 +48,7 @@ Achieving net-zero emissions requires not only technological innovation but also
   <a href="/files/Public_Private.pdf" class="download-link">Published Paper</a>
 </div>
 <div id="CH1" style="display:none; margin-top: 8px;">
-This study investigates how the interaction between public and private educational spending shapes macroeconomic outcomes. The paper develops a quantitative model calibrated to cross-country data to assess how the composition of educational investment affects growth, inequality, and intergenerational mobility.
+This paper examines how the composition of education financing shapes economic growth and income inequality. An overlapping-generations model with heterogeneous agents and non-homothetic education preferences shows that lower-income households demand more education relative to income but face tighter financing constraints, making the public–private mix central for distributional outcomes. Shifting toward public provision reduces inequality and promotes growth via human capital accumulation. System GMM estimates for OECD countries support these predictions: a one-unit increase in the public–private spending gap reduces the Gini coefficient by 6.4\% and raises GDP per capita by 2.5\%. These effects operate through higher tertiary attainment, which compresses income dispersion and enhances productivity. The results highlight that the structure, not just the level, of education financing shapes macroeconomic and distributional outcomes.
 </div>
 
 <h3>Implications of Schooling on Financial Assets</h3>
@@ -114,6 +114,17 @@ This study examines the impact of tertiary education on wealth in the U.S. by ge
 </div>
 <div id="green_ceo" style="display:none; margin-top: 8px;">
 This paper examines whether tying CEO compensation to environmental performance reduces firms' greenhouse gas emissions. Using global firm-level data from 2015&ndash;2024, we exploit the staggered adoption of environmental bonus components and regulatory-driven variation, to estimate how emissions change after incentives are introduced. Across specifications, the estimated effects are small and statistically non-significant. To interpret this null result, we document that environmental components are typically minor relative to total compensation and rely largely on qualitative, non-verifiable criteria rather than quantified emissions targets. Consistent with weak contractibility and limited monitoring capacity, firms appear more likely to adjust disclosure and qualitative representations of performance than operational emissions. Our results suggest that ESG-linked compensation schemes, as currently designed, function more as symbolic commitments than as effective drivers of decarbonization, highlighting the need for clearer, quantitatively grounded, and verifiable metrics if pay is intended to align executives with climate goals.
+</div>
+
+<h3>Setting Green Goals: The Emission Effects of Science-Based Targets<span class="coauthor">with Benedict Probst</span></h3>
+
+<div class="abstract-container">
+  <button class="abstract-toggle" onclick="toggleAbstract('sbti')"><span class="triangle">&#9654;</span> Abstract</button>
+  <span class="separator">|</span>
+  <a href="" class="download-link">Working Paper</a>
+</div>
+<div id="sbti" style="display:none; margin-top: 8px;">
+Voluntary corporate climate frameworks now cover over 40\% of global market capitalization, yet whether they reduce emissions or merely reshape how emissions are measured remains unknown. Here we show, using a staggered difference-in-differences design and CDP firm-level disclosures from 4,186 firms over 2016--2025, that Science Based Targets initiative (SBTi) approval reduces market-based Scope 2 emissions by approximately 31 percent but produces no detectable reduction in Scope 1 or location-based Scope 2 emissions. The reduction is confined to firms whose approved targets explicitly cover market-based Scope 2; firms without such coverage show no comparable change. Approved firms increase the renewable share of purchased electricity by 7.8 percentage points with no change in physical electricity consumption or grid carbon intensity, confirming the mechanism operates through contractual procurement. Voluntary standards bind the metric, not the molecules: where compliance is achievable through a single procurement decision, firms comply; where it requires physical transformation of operations, the same mechanism produces no effect.
 </div>
 
 <div class="pub-category-label" style="margin-top: 2.5rem;">Other Research</div>
