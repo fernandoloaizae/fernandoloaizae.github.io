@@ -116,7 +116,7 @@ This study examines the impact of tertiary education on wealth in the U.S. by ge
 This paper examines whether tying CEO compensation to environmental performance reduces firms' greenhouse gas emissions. Using global firm-level data from 2015&ndash;2024, we exploit the staggered adoption of environmental bonus components and regulatory-driven variation, to estimate how emissions change after incentives are introduced. Across specifications, the estimated effects are small and statistically non-significant. To interpret this null result, we document that environmental components are typically minor relative to total compensation and rely largely on qualitative, non-verifiable criteria rather than quantified emissions targets. Consistent with weak contractibility and limited monitoring capacity, firms appear more likely to adjust disclosure and qualitative representations of performance than operational emissions. Our results suggest that ESG-linked compensation schemes, as currently designed, function more as symbolic commitments than as effective drivers of decarbonization, highlighting the need for clearer, quantitatively grounded, and verifiable metrics if pay is intended to align executives with climate goals.
 </div>
 
-<h3>Setting Green Goals: The Emissions Effects of Science-Based Targets<span class="coauthor">with Benedict Probst</span></h3>
+<h3>Setting Green Goals: The Emissions Effects of Science-Based Targets <span class="coauthor">with Benedict Probst</span></h3>
 
 <div class="abstract-container">
   <button class="abstract-toggle" onclick="toggleAbstract('sbti')"><span class="triangle">&#9654;</span> Abstract</button>
