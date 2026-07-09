@@ -23,7 +23,11 @@ redirect_from:
 
 <div class="pub-category-label">Publications</div>
 
-<h3>The Complementary Role of Human Capital in Innovation-Driven Decarbonization</h3>
+<h3>
+  <a href="https://www.sciencedirect.com/science/article/pii/S0313592626000664" target="_blank">
+    The Complementary Role of Human Capital in Innovation-Driven Decarbonization
+  </a>
+</h3>
 
 <div class="details">
   <a href="https://www.sciencedirect.com/science/article/pii/S0313592626000664">Economic Analysis and Policy, 2026</a>
@@ -37,7 +41,11 @@ redirect_from:
 Achieving net-zero emissions requires not only technological innovation but also the capacity to absorb and implement it effectively. This study investigates how absorptive capacity, defined as the interaction between tertiary education and R&D investment, amplifies the impact of innovation on carbon emissions. Using fixed effects and Difference-in-Differences models, the analysis shows that while R&D alone reduces emissions, its effect is significantly stronger in countries with higher levels of education. Mechanism analyses reveal that absorptive capacity enhances environmental outcomes by strengthening policy enforcement, accelerating the diffusion of green technologies, and improving energy efficiency. These findings highlight the importance of aligning education and innovation policies to unlock the full decarbonization potential of climate technologies.
 </div>
 
-<h3>Interplay of Public and Private Educational Spending: Macroeconomic Implications</h3>
+<h3>
+  <a href="https://www.sciencedirect.com/science/article/pii/S0954349X2600113X?via%3Dihub" target="_blank">
+    Interplay of Public and Private Educational Spending: Macroeconomic Implications
+  </a>
+</h3>
 
 <div class="details">
   <a href="https://www.sciencedirect.com/science/article/pii/S0954349X2600113X?via%3Dihub">Structural Change and Economic Dynamics, 2026</a>
@@ -51,7 +59,11 @@ Achieving net-zero emissions requires not only technological innovation but also
 This paper examines how the composition of education financing shapes economic growth and income inequality. An overlapping-generations model with heterogeneous agents and non-homothetic education preferences shows that lower-income households demand more education relative to income but face tighter financing constraints, making the public–private mix central for distributional outcomes. Shifting toward public provision reduces inequality and promotes growth via human capital accumulation. System GMM estimates for OECD countries support these predictions: a one-unit increase in the public–private spending gap reduces the Gini coefficient by 6.4\% and raises GDP per capita by 2.5\%. These effects operate through higher tertiary attainment, which compresses income dispersion and enhances productivity. The results highlight that the structure, not just the level, of education financing shapes macroeconomic and distributional outcomes.
 </div>
 
-<h3>Implications of Schooling on Financial Assets</h3>
+<h3>
+  <a href="https://www.tandfonline.com/doi/epdf/10.1080/09645292.2025.2607110?needAccess=true" target="_blank">
+    Implications of Schooling on Financial Assets
+  </a>
+</h3>
 
 <div class="details">
   <a href="https://www.tandfonline.com/doi/epdf/10.1080/09645292.2025.2607110?needAccess=true">Education Economics, 2025</a>
@@ -65,7 +77,11 @@ This paper examines how the composition of education financing shapes economic g
 This research explores the impact of education on individuals' involvement with financial assets such as savings, annuities/IRAs, and stocks in the United States. Utilizing panel data and various identification strategies, the findings indicate that education is associated with greater investment in these assets, particularly among those with college and postgraduate degrees. The paper examines how higher incomes resulting from better education, improved financial behaviors, and an increased willingness to take risks contribute to these outcomes.
 </div>
 
-<h3>The Effects of Medicaid Expansion on the Racial/Ethnic Composition within Nursing Home Residents</h3>
+<h3>
+  <a href="https://link.springer.com/article/10.1186/s13561-024-00517-3" target="_blank">
+    The Effects of Medicaid Expansion on the Racial/Ethnic Composition within Nursing Home Residents
+  </a>
+</h3>
 
 <div class="details">
   <a href="https://link.springer.com/article/10.1186/s13561-024-00517-3">Health Economics Review, 2024</a>
