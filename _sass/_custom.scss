@@ -1463,6 +1463,23 @@ h2.onepage-heading {
     }
   }
 
+  /* -- Copyright note ------------------------------------- */
+  .photo-footer {
+    margin-top: 3rem;
+    text-align: center;
+    font-size: 0.82rem;
+    color: var(--color-muted);
+
+    a {
+      color: var(--color-muted);
+      text-decoration: underline;
+
+      &:hover {
+        color: var(--color-accent);
+      }
+    }
+  }
+
   /* -- Masonry grid --------------------------------------- */
   .masonry-grid {
     columns: 3;
