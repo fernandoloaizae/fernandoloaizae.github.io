@@ -24,7 +24,7 @@ redirect_from:
 <div class="pub-category-label">Publications</div>
 
 <h3>
-  <a href="https://www.sciencedirect.com/science/article/pii/S0313592626000664" target="_blank">
+  <a href="https://www.sciencedirect.com/science/article/pii/S0313592626000664" target="_blank" rel="noopener">
     The Complementary Role of Human Capital in Innovation-Driven Decarbonization
   </a>
 </h3>
@@ -42,7 +42,7 @@ Achieving net-zero emissions requires not only technological innovation but also
 </div>
 
 <h3>
-  <a href="https://www.sciencedirect.com/science/article/pii/S0954349X2600113X?via%3Dihub" target="_blank">
+  <a href="https://www.sciencedirect.com/science/article/pii/S0954349X2600113X?via%3Dihub" target="_blank" rel="noopener">
     Interplay of Public and Private Educational Spending: Macroeconomic Implications
   </a>
 </h3>
@@ -60,13 +60,13 @@ This paper examines how the composition of education financing shapes economic g
 </div>
 
 <h3>
-  <a href="https://www.tandfonline.com/doi/epdf/10.1080/09645292.2025.2607110?needAccess=true" target="_blank">
+  <a href="https://www.tandfonline.com/doi/full/10.1080/09645292.2025.2607110" target="_blank" rel="noopener">
     Implications of Schooling on Financial Assets
   </a>
 </h3>
 
 <div class="details">
-  <a href="https://www.tandfonline.com/doi/epdf/10.1080/09645292.2025.2607110?needAccess=true">Education Economics, 2025</a>
+  <a href="https://www.tandfonline.com/doi/full/10.1080/09645292.2025.2607110">Education Economics, 2025</a>
 </div>
 <div class="abstract-container">
   <button class="abstract-toggle" onclick="toggleAbstract('CH3')"><span class="triangle">&#9654;</span> Abstract</button>
@@ -78,7 +78,7 @@ This research explores the impact of education on individuals' involvement with 
 </div>
 
 <h3>
-  <a href="https://link.springer.com/article/10.1186/s13561-024-00517-3" target="_blank">
+  <a href="https://link.springer.com/article/10.1186/s13561-024-00517-3" target="_blank" rel="noopener">
     The Effects of Medicaid Expansion on the Racial/Ethnic Composition within Nursing Home Residents
   </a>
 </h3>

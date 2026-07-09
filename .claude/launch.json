@@ -3,8 +3,8 @@
   "configurations": [
     {
       "name": "jekyll",
-      "runtimeExecutable": "bash",
-      "runtimeArgs": ["-lc", "cd '/Users/fernandoloaizae/Library/CloudStorage/OneDrive-Personal/GitHub/fernandoloaizae.github.io/.claude/worktrees/gifted-mcclintock' && bundle exec jekyll serve --port 4000 --baseurl ''"],
+      "runtimeExecutable": "python3",
+      "runtimeArgs": ["-m", "http.server", "4000", "--directory", "/private/tmp/claude-501/-Users-fernandoloaizae-Desktop-Github-fernandoloaizae-github-io/99d6afbc-96af-4f0e-9974-bfb47553bead/scratchpad/_site"],
       "port": 4000
     }
   ]
