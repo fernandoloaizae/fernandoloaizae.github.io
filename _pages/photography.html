@@ -18,6 +18,14 @@ body_class: page-photography
   <header class="photo-header">
     <h1 class="photo-header__title">Photography</h1>
     <p class="photo-header__sub">Wildlife &amp; nature from the field</p>
+    <p class="photo-header__intro">
+      Most of these photos involved considerably more waiting than photography. In fact, my
+      camera has probably spent more time pointed at empty bushes than at actual animals.
+      Spending time looking for wildlife has become one of my favorite ways to travel, and
+      it is also a big part of why I ended up researching environmental policy. I like
+      understanding how humans affect the natural world, but I also enjoy simply sitting
+      quietly and watching it.
+    </p>
   </header>
 
   {% assign all_photos = site.static_files | where_exp: "f", "f.path contains '/images/photography/'" %}

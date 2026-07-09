@@ -9,5 +9,8 @@ main:
   - title: "Writing"
     url: /blog/
 
+  - title: "Photography"
+    url: /photography/
+
   - title: "Contact"
     url: /#contact

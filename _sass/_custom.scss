@@ -1451,6 +1451,15 @@ h2.onepage-heading {
       color: var(--color-muted);
       margin: 0;
     }
+
+    &__intro {
+      max-width: 640px;
+      margin: 1.5rem auto 0;
+      font-size: 0.95rem;
+      line-height: 1.7;
+      color: var(--color-text);
+      text-align: left;
+    }
   }
 
   /* -- Masonry grid --------------------------------------- */
