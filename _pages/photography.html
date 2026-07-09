@@ -24,15 +24,16 @@ body_class: page-photography
 
   <div class="masonry-grid" id="gallery">
     {% for img in all_photos %}
-      {% unless img.name == '.gitkeep' %}
+      {% unless img.name == '.gitkeep' or img.path contains '/thumbs/' %}
         {% assign meta = site.data.photos | where: "file", img.name | first %}
+        {% assign thumb = img.path | replace: '/images/photography/', '/images/photography/thumbs/' %}
         <div class="masonry-item"
              data-src="{{ img.path }}"
              data-title="{{ meta.title | default: '' }}"
              data-description="{{ meta.description | default: '' }}"
              data-location="{{ meta.location | default: '' }}"
              data-date="{{ meta.date | default: '' }}">
-          <img src="{{ img.path }}" alt="{{ meta.title | default: 'Photo' }}" loading="lazy">
+          <img src="{{ thumb }}" alt="{{ meta.title | default: 'Photo' }}" loading="lazy">
           {% if meta.title %}
           <div class="masonry-item__hover">
             <span class="masonry-item__label">{{ meta.title }}</span>
