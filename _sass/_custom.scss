@@ -39,6 +39,12 @@
   --shadow-lg:  0 8px 32px rgba(0,0,0,0.12);
 }
 
+/* Only show focus outlines for keyboard navigation, not mouse clicks */
+a:focus:not(:focus-visible),
+button:focus:not(:focus-visible) {
+  outline: none;
+}
+
 /* ============================================================
    HOME PAGE GRID OVERRIDES
    (lets sections span full viewport width)
