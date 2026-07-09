@@ -40,12 +40,12 @@ Achieving net-zero emissions requires not only technological innovation but also
 <h3>Interplay of Public and Private Educational Spending: Macroeconomic Implications</h3>
 
 <div class="details">
-  <a href="/files/Public_Private.pdf">Structural Change and Economic Dynamics, 2026 (Forthcoming)</a>
+  <a href="https://www.sciencedirect.com/science/article/pii/S0954349X2600113X?via%3Dihub">Structural Change and Economic Dynamics, 2026</a>
 </div>
 <div class="abstract-container">
   <button class="abstract-toggle" onclick="toggleAbstract('CH1')"><span class="triangle">&#9654;</span> Abstract</button>
   <span class="separator">|</span>
-  <a href="/files/Public_Private.pdf" class="download-link">Published Paper</a>
+  <a href="https://www.sciencedirect.com/science/article/pii/S0954349X2600113X?via%3Dihub" class="download-link">Published Paper</a>
 </div>
 <div id="CH1" style="display:none; margin-top: 8px;">
 This paper examines how the composition of education financing shapes economic growth and income inequality. An overlapping-generations model with heterogeneous agents and non-homothetic education preferences shows that lower-income households demand more education relative to income but face tighter financing constraints, making the public–private mix central for distributional outcomes. Shifting toward public provision reduces inequality and promotes growth via human capital accumulation. System GMM estimates for OECD countries support these predictions: a one-unit increase in the public–private spending gap reduces the Gini coefficient by 6.4\% and raises GDP per capita by 2.5\%. These effects operate through higher tertiary attainment, which compresses income dispersion and enhances productivity. The results highlight that the structure, not just the level, of education financing shapes macroeconomic and distributional outcomes.
