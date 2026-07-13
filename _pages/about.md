@@ -145,17 +145,6 @@ Voluntary corporate climate frameworks now cover over 40% of global market capit
 
 <div class="pub-category-label" style="margin-top: 2.5rem;">Other Research</div>
 
-<h3>The Right of Self-Defense: Who is a Threat? <span class="coauthor">with Alessio Muscarnera</span></h3>
-
-<div class="abstract-container">
-  <button class="abstract-toggle" onclick="toggleAbstract('SYGL')"><span class="triangle">&#9654;</span> Abstract</button>
-  <span class="separator">|</span>
-  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4342111" class="download-link">Working Paper</a>
-</div>
-<div id="SYGL" style="display:none; margin-top: 8px;">
-This paper investigates the impact of Stand Your Ground laws on crime-related outcomes. Using a generalized difference-in-differences methodology, we find that the adoption of SYG laws increases racial and justifiable homicide rates, as well as hate crime incidents. These results challenge the idea that broadening the scope of self-defense laws increases public safety.
-</div>
-
 <h3>The Care Wave: Macroeconomic Impact of Prevention and Provision</h3>
 
 <div class="abstract-container">
