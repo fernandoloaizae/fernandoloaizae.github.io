@@ -143,6 +143,17 @@ This paper examines whether tying CEO compensation to environmental performance 
 Voluntary corporate climate frameworks now cover over 40% of global market capitalization, yet whether they reduce emissions or merely reshape how emissions are measured remains unknown. Here we show, using a staggered difference-in-differences design and CDP firm-level disclosures from 4,186 firms over 2016-2025, that Science Based Targets initiative (SBTi) approval reduces market-based Scope 2 emissions by approximately 31 percent but produces no detectable reduction in Scope 1 or location-based Scope 2 emissions. The reduction is confined to firms whose approved targets explicitly cover market-based Scope 2; firms without such coverage show no comparable change. Approved firms increase the renewable share of purchased electricity by 7.8 percentage points with no change in physical electricity consumption or grid carbon intensity, confirming the mechanism operates through contractual procurement. Voluntary standards bind the metric, not the molecules: where compliance is achievable through a single procurement decision, firms comply; where it requires physical transformation of operations, the same mechanism produces no effect.
 </div>
 
+<h3>Verifying Green Goals: Third-Party Assurance, Emissions Accounting, and Firm Behavior <span class="coauthor">with Benedict Probst</span></h3>
+
+<div class="abstract-container">
+  <button class="abstract-toggle" onclick="toggleAbstract('tpv')"><span class="triangle">&#9654;</span> Abstract</button>
+  <span class="separator">|</span>
+  <a href="" class="download-link">Working Paper</a>
+</div>
+<div id="tpv" style="display:none; margin-top: 8px;">
+We estimate the causal effect of third-party verification of corporate emissions using staggered adoption among CDP-reporting firms. Verification produces an immediate reporting effect in Scope 3, changing both category coverage and reported emissions. Also, a delayed behavioral effect in Scope 1, where emissions fall as fuel consumption declines. Scope 2 emissions do not change. These findings suggest that mandatory verification can improve emissions inventories and influence subsequent operational decisions.
+</div>
+
 <div class="pub-category-label" style="margin-top: 2.5rem;">Other Research</div>
 
 <h3>The Care Wave: Macroeconomic Impact of Prevention and Provision</h3>
