@@ -154,17 +154,6 @@ Voluntary corporate climate frameworks now cover over 40% of global market capit
 We estimate the causal effect of third-party verification of corporate emissions using staggered adoption among CDP-reporting firms. Verification produces an immediate reporting effect in Scope 3, changing both category coverage and reported emissions. Also, a delayed behavioral effect in Scope 1, where emissions fall as fuel consumption declines. Scope 2 emissions do not change. These findings suggest that mandatory verification can improve emissions inventories and influence subsequent operational decisions.
 </div>
 
-<h3>Education Spending and the Distributional Effects of Carbon Pricing"</h3>
-
-<div class="abstract-container">
-  <button class="abstract-toggle" onclick="toggleAbstract('cpeducineq')"><span class="triangle">&#9654;</span> Abstract</button>
-  <span class="separator">|</span>
-  <a href="/files/CP_Education_Ineq.pdf" class="download-link">Working Paper</a>
-</div>
-<div id="cpeducineq" style="display:none; margin-top: 8px;">
-Carbon pricing is the most widely adopted instrument for climate mitigation, yet its distributional consequences remain a major political obstacle to broader adoption. We examine how carbon pricing affects inequality and whether fiscal policy can mitigate its distributional costs. Using a staggered difference-in-differences design on a panel of 123 countries between 1996 and 2022, of which 40 adopt carbon pricing, we estimate its effects on inequality. We find that the adoption of carbon pricing increases the pre-redistribution (market) Gini coefficient by 2.5 points. Fiscal redistribution absorbs part of this effect, yet inequality still rises, with the post-redistribution (disposable) Gini increasing by 1.9 points. However, the average effect conceals large cross-country heterogeneity driven by fiscal priorities. Countries that allocate a higher share of public spending to education experience increases in market income inequality that are roughly 55% smaller, and disposable income increases roughly 47% smaller, than in countries that prioritise education less. These results point to education spending and carbon pricing as policy complements.
-</div>
-
 <div class="pub-category-label" style="margin-top: 2.5rem;">Other Research</div>
 
 <h3>The Care Wave: Macroeconomic Impact of Prevention and Provision</h3>
